@@ -23,7 +23,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [FairEmail](https://github.com/nullcpy/archive/blob/main/apps/fairemail/README.md) | 2026-10-26 |
 | [Firsty](https://github.com/nullcpy/archive/blob/main/apps/firsty/README.md) | 2026-10-29 |
 | [Google Keyboard](https://github.com/nullcpy/archive/blob/main/apps/googlekeyboard/README.md) | 2026-10-30 |
-| [Google Maps](https://github.com/nullcpy/archive/blob/main/apps/googlemaps/README.md) | 2026-10-29 |
+| [Google Maps](https://github.com/nullcpy/archive/blob/main/apps/googlemaps/README.md) | 2026-10-30 |
 | [Google Photos](https://github.com/nullcpy/archive/blob/main/apps/googlephotos/README.md) | 2026-10-30 |
 | [Google Recorder](https://github.com/nullcpy/archive/blob/main/apps/googlerecorder/README.md) | 2026-10-24 |
 | [HBO Max](https://github.com/nullcpy/archive/blob/main/apps/hbomax/README.md) | 2026-10-29 |
@@ -59,7 +59,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Sofascore](https://github.com/nullcpy/archive/blob/main/apps/sofascore/README.md) | 2026-10-26 |
 | [SoundCloud](https://github.com/nullcpy/archive/blob/main/apps/soundcloud/README.md) | 2026-10-24 |
 | [Strava](https://github.com/nullcpy/archive/blob/main/apps/strava/README.md) | 2026-10-29 |
-| [Telegram](https://github.com/nullcpy/archive/blob/main/apps/telegram/README.md) | 2026-10-28 |
+| [Telegram](https://github.com/nullcpy/archive/blob/main/apps/telegram/README.md) | 2026-10-30 |
 | [TeraBox](https://github.com/nullcpy/archive/blob/main/apps/terabox/README.md) | 2026-10-29 |
 | [Termius](https://github.com/nullcpy/archive/blob/main/apps/termius/README.md) | 2026-10-28 |
 | [The Weather Channel](https://github.com/nullcpy/archive/blob/main/apps/theweatherchannel/README.md) | 2026-10-28 |
