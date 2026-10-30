@@ -61,13 +61,18 @@ jobs:
         run: |
           python3 .rvb/.github/scripts/build_archive_pages.py \
             --manifests _data/manifests --out . --cap 50
+          # Pages serves this at /; without it the site builds and then 404s,
+          # which is exactly how it failed once.
+          test -f index.md || { echo "::error::generator wrote no root index.md" >&2; exit 1; }
 
       - name: Commit and push only if something changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           rm -rf _data .rvb
-          git add README.md apps
+          # index.md is the Pages entry point and used to be left untracked,
+          # so every rebuild produced a site with no root page.
+          git add README.md index.md apps
           if git diff --cached --quiet; then
             echo "Pages unchanged; nothing to commit."
             exit 0
