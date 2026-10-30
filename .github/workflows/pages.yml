@@ -14,7 +14,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: pages
+  # NOT "pages": GitHub publishes legacy Pages builds through its own dynamic
+  # pages-build-deployment workflow, which holds that group. Sharing the name made
+  # our render wait for the Pages build while the Pages build waited for our
+  # commit, so both sat queued forever.
+  group: archive-pages-render
   cancel-in-progress: false
 
 jobs:
