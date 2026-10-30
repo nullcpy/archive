@@ -50,6 +50,9 @@ jobs:
       - name: Render the pages
         env:
           ARCHIVE_SITE_BASE: https://github.com/${{ github.repository }}/blob/main
+          # Two surfaces are written: README.md for github.com browsing and
+          # index.md for this Pages build, which links at that URL.
+          ARCHIVE_PAGES_BASE: https://nullcpy.github.io/archive/
           NULLSTORE_URL: https://fahim-ahmed05.github.io/nullstore
         run: |
           python3 .rvb/.github/scripts/build_archive_pages.py \
