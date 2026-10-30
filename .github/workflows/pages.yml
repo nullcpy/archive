@@ -1,0 +1,74 @@
+name: Pages
+
+# Renders the browsable site on this branch from the per-build manifests on
+# `website`. Triggered by rvb after each manifest publish, and on a schedule so a
+# lost dispatch converges instead of leaving the view stale: everything is derived
+# from scratch, so one run heals whatever the previous one got wrong.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 4 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Fetch the generator from rvb
+        # Imported, not mirrored: the rendering rules have one implementation and it
+        # lives with the pipeline that produces the data. rvb is public, so this needs
+        # no credential.
+        run: |
+          git clone --quiet --depth 1 --filter=blob:none --sparse \
+            https://github.com/nullcpy/rvb .rvb
+          git -C .rvb sparse-checkout set .github/scripts
+
+      - name: Export this build set's manifests
+        run: |
+          git fetch --quiet --depth 1 origin website
+          rm -rf _data && mkdir -p _data
+          git archive FETCH_HEAD manifests | tar -x -C _data
+          echo "manifests: $(find _data/manifests -name '*.json' | wc -l)"
+
+      - name: Render the pages
+        env:
+          ARCHIVE_SITE_BASE: https://github.com/${{ github.repository }}/blob/main
+          NULLSTORE_URL: https://fahim-ahmed05.github.io/nullstore
+        run: |
+          python3 .rvb/.github/scripts/build_archive_pages.py \
+            --manifests _data/manifests --out . --cap 50
+
+      - name: Commit and push only if something changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf _data .rvb
+          git add README.md apps
+          if git diff --cached --quiet; then
+            echo "Pages unchanged; nothing to commit."
+            exit 0
+          fi
+          git commit -q -m "chore: rebuild archive pages [skip ci]"
+          for i in 1 2 3; do
+            if git push -q origin HEAD:main; then
+              echo "published rebuilt pages"
+              exit 0
+            fi
+            echo "push attempt $i failed, rebasing" >&2
+            sleep 5
+            git pull --rebase -q origin main || git rebase --abort || true
+          done
+          echo "::error::could not push the rebuilt pages after 3 attempts" >&2
+          exit 1
