@@ -5,19 +5,19 @@
 ### Standard
 
 <details><summary><b>Applied patches: 11</b> . 1 build(s)</summary>
-
-- Block Motion Sensors
-- Block Popups & Rating Requests
-- Block Trackers
-- Brave Origin
-- Clean Start Page
-- Keep Tabs Open
-- Select Previous Tab on Close
-- Silence Promo Notifications
-- Skip Welcome Screens
-- Stop Background Sync
-- Stop Text Sharing with System
-
+<ul>
+<li>Block Motion Sensors</li>
+<li>Block Popups &amp; Rating Requests</li>
+<li>Block Trackers</li>
+<li>Brave Origin</li>
+<li>Clean Start Page</li>
+<li>Keep Tabs Open</li>
+<li>Select Previous Tab on Close</li>
+<li>Silence Promo Notifications</li>
+<li>Skip Welcome Screens</li>
+<li>Stop Background Sync</li>
+<li>Stop Text Sharing with System</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

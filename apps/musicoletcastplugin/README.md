@@ -5,9 +5,9 @@
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 4 build(s)</summary>
-
-- Remove app protection
-
+<ul>
+<li>Remove app protection</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

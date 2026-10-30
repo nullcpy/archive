@@ -5,19 +5,19 @@
 ### Standard
 
 <details><summary><b>Applied patches: 11</b> . 1 build(s)</summary>
-
-- Block tracking
-- Disable double-tap like
-- Download media
-- Feed filters
-- Hide Premium upsells
-- Hide ads
-- Hide promoted jobs
-- Hide suggested posts
-- Messaging
-- Open links directly
-- Sanitize share links
-
+<ul>
+<li>Block tracking</li>
+<li>Disable double-tap like</li>
+<li>Download media</li>
+<li>Feed filters</li>
+<li>Hide Premium upsells</li>
+<li>Hide ads</li>
+<li>Hide promoted jobs</li>
+<li>Hide suggested posts</li>
+<li>Messaging</li>
+<li>Open links directly</li>
+<li>Sanitize share links</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

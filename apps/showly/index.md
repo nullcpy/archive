@@ -9,10 +9,10 @@ title: Showly
 ### Standard
 
 <details><summary><b>Applied patches: 2</b> . 7 build(s)</summary>
-
-- AMOLED dark theme
-- Unlock premium
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Unlock premium</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

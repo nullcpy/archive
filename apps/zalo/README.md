@@ -5,28 +5,28 @@
 ### Standard
 
 <details><summary><b>Applied patches: 20</b> . 3 build(s)</summary>
-
-- Bypass Zalo Drive Contacts permission gate
-- Bypass native startup tamper check
-- Configurable native backup interval
-- Disable ads
-- Disable sponsored placements
-- Disable telemetry and crash reporting
-- Enable Google Drive photo backup
-- Enable avatar saving
-- Enable profile cover saving
-- Filter promo notifications
-- Hide Business Box
-- Hide Media Box
-- Hide chat list ads
-- Keep expired media accessible
-- Prefer original photo quality
-- Remove AD_ID permission
-- Remove media backup age limit
-- Suppress outbound seen status
-- Suppress outbound typing status
-- microG Drive support
-
+<ul>
+<li>Bypass Zalo Drive Contacts permission gate</li>
+<li>Bypass native startup tamper check</li>
+<li>Configurable native backup interval</li>
+<li>Disable ads</li>
+<li>Disable sponsored placements</li>
+<li>Disable telemetry and crash reporting</li>
+<li>Enable Google Drive photo backup</li>
+<li>Enable avatar saving</li>
+<li>Enable profile cover saving</li>
+<li>Filter promo notifications</li>
+<li>Hide Business Box</li>
+<li>Hide Media Box</li>
+<li>Hide chat list ads</li>
+<li>Keep expired media accessible</li>
+<li>Prefer original photo quality</li>
+<li>Remove AD_ID permission</li>
+<li>Remove media backup age limit</li>
+<li>Suppress outbound seen status</li>
+<li>Suppress outbound typing status</li>
+<li>microG Drive support</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

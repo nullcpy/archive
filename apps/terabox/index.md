@@ -9,14 +9,14 @@ title: TeraBox
 ### Standard
 
 <details><summary><b>Applied patches: 6</b> . 8 build(s)</summary>
-
-- Fix Google login
-- Hide ads
-- Hide consent form
-- Hide promotions
-- Hide video recommendations
-- Unlock Premium Plus
-
+<ul>
+<li>Fix Google login</li>
+<li>Hide ads</li>
+<li>Hide consent form</li>
+<li>Hide promotions</li>
+<li>Hide video recommendations</li>
+<li>Unlock Premium Plus</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

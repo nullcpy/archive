@@ -9,9 +9,9 @@ title: AdGuard
 ### Nightly
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Unlock Lifetime Premium
-
+<ul>
+<li>Unlock Lifetime Premium</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

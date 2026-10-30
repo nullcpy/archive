@@ -9,9 +9,9 @@ title: Disney+
 ### Android TV
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Disney+ Android TV
-
+<ul>
+<li>Disney+ Android TV</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

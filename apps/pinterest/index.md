@@ -9,42 +9,42 @@ title: Pinterest
 ### Standard
 
 <details><summary><b>Applied patches: 34</b> . 1 build(s)</summary>
-
-- Choose startup tab
-- Copy direct link
-- Disable AppsFlyer tracking
-- Disable Google Engage
-- Disable Google Engage worker
-- Disable ads
-- Disable email confirmation dialog
-- Disable third-party trackers
-- Download board
-- Download images in highest available quality
-- Download pin from long press
-- Download video
-- Filter pin menu actions
-- Hide Create nav button
-- Hide Notifications nav button
-- Hide Search nav button
-- Hide ad views
-- Hide comments
-- Hide greeting header buttons
-- Hide save for later tooltip
-- Hide screenshot share menu
-- Hide search history
-- Keep Home feed
-- Morphe runtime names
-- Morphe settings entry
-- Morphe settings screen (label)
-- Morphe settings screen (manifest)
-- Neutralize advertising ID
-- Open links in the default browser
-- Sanitize copied links
-- Sanitize shared links
-- Set pin as wallpaper
-- Show pin image information
-- Use the system share sheet
-
+<ul>
+<li>Choose startup tab</li>
+<li>Copy direct link</li>
+<li>Disable AppsFlyer tracking</li>
+<li>Disable Google Engage</li>
+<li>Disable Google Engage worker</li>
+<li>Disable ads</li>
+<li>Disable email confirmation dialog</li>
+<li>Disable third-party trackers</li>
+<li>Download board</li>
+<li>Download images in highest available quality</li>
+<li>Download pin from long press</li>
+<li>Download video</li>
+<li>Filter pin menu actions</li>
+<li>Hide Create nav button</li>
+<li>Hide Notifications nav button</li>
+<li>Hide Search nav button</li>
+<li>Hide ad views</li>
+<li>Hide comments</li>
+<li>Hide greeting header buttons</li>
+<li>Hide save for later tooltip</li>
+<li>Hide screenshot share menu</li>
+<li>Hide search history</li>
+<li>Keep Home feed</li>
+<li>Morphe runtime names</li>
+<li>Morphe settings entry</li>
+<li>Morphe settings screen (label)</li>
+<li>Morphe settings screen (manifest)</li>
+<li>Neutralize advertising ID</li>
+<li>Open links in the default browser</li>
+<li>Sanitize copied links</li>
+<li>Sanitize shared links</li>
+<li>Set pin as wallpaper</li>
+<li>Show pin image information</li>
+<li>Use the system share sheet</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

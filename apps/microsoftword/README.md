@@ -5,9 +5,9 @@
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Unlock Word
-
+<ul>
+<li>Unlock Word</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -19,13 +19,13 @@
 ### Standard
 
 <details><summary><b>Applied patches: 5</b> . 4 build(s)</summary>
-
-- Block Telemetry & Trackers
-- Bypass Code Transparency
-- Disable Login Requirement
-- Remove Shared User ID
-- Unlock 365 Family
-
+<ul>
+<li>Block Telemetry &amp; Trackers</li>
+<li>Bypass Code Transparency</li>
+<li>Disable Login Requirement</li>
+<li>Remove Shared User ID</li>
+<li>Unlock 365 Family</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

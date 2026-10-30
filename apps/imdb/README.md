@@ -5,9 +5,9 @@
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Remove IMDb's ads, trackers, and analytics
-
+<ul>
+<li>Remove IMDb's ads, trackers, and analytics</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

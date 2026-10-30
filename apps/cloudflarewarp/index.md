@@ -9,10 +9,10 @@ title: Cloudflare WARP
 ### Standard
 
 <details><summary><b>Applied patches: 2</b> . 1 build(s)</summary>
-
-- Disable Analytics / Telemetry
-- Spoof WARP+ Unlimited UI
-
+<ul>
+<li>Disable Analytics / Telemetry</li>
+<li>Spoof WARP+ Unlimited UI</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

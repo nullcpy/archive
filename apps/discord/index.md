@@ -9,63 +9,63 @@ title: Discord
 ### Standard
 
 <details><summary><b>Applied patches: 55</b> . 2 build(s)</summary>
-
-- Account switcher
-- Alert when you're removed
-- Always trust links and files
-- Anonymous file names
-- Bring back Tenor GIFs
-- Bulk delete messages
-- Clean channel names
-- Complete Quests automatically
-- Complete badges automatically
-- Copy profile bios
-- Custom themes
-- Disable advertising identifiers
-- Disable analytics
-- Disable crash reporting
-- Disable install attribution
-- Disable telemetry and touch logging
-- Double-tap to reply
-- Edit servers locally
-- Favourite any image or video
-- Fix link previews
-- Fix unknown mentions
-- Hide blocked or ignored messages
-- Hide typing indicator
-- Icon packs
-- Jump to first message
-- Keep Bluetooth audio clear in calls
-- Keep deleted messages
-- Load full-quality images
-- Material You colors
-- Message highlights
-- Pastel name colors
-- Read all button
-- Remove anything
-- Send Nitro stickers and emojis as links
-- Send audio as voice messages
-- Send long messages
-- Server info
-- Show device indicators
-- Show file sizes when attaching
-- Show hidden channels
-- Show owner and mod tags
-- Skip delete confirmation
-- Skip pin confirmation
-- Tap mentions to open profiles
-- Translate messages
-- Unlock Discord experiments
-- Unlock Nitro themes
-- Unlock app icons
-- Use your phone's emojis
-- Use your phone's font
-- User activity notifications
-- User and server reviews
-- Venus button on profile bar
-- Venus settings
-- Voice channel options
-
+<ul>
+<li>Account switcher</li>
+<li>Alert when you're removed</li>
+<li>Always trust links and files</li>
+<li>Anonymous file names</li>
+<li>Bring back Tenor GIFs</li>
+<li>Bulk delete messages</li>
+<li>Clean channel names</li>
+<li>Complete Quests automatically</li>
+<li>Complete badges automatically</li>
+<li>Copy profile bios</li>
+<li>Custom themes</li>
+<li>Disable advertising identifiers</li>
+<li>Disable analytics</li>
+<li>Disable crash reporting</li>
+<li>Disable install attribution</li>
+<li>Disable telemetry and touch logging</li>
+<li>Double-tap to reply</li>
+<li>Edit servers locally</li>
+<li>Favourite any image or video</li>
+<li>Fix link previews</li>
+<li>Fix unknown mentions</li>
+<li>Hide blocked or ignored messages</li>
+<li>Hide typing indicator</li>
+<li>Icon packs</li>
+<li>Jump to first message</li>
+<li>Keep Bluetooth audio clear in calls</li>
+<li>Keep deleted messages</li>
+<li>Load full-quality images</li>
+<li>Material You colors</li>
+<li>Message highlights</li>
+<li>Pastel name colors</li>
+<li>Read all button</li>
+<li>Remove anything</li>
+<li>Send Nitro stickers and emojis as links</li>
+<li>Send audio as voice messages</li>
+<li>Send long messages</li>
+<li>Server info</li>
+<li>Show device indicators</li>
+<li>Show file sizes when attaching</li>
+<li>Show hidden channels</li>
+<li>Show owner and mod tags</li>
+<li>Skip delete confirmation</li>
+<li>Skip pin confirmation</li>
+<li>Tap mentions to open profiles</li>
+<li>Translate messages</li>
+<li>Unlock Discord experiments</li>
+<li>Unlock Nitro themes</li>
+<li>Unlock app icons</li>
+<li>Use your phone's emojis</li>
+<li>Use your phone's font</li>
+<li>User activity notifications</li>
+<li>User and server reviews</li>
+<li>Venus button on profile bar</li>
+<li>Venus settings</li>
+<li>Voice channel options</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -74,58 +74,58 @@ title: Discord
 | [260416](https://github.com/nullcpy/archive/releases/tag/260416) | 2026-10-30 | `350.8-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260416/discord-venus-v350.8-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260416/discord-venus-v350.8-Stable-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 50</b> . 1 build(s)</summary>
-
-- Account switcher
-- Bring back Tenor GIFs
-- Bulk delete messages
-- Clean channel names
-- Complete Quests automatically
-- Complete badges automatically
-- Copy profile bios
-- Custom themes
-- Disable advertising identifiers
-- Disable analytics
-- Disable crash reporting
-- Disable install attribution
-- Disable telemetry and touch logging
-- Double-tap to reply
-- Favourite any image or video
-- Fix link previews
-- Fix unknown mentions
-- Hide blocked or ignored messages
-- Hide extra buttons
-- Hide the Quests banner
-- Hide the call button
-- Hide the gift button
-- Hide typing indicator
-- Icon packs
-- Jump to first message
-- Keep Bluetooth audio clear in calls
-- Keep deleted messages
-- Material You colors
-- Message highlights
-- Pastel name colors
-- Read all button
-- Send Nitro stickers and emojis as links
-- Send audio as voice messages
-- Send long messages
-- Server info
-- Show device indicators
-- Show file sizes when attaching
-- Show hidden channels
-- Skip delete confirmation
-- Spaces in channel names
-- Translate messages
-- Unlock Discord experiments
-- Unlock Nitro themes
-- Unlock app icons
-- Use your phone's emojis
-- Use your phone's font
-- User activity notifications
-- User and server reviews
-- Venus button on profile bar
-- Venus settings
-
+<ul>
+<li>Account switcher</li>
+<li>Bring back Tenor GIFs</li>
+<li>Bulk delete messages</li>
+<li>Clean channel names</li>
+<li>Complete Quests automatically</li>
+<li>Complete badges automatically</li>
+<li>Copy profile bios</li>
+<li>Custom themes</li>
+<li>Disable advertising identifiers</li>
+<li>Disable analytics</li>
+<li>Disable crash reporting</li>
+<li>Disable install attribution</li>
+<li>Disable telemetry and touch logging</li>
+<li>Double-tap to reply</li>
+<li>Favourite any image or video</li>
+<li>Fix link previews</li>
+<li>Fix unknown mentions</li>
+<li>Hide blocked or ignored messages</li>
+<li>Hide extra buttons</li>
+<li>Hide the Quests banner</li>
+<li>Hide the call button</li>
+<li>Hide the gift button</li>
+<li>Hide typing indicator</li>
+<li>Icon packs</li>
+<li>Jump to first message</li>
+<li>Keep Bluetooth audio clear in calls</li>
+<li>Keep deleted messages</li>
+<li>Material You colors</li>
+<li>Message highlights</li>
+<li>Pastel name colors</li>
+<li>Read all button</li>
+<li>Send Nitro stickers and emojis as links</li>
+<li>Send audio as voice messages</li>
+<li>Send long messages</li>
+<li>Server info</li>
+<li>Show device indicators</li>
+<li>Show file sizes when attaching</li>
+<li>Show hidden channels</li>
+<li>Skip delete confirmation</li>
+<li>Spaces in channel names</li>
+<li>Translate messages</li>
+<li>Unlock Discord experiments</li>
+<li>Unlock Nitro themes</li>
+<li>Unlock app icons</li>
+<li>Use your phone's emojis</li>
+<li>Use your phone's font</li>
+<li>User activity notifications</li>
+<li>User and server reviews</li>
+<li>Venus button on profile bar</li>
+<li>Venus settings</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -133,52 +133,52 @@ title: Discord
 | [260387](https://github.com/nullcpy/archive/releases/tag/260387) | 2026-10-27 | `350.8-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260387/discord-venus-v350.8-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260387/discord-venus-v350.8-Stable-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 44</b> . 1 build(s)</summary>
-
-- Account switcher
-- Bring back Tenor GIFs
-- Complete Quests automatically
-- Complete badges automatically
-- Copy profile bios
-- Custom themes
-- Disable advertising identifiers
-- Disable analytics
-- Disable crash reporting
-- Disable install attribution
-- Disable telemetry and touch logging
-- Double-tap to reply
-- Favourite any image or video
-- Fix link previews
-- Fix unknown mentions
-- Hide extra buttons
-- Hide the Quests banner
-- Hide the call button
-- Hide the gift button
-- Hide typing indicator
-- Icon packs
-- Jump to first message
-- Keep deleted messages
-- Message highlights
-- Pastel name colors
-- Read all button
-- Send Nitro stickers and emojis as links
-- Send audio as voice messages
-- Send long messages
-- Server info
-- Show device indicators
-- Show file sizes when attaching
-- Show hidden channels
-- Skip delete confirmation
-- Spaces in channel names
-- Translate messages
-- Unlock Nitro themes
-- Unlock app icons
-- Use your phone's emojis
-- Use your phone's font
-- User activity notifications
-- User and server reviews
-- Venus button on profile bar
-- Venus settings
-
+<ul>
+<li>Account switcher</li>
+<li>Bring back Tenor GIFs</li>
+<li>Complete Quests automatically</li>
+<li>Complete badges automatically</li>
+<li>Copy profile bios</li>
+<li>Custom themes</li>
+<li>Disable advertising identifiers</li>
+<li>Disable analytics</li>
+<li>Disable crash reporting</li>
+<li>Disable install attribution</li>
+<li>Disable telemetry and touch logging</li>
+<li>Double-tap to reply</li>
+<li>Favourite any image or video</li>
+<li>Fix link previews</li>
+<li>Fix unknown mentions</li>
+<li>Hide extra buttons</li>
+<li>Hide the Quests banner</li>
+<li>Hide the call button</li>
+<li>Hide the gift button</li>
+<li>Hide typing indicator</li>
+<li>Icon packs</li>
+<li>Jump to first message</li>
+<li>Keep deleted messages</li>
+<li>Message highlights</li>
+<li>Pastel name colors</li>
+<li>Read all button</li>
+<li>Send Nitro stickers and emojis as links</li>
+<li>Send audio as voice messages</li>
+<li>Send long messages</li>
+<li>Server info</li>
+<li>Show device indicators</li>
+<li>Show file sizes when attaching</li>
+<li>Show hidden channels</li>
+<li>Skip delete confirmation</li>
+<li>Spaces in channel names</li>
+<li>Translate messages</li>
+<li>Unlock Nitro themes</li>
+<li>Unlock app icons</li>
+<li>Use your phone's emojis</li>
+<li>Use your phone's font</li>
+<li>User activity notifications</li>
+<li>User and server reviews</li>
+<li>Venus button on profile bar</li>
+<li>Venus settings</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -190,8 +190,8 @@ title: Discord
 ### Standard
 
 <details><summary><b>Applied patches: 0</b> . 7 build(s)</summary>
-
-
+<ul>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -209,8 +209,8 @@ title: Discord
 ### Standard
 
 <details><summary><b>Applied patches: 0</b> . 7 build(s)</summary>
-
-
+<ul>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

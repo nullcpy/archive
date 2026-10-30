@@ -9,37 +9,37 @@ title: Reddit
 ### Standard
 
 <details><summary><b>Applied patches: 29</b> . 12 build(s)</summary>
-
-- App icon
-- Copy text
-- Custom font
-- Customize post layout
-- Disable modern home
-- Disable screenshot popup
-- Download location
-- Feed media max height
-- Force system font
-- Full width feed media
-- Hide Ask button
-- Hide Trending shelves
-- Hide ads
-- Hide communities shelf
-- Hide media viewer components
-- Hide navigation buttons
-- Hide sidebar components
-- Keep feed position
-- Media viewer black background
-- Media viewer fade
-- Open links directly
-- Open links externally
-- Redgifs audio
-- Remember collapsed comments
-- Remove subreddit dialog
-- Sanitize sharing links
-- Show flairs in home feed
-- Spoof signature
-- Start as guest
-
+<ul>
+<li>App icon</li>
+<li>Copy text</li>
+<li>Custom font</li>
+<li>Customize post layout</li>
+<li>Disable modern home</li>
+<li>Disable screenshot popup</li>
+<li>Download location</li>
+<li>Feed media max height</li>
+<li>Force system font</li>
+<li>Full width feed media</li>
+<li>Hide Ask button</li>
+<li>Hide Trending shelves</li>
+<li>Hide ads</li>
+<li>Hide communities shelf</li>
+<li>Hide media viewer components</li>
+<li>Hide navigation buttons</li>
+<li>Hide sidebar components</li>
+<li>Keep feed position</li>
+<li>Media viewer black background</li>
+<li>Media viewer fade</li>
+<li>Open links directly</li>
+<li>Open links externally</li>
+<li>Redgifs audio</li>
+<li>Remember collapsed comments</li>
+<li>Remove subreddit dialog</li>
+<li>Sanitize sharing links</li>
+<li>Show flairs in home feed</li>
+<li>Spoof signature</li>
+<li>Start as guest</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -60,37 +60,37 @@ title: Reddit
 ### Experimental
 
 <details><summary><b>Applied patches: 29</b> . 12 build(s)</summary>
-
-- App icon
-- Copy text
-- Custom font
-- Customize post layout
-- Disable modern home
-- Disable screenshot popup
-- Download location
-- Feed media max height
-- Force system font
-- Full width feed media
-- Hide Ask button
-- Hide Trending shelves
-- Hide ads
-- Hide communities shelf
-- Hide media viewer components
-- Hide navigation buttons
-- Hide sidebar components
-- Keep feed position
-- Media viewer black background
-- Media viewer fade
-- Open links directly
-- Open links externally
-- Redgifs audio
-- Remember collapsed comments
-- Remove subreddit dialog
-- Sanitize sharing links
-- Show flairs in home feed
-- Spoof signature
-- Start as guest
-
+<ul>
+<li>App icon</li>
+<li>Copy text</li>
+<li>Custom font</li>
+<li>Customize post layout</li>
+<li>Disable modern home</li>
+<li>Disable screenshot popup</li>
+<li>Download location</li>
+<li>Feed media max height</li>
+<li>Force system font</li>
+<li>Full width feed media</li>
+<li>Hide Ask button</li>
+<li>Hide Trending shelves</li>
+<li>Hide ads</li>
+<li>Hide communities shelf</li>
+<li>Hide media viewer components</li>
+<li>Hide navigation buttons</li>
+<li>Hide sidebar components</li>
+<li>Keep feed position</li>
+<li>Media viewer black background</li>
+<li>Media viewer fade</li>
+<li>Open links directly</li>
+<li>Open links externally</li>
+<li>Redgifs audio</li>
+<li>Remember collapsed comments</li>
+<li>Remove subreddit dialog</li>
+<li>Sanitize sharing links</li>
+<li>Show flairs in home feed</li>
+<li>Spoof signature</li>
+<li>Start as guest</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -113,17 +113,17 @@ title: Reddit
 ### Standard
 
 <details><summary><b>Applied patches: 9</b> . 1 build(s)</summary>
-
-- Colorize comment indent lines
-- Disable home screen redirect
-- Disable screenshot banner
-- Hide community menu badge
-- Hide post view counts
-- Hide related posts
-- Open external links directly
-- Remove ads and telemetry
-- Sanitize share links
-
+<ul>
+<li>Colorize comment indent lines</li>
+<li>Disable home screen redirect</li>
+<li>Disable screenshot banner</li>
+<li>Hide community menu badge</li>
+<li>Hide post view counts</li>
+<li>Hide related posts</li>
+<li>Open external links directly</li>
+<li>Remove ads and telemetry</li>
+<li>Sanitize share links</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

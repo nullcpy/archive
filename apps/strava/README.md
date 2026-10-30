@@ -5,18 +5,18 @@
 ### Standard
 
 <details><summary><b>Applied patches: 10</b> . 3 build(s)</summary>
-
-- Add 'Give Kudos' button to 'Group Activity'
-- Add activity export
-- Add media download
-- Add route export
-- Block Snowplow tracking
-- Disable Quick Edit
-- Enable password login
-- Hide distractions
-- Overwrite media upload parameters
-- Unlock subscription features
-
+<ul>
+<li>Add 'Give Kudos' button to 'Group Activity'</li>
+<li>Add activity export</li>
+<li>Add media download</li>
+<li>Add route export</li>
+<li>Block Snowplow tracking</li>
+<li>Disable Quick Edit</li>
+<li>Enable password login</li>
+<li>Hide distractions</li>
+<li>Overwrite media upload parameters</li>
+<li>Unlock subscription features</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

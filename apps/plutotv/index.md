@@ -9,11 +9,11 @@ title: PlutoTV
 ### Android TV
 
 <details><summary><b>Applied patches: 3</b> . 3 build(s)</summary>
-
-- Disable auto-updates
-- Mask live ad breaks (black screen + mute)
-- Skip ads
-
+<ul>
+<li>Disable auto-updates</li>
+<li>Mask live ad breaks (black screen + mute)</li>
+<li>Skip ads</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

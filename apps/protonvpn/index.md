@@ -9,21 +9,21 @@ title: Proton VPN
 ### Standard
 
 <details><summary><b>Applied patches: 13</b> . 8 build(s)</summary>
-
-- AMOLED dark theme
-- Custom accent color
-- Disable telemetry
-- Hide upgrade promotions
-- Material 3 switches
-- Remove server change delay
-- Show free server locations
-- Unlock LAN connections
-- Unlock NetShield
-- Unlock connection preferences
-- Unlock custom DNS
-- Unlock profiles
-- Unlock split tunneling
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Custom accent color</li>
+<li>Disable telemetry</li>
+<li>Hide upgrade promotions</li>
+<li>Material 3 switches</li>
+<li>Remove server change delay</li>
+<li>Show free server locations</li>
+<li>Unlock LAN connections</li>
+<li>Unlock NetShield</li>
+<li>Unlock connection preferences</li>
+<li>Unlock custom DNS</li>
+<li>Unlock profiles</li>
+<li>Unlock split tunneling</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

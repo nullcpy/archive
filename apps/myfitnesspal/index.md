@@ -9,10 +9,10 @@ title: MyFitnessPal
 ### Standard
 
 <details><summary><b>Applied patches: 2</b> . 2 build(s)</summary>
-
-- Disable Datadog telemetry
-- Enable Premium+
-
+<ul>
+<li>Disable Datadog telemetry</li>
+<li>Enable Premium+</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

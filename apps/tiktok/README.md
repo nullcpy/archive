@@ -5,35 +5,35 @@
 ### Standard
 
 <details><summary><b>Applied patches: 27</b> . 1 build(s)</summary>
-
-- Allow Screenshots
-- Always Show Publish Date
-- Battery & Resource Saver
-- Block P2P Video Relay
-- Block Popups & Prompts
-- Block Trackers
-- Block Trackers (Setup)
-- Bypass Mandatory Login
-- Clean Share Links
-- Comment Customizer
-- Custom Share Sheet
-- Customize Search
-- Declutter Navigation Bar
-- Device Privacy Guard
-- Disable On-Device AI
-- Download Without Watermark
-- Enable Profile Banner
-- Feed Ads & Content Filter
-- Force Auto-Scroll
-- Friends & Suggestions Filter
-- Hide Inbox Promos & Alerts
-- In-App Browser Privacy Guard
-- Instant Launch
-- Login Compatibility Fix
-- Offline Video Limit
-- Remove Extra Files
-- Show Seekbar
-
+<ul>
+<li>Allow Screenshots</li>
+<li>Always Show Publish Date</li>
+<li>Battery &amp; Resource Saver</li>
+<li>Block P2P Video Relay</li>
+<li>Block Popups &amp; Prompts</li>
+<li>Block Trackers</li>
+<li>Block Trackers (Setup)</li>
+<li>Bypass Mandatory Login</li>
+<li>Clean Share Links</li>
+<li>Comment Customizer</li>
+<li>Custom Share Sheet</li>
+<li>Customize Search</li>
+<li>Declutter Navigation Bar</li>
+<li>Device Privacy Guard</li>
+<li>Disable On-Device AI</li>
+<li>Download Without Watermark</li>
+<li>Enable Profile Banner</li>
+<li>Feed Ads &amp; Content Filter</li>
+<li>Force Auto-Scroll</li>
+<li>Friends &amp; Suggestions Filter</li>
+<li>Hide Inbox Promos &amp; Alerts</li>
+<li>In-App Browser Privacy Guard</li>
+<li>Instant Launch</li>
+<li>Login Compatibility Fix</li>
+<li>Offline Video Limit</li>
+<li>Remove Extra Files</li>
+<li>Show Seekbar</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -45,126 +45,126 @@
 ### Standard
 
 <details><summary><b>Applied patches: 118</b> . 4 build(s)</summary>
-
-- Advanced downloads
-- Allow Duet and Stitch
-- Allow screenshots and Circle to Search
-- Always show publish date
-- Always upload in HD
-- App lock
-- Automatic video advance
-- Block author button
-- Block contact list access
-- Block installed app scanning
-- Block popups
-- Block suggested video notifications
-- Camera and microphone indicator
-- Comment publish diagnostics
-- Comment send fix
-- Comment sort controls
-- Comment tools
-- Confirm feed interactions
-- Copy bio and IDs
-- Copy comments without username
-- Custom offline videos limit
-- Device privacy guard
-- Diagnostic tools
-- Disable login requirement
-- Disable screen capture detection
-- Disable telemetry
-- Disable the long press quick share
-- Disable the long press repost
-- Double-tap controls
-- Downloads
-- Drop the animated image cache
-- Enable voice comments
-- Expand activity list
-- Feature Gate Lab
-- Feed filter
-- Feed tab navigation
-- Feed text sizes
-- Fit the video to the screen
-- Fix Google login
-- Foldable split comment view
-- Follow diagnostics
-- Force show Auto scroll
-- Ghost mode
-- Hide CAPTCHA popups
-- Hide already seen videos
-- Hide comment popup ads
-- Hide comment typing suggestions
-- Hide feed LIVE button
-- Hide feed follow button
-- Hide feed save button
-- Hide feed search button
-- Hide floating promotions
-- Hide inbox items
-- Hide inbox stories
-- Hide profile shortcuts
-- Hide search suggestions
-- Hide suggested accounts
-- Hide the launcher shortcuts
-- Hide video overlays
-- Hold-and-slide 2x lock
-- In-app browser privacy guard
-- Keep a streak going
-- Keep playing in the background
-- Keep pulled sounds
-- Keep the Favorites tab
-- Keep the app language
-- Keep the screen's refresh rate
-- LIVE controls
-- Lift text length limits
-- Limit background traffic
-- Location access governor
-- Long-press controls
-- Mute feed videos
-- Network proxy
-- Not interested button
-- Notification controls
-- Open external links directly
-- Picture-in-picture
-- Play SDR instead of HDR
-- Playback quality
-- Playback speed
-- Prefer H.264 playback
-- Profile background
-- Remember clear display
-- Remove avatar rings
-- Repost diagnostics
-- Resource and battery governor
-- Resume videos after scrolling
-- SIM spoof
-- Sanitize sharing links
-- Settings
-- Share sheet tools
-- Show LIVE search
-- Show author region
-- Show commenter handle and region
-- Show engagement rate
-- Show exact counts
-- Show follow status
-- Show the progress bar
-- Show the progress bar thumbnail
-- Skip content warnings
-- Skip passkey sign-in
-- Skip the splash ad
-- Skip update checks
-- Stay on the video in full screen
-- Stop on-device AI profiling
-- Stop recording watch history
-- Stop saving search history
-- Stop search autoplay
-- Stop video looping
-- Story controls
-- Subtitle tools
-- Swipe-left controls
-- Translate comments
-- Turn off haptics
-- Turn off screen transitions
-- Use non-personalized search
-- Use system font
-
+<ul>
+<li>Advanced downloads</li>
+<li>Allow Duet and Stitch</li>
+<li>Allow screenshots and Circle to Search</li>
+<li>Always show publish date</li>
+<li>Always upload in HD</li>
+<li>App lock</li>
+<li>Automatic video advance</li>
+<li>Block author button</li>
+<li>Block contact list access</li>
+<li>Block installed app scanning</li>
+<li>Block popups</li>
+<li>Block suggested video notifications</li>
+<li>Camera and microphone indicator</li>
+<li>Comment publish diagnostics</li>
+<li>Comment send fix</li>
+<li>Comment sort controls</li>
+<li>Comment tools</li>
+<li>Confirm feed interactions</li>
+<li>Copy bio and IDs</li>
+<li>Copy comments without username</li>
+<li>Custom offline videos limit</li>
+<li>Device privacy guard</li>
+<li>Diagnostic tools</li>
+<li>Disable login requirement</li>
+<li>Disable screen capture detection</li>
+<li>Disable telemetry</li>
+<li>Disable the long press quick share</li>
+<li>Disable the long press repost</li>
+<li>Double-tap controls</li>
+<li>Downloads</li>
+<li>Drop the animated image cache</li>
+<li>Enable voice comments</li>
+<li>Expand activity list</li>
+<li>Feature Gate Lab</li>
+<li>Feed filter</li>
+<li>Feed tab navigation</li>
+<li>Feed text sizes</li>
+<li>Fit the video to the screen</li>
+<li>Fix Google login</li>
+<li>Foldable split comment view</li>
+<li>Follow diagnostics</li>
+<li>Force show Auto scroll</li>
+<li>Ghost mode</li>
+<li>Hide CAPTCHA popups</li>
+<li>Hide already seen videos</li>
+<li>Hide comment popup ads</li>
+<li>Hide comment typing suggestions</li>
+<li>Hide feed LIVE button</li>
+<li>Hide feed follow button</li>
+<li>Hide feed save button</li>
+<li>Hide feed search button</li>
+<li>Hide floating promotions</li>
+<li>Hide inbox items</li>
+<li>Hide inbox stories</li>
+<li>Hide profile shortcuts</li>
+<li>Hide search suggestions</li>
+<li>Hide suggested accounts</li>
+<li>Hide the launcher shortcuts</li>
+<li>Hide video overlays</li>
+<li>Hold-and-slide 2x lock</li>
+<li>In-app browser privacy guard</li>
+<li>Keep a streak going</li>
+<li>Keep playing in the background</li>
+<li>Keep pulled sounds</li>
+<li>Keep the Favorites tab</li>
+<li>Keep the app language</li>
+<li>Keep the screen's refresh rate</li>
+<li>LIVE controls</li>
+<li>Lift text length limits</li>
+<li>Limit background traffic</li>
+<li>Location access governor</li>
+<li>Long-press controls</li>
+<li>Mute feed videos</li>
+<li>Network proxy</li>
+<li>Not interested button</li>
+<li>Notification controls</li>
+<li>Open external links directly</li>
+<li>Picture-in-picture</li>
+<li>Play SDR instead of HDR</li>
+<li>Playback quality</li>
+<li>Playback speed</li>
+<li>Prefer H.264 playback</li>
+<li>Profile background</li>
+<li>Remember clear display</li>
+<li>Remove avatar rings</li>
+<li>Repost diagnostics</li>
+<li>Resource and battery governor</li>
+<li>Resume videos after scrolling</li>
+<li>SIM spoof</li>
+<li>Sanitize sharing links</li>
+<li>Settings</li>
+<li>Share sheet tools</li>
+<li>Show LIVE search</li>
+<li>Show author region</li>
+<li>Show commenter handle and region</li>
+<li>Show engagement rate</li>
+<li>Show exact counts</li>
+<li>Show follow status</li>
+<li>Show the progress bar</li>
+<li>Show the progress bar thumbnail</li>
+<li>Skip content warnings</li>
+<li>Skip passkey sign-in</li>
+<li>Skip the splash ad</li>
+<li>Skip update checks</li>
+<li>Stay on the video in full screen</li>
+<li>Stop on-device AI profiling</li>
+<li>Stop recording watch history</li>
+<li>Stop saving search history</li>
+<li>Stop search autoplay</li>
+<li>Stop video looping</li>
+<li>Story controls</li>
+<li>Subtitle tools</li>
+<li>Swipe-left controls</li>
+<li>Translate comments</li>
+<li>Turn off haptics</li>
+<li>Turn off screen transitions</li>
+<li>Use non-personalized search</li>
+<li>Use system font</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -179,146 +179,146 @@
 ### Standard
 
 <details><summary><b>Applied patches: 138</b> . 1 build(s)</summary>
-
-- AMOLED dark theme
-- Accent color
-- Advanced downloads
-- Allow Duet and Stitch
-- Allow screenshots and Circle to Search
-- Always show publish date
-- Always upload in HD
-- App lock
-- Automatic video advance
-- Block P2P video relay
-- Block author button
-- Block contact list access
-- Block installed app scanning
-- Block popups
-- Block suggested video notifications
-- Camera and microphone indicator
-- Comment publish diagnostics
-- Comment send fix
-- Comment sort controls
-- Comment tools
-- Confirm feed interactions
-- Copy bio and IDs
-- Copy comments without username
-- Custom launcher icon
-- Custom offline videos limit
-- Device privacy guard
-- Diagnostic tools
-- Disable login requirement
-- Disable screen capture detection
-- Disable telemetry
-- Disable the long press quick share
-- Disable the long press repost
-- Double-tap controls
-- Downloads
-- Drop the animated image cache
-- Enable voice comments
-- Expand activity list
-- Feature Gate Lab
-- Feature Gate Recorder
-- Feed filter
-- Feed tab navigation
-- Feed text sizes
-- Fit the video to the screen
-- Fix Google login
-- Foldable split comment view
-- Follow diagnostics
-- Ghost mode
-- Hide CAPTCHA popups
-- Hide Play Store update offer
-- Hide already seen videos
-- Hide comment popup ads
-- Hide comment typing suggestions
-- Hide feed LIVE button
-- Hide feed follow button
-- Hide feed save button
-- Hide feed search button
-- Hide floating promotions
-- Hide inbox items
-- Hide inbox stories
-- Hide profile shortcuts
-- Hide search suggestions
-- Hide suggested accounts
-- Hide the launcher shortcuts
-- Hide the risk control CAPTCHA
-- Hide video overlays
-- Hold-and-slide 2x lock
-- In-app browser privacy guard
-- Keep a streak going
-- Keep playing in the background
-- Keep pulled sounds
-- Keep the Favorites tab
-- Keep the app language
-- Keep the screen's brightness in the camera
-- Keep the screen's refresh rate
-- LIVE controls
-- Lift text length limits
-- Limit background traffic
-- Load all saved stickers
-- Location access governor
-- Long-press controls
-- Look like the store app
-- Mute feed videos
-- Network proxy
-- Network request report
-- Not interested button
-- Notification controls
-- Open external links directly
-- Open the comments at full height
-- Picture-in-picture
-- Play SDR instead of HDR
-- Playback quality
-- Playback speed
-- Prefer H.264 playback
-- Profile background
-- Region spoof
-- Remember clear display
-- Remove LIVE extras
-- Remove avatar rings
-- Remove content credential and card scanner assets
-- Remove creation tools
-- Remove voice tools
-- Report a newer phone to effects
-- Repost diagnostics
-- Resource and battery governor
-- Resume videos after scrolling
-- Run beside the store app
-- SIM spoof
-- Sanitize sharing links
-- Settings
-- Share sheet tools
-- Show LIVE search
-- Show author region
-- Show commenter handle and region
-- Show engagement rate
-- Show exact counts
-- Show follow status
-- Show the progress bar
-- Show the progress bar thumbnail
-- Skip content warnings
-- Skip first-launch setup
-- Skip passkey sign-in
-- Skip the splash ad
-- Skip update checks
-- Stay on the video in full screen
-- Stop on-device AI profiling
-- Stop recording watch history
-- Stop saving search history
-- Stop search autoplay
-- Stop video looping
-- Story controls
-- Subtitle tools
-- Swipe-left controls
-- Translate comments
-- Trust user certificates
-- Turn off haptics
-- Turn off screen transitions
-- Use non-personalized search
-- Use system font
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Accent color</li>
+<li>Advanced downloads</li>
+<li>Allow Duet and Stitch</li>
+<li>Allow screenshots and Circle to Search</li>
+<li>Always show publish date</li>
+<li>Always upload in HD</li>
+<li>App lock</li>
+<li>Automatic video advance</li>
+<li>Block P2P video relay</li>
+<li>Block author button</li>
+<li>Block contact list access</li>
+<li>Block installed app scanning</li>
+<li>Block popups</li>
+<li>Block suggested video notifications</li>
+<li>Camera and microphone indicator</li>
+<li>Comment publish diagnostics</li>
+<li>Comment send fix</li>
+<li>Comment sort controls</li>
+<li>Comment tools</li>
+<li>Confirm feed interactions</li>
+<li>Copy bio and IDs</li>
+<li>Copy comments without username</li>
+<li>Custom launcher icon</li>
+<li>Custom offline videos limit</li>
+<li>Device privacy guard</li>
+<li>Diagnostic tools</li>
+<li>Disable login requirement</li>
+<li>Disable screen capture detection</li>
+<li>Disable telemetry</li>
+<li>Disable the long press quick share</li>
+<li>Disable the long press repost</li>
+<li>Double-tap controls</li>
+<li>Downloads</li>
+<li>Drop the animated image cache</li>
+<li>Enable voice comments</li>
+<li>Expand activity list</li>
+<li>Feature Gate Lab</li>
+<li>Feature Gate Recorder</li>
+<li>Feed filter</li>
+<li>Feed tab navigation</li>
+<li>Feed text sizes</li>
+<li>Fit the video to the screen</li>
+<li>Fix Google login</li>
+<li>Foldable split comment view</li>
+<li>Follow diagnostics</li>
+<li>Ghost mode</li>
+<li>Hide CAPTCHA popups</li>
+<li>Hide Play Store update offer</li>
+<li>Hide already seen videos</li>
+<li>Hide comment popup ads</li>
+<li>Hide comment typing suggestions</li>
+<li>Hide feed LIVE button</li>
+<li>Hide feed follow button</li>
+<li>Hide feed save button</li>
+<li>Hide feed search button</li>
+<li>Hide floating promotions</li>
+<li>Hide inbox items</li>
+<li>Hide inbox stories</li>
+<li>Hide profile shortcuts</li>
+<li>Hide search suggestions</li>
+<li>Hide suggested accounts</li>
+<li>Hide the launcher shortcuts</li>
+<li>Hide the risk control CAPTCHA</li>
+<li>Hide video overlays</li>
+<li>Hold-and-slide 2x lock</li>
+<li>In-app browser privacy guard</li>
+<li>Keep a streak going</li>
+<li>Keep playing in the background</li>
+<li>Keep pulled sounds</li>
+<li>Keep the Favorites tab</li>
+<li>Keep the app language</li>
+<li>Keep the screen's brightness in the camera</li>
+<li>Keep the screen's refresh rate</li>
+<li>LIVE controls</li>
+<li>Lift text length limits</li>
+<li>Limit background traffic</li>
+<li>Load all saved stickers</li>
+<li>Location access governor</li>
+<li>Long-press controls</li>
+<li>Look like the store app</li>
+<li>Mute feed videos</li>
+<li>Network proxy</li>
+<li>Network request report</li>
+<li>Not interested button</li>
+<li>Notification controls</li>
+<li>Open external links directly</li>
+<li>Open the comments at full height</li>
+<li>Picture-in-picture</li>
+<li>Play SDR instead of HDR</li>
+<li>Playback quality</li>
+<li>Playback speed</li>
+<li>Prefer H.264 playback</li>
+<li>Profile background</li>
+<li>Region spoof</li>
+<li>Remember clear display</li>
+<li>Remove LIVE extras</li>
+<li>Remove avatar rings</li>
+<li>Remove content credential and card scanner assets</li>
+<li>Remove creation tools</li>
+<li>Remove voice tools</li>
+<li>Report a newer phone to effects</li>
+<li>Repost diagnostics</li>
+<li>Resource and battery governor</li>
+<li>Resume videos after scrolling</li>
+<li>Run beside the store app</li>
+<li>SIM spoof</li>
+<li>Sanitize sharing links</li>
+<li>Settings</li>
+<li>Share sheet tools</li>
+<li>Show LIVE search</li>
+<li>Show author region</li>
+<li>Show commenter handle and region</li>
+<li>Show engagement rate</li>
+<li>Show exact counts</li>
+<li>Show follow status</li>
+<li>Show the progress bar</li>
+<li>Show the progress bar thumbnail</li>
+<li>Skip content warnings</li>
+<li>Skip first-launch setup</li>
+<li>Skip passkey sign-in</li>
+<li>Skip the splash ad</li>
+<li>Skip update checks</li>
+<li>Stay on the video in full screen</li>
+<li>Stop on-device AI profiling</li>
+<li>Stop recording watch history</li>
+<li>Stop saving search history</li>
+<li>Stop search autoplay</li>
+<li>Stop video looping</li>
+<li>Story controls</li>
+<li>Subtitle tools</li>
+<li>Swipe-left controls</li>
+<li>Translate comments</li>
+<li>Trust user certificates</li>
+<li>Turn off haptics</li>
+<li>Turn off screen transitions</li>
+<li>Use non-personalized search</li>
+<li>Use system font</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

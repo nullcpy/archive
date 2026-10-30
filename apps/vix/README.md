@@ -5,10 +5,10 @@
 ### Android TV
 
 <details><summary><b>Applied patches: 2</b> . 1 build(s)</summary>
-
-- Override certificate pinning
-- Skip ads
-
+<ul>
+<li>Override certificate pinning</li>
+<li>Skip ads</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

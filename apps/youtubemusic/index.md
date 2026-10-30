@@ -9,57 +9,57 @@ title: YouTube Music
 ### Standard
 
 <details><summary><b>Applied patches: 48</b> . 13 build(s)</summary>
-
-- Android Auto
-- App refresh rate
-- Change header
-- Change miniplayer color
-- Change start page
-- Check watch history domain name resolution
-- Crossfade
-- Custom branding
-- Custom font
-- Disable DRC audio
-- Disable QUIC protocol
-- Disable dislike redirection
-- Downloads
-- Enable audio/video switch
-- Enable debugging
-- Enable exclusive audio playback
-- Enable forced miniplayer
-- Enable swipe to dismiss miniplayer
-- Force original audio
-- Force portrait orientation
-- GmsCore support
-- Hide ads
-- Hide buttons
-- Hide flyout menu components
-- Hide layout components
-- Hide music action buttons
-- Jam queue sharing
-- Media notification controls
-- Miniplayer previous and next buttons
-- Navigation bar
-- Play albums songs
-- Playback speed
-- Playlist track tap action
-- PoToken provider
-- Remember repeat state
-- Remember shuffle state
-- Remove background playback restrictions
-- Remove viewer discretion dialog
-- Return YouTube Dislike
-- Sanitize sharing links
-- Scrobbling
-- Settings menu filter
-- Skip silence
-- SponsorBlock
-- Spoof app version
-- Spoof video streams
-- Theme
-- Third-party lyrics
-- Module artifacts omit `GmsCore support`
-
+<ul>
+<li>Android Auto</li>
+<li>App refresh rate</li>
+<li>Change header</li>
+<li>Change miniplayer color</li>
+<li>Change start page</li>
+<li>Check watch history domain name resolution</li>
+<li>Crossfade</li>
+<li>Custom branding</li>
+<li>Custom font</li>
+<li>Disable DRC audio</li>
+<li>Disable QUIC protocol</li>
+<li>Disable dislike redirection</li>
+<li>Downloads</li>
+<li>Enable audio/video switch</li>
+<li>Enable debugging</li>
+<li>Enable exclusive audio playback</li>
+<li>Enable forced miniplayer</li>
+<li>Enable swipe to dismiss miniplayer</li>
+<li>Force original audio</li>
+<li>Force portrait orientation</li>
+<li>GmsCore support</li>
+<li>Hide ads</li>
+<li>Hide buttons</li>
+<li>Hide flyout menu components</li>
+<li>Hide layout components</li>
+<li>Hide music action buttons</li>
+<li>Jam queue sharing</li>
+<li>Media notification controls</li>
+<li>Miniplayer previous and next buttons</li>
+<li>Navigation bar</li>
+<li>Play albums songs</li>
+<li>Playback speed</li>
+<li>Playlist track tap action</li>
+<li>PoToken provider</li>
+<li>Remember repeat state</li>
+<li>Remember shuffle state</li>
+<li>Remove background playback restrictions</li>
+<li>Remove viewer discretion dialog</li>
+<li>Return YouTube Dislike</li>
+<li>Sanitize sharing links</li>
+<li>Scrobbling</li>
+<li>Settings menu filter</li>
+<li>Skip silence</li>
+<li>SponsorBlock</li>
+<li>Spoof app version</li>
+<li>Spoof video streams</li>
+<li>Theme</li>
+<li>Third-party lyrics</li>
+<li>Module artifacts omit <code>GmsCore support</code></li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -81,57 +81,57 @@ title: YouTube Music
 ### Experimental
 
 <details><summary><b>Applied patches: 48</b> . 13 build(s)</summary>
-
-- Android Auto
-- App refresh rate
-- Change header
-- Change miniplayer color
-- Change start page
-- Check watch history domain name resolution
-- Crossfade
-- Custom branding
-- Custom font
-- Disable DRC audio
-- Disable QUIC protocol
-- Disable dislike redirection
-- Downloads
-- Enable audio/video switch
-- Enable debugging
-- Enable exclusive audio playback
-- Enable forced miniplayer
-- Enable swipe to dismiss miniplayer
-- Force original audio
-- Force portrait orientation
-- GmsCore support
-- Hide ads
-- Hide buttons
-- Hide flyout menu components
-- Hide layout components
-- Hide music action buttons
-- Jam queue sharing
-- Media notification controls
-- Miniplayer previous and next buttons
-- Navigation bar
-- Play albums songs
-- Playback speed
-- Playlist track tap action
-- PoToken provider
-- Remember repeat state
-- Remember shuffle state
-- Remove background playback restrictions
-- Remove viewer discretion dialog
-- Return YouTube Dislike
-- Sanitize sharing links
-- Scrobbling
-- Settings menu filter
-- Skip silence
-- SponsorBlock
-- Spoof app version
-- Spoof video streams
-- Theme
-- Third-party lyrics
-- Module artifacts omit `GmsCore support`
-
+<ul>
+<li>Android Auto</li>
+<li>App refresh rate</li>
+<li>Change header</li>
+<li>Change miniplayer color</li>
+<li>Change start page</li>
+<li>Check watch history domain name resolution</li>
+<li>Crossfade</li>
+<li>Custom branding</li>
+<li>Custom font</li>
+<li>Disable DRC audio</li>
+<li>Disable QUIC protocol</li>
+<li>Disable dislike redirection</li>
+<li>Downloads</li>
+<li>Enable audio/video switch</li>
+<li>Enable debugging</li>
+<li>Enable exclusive audio playback</li>
+<li>Enable forced miniplayer</li>
+<li>Enable swipe to dismiss miniplayer</li>
+<li>Force original audio</li>
+<li>Force portrait orientation</li>
+<li>GmsCore support</li>
+<li>Hide ads</li>
+<li>Hide buttons</li>
+<li>Hide flyout menu components</li>
+<li>Hide layout components</li>
+<li>Hide music action buttons</li>
+<li>Jam queue sharing</li>
+<li>Media notification controls</li>
+<li>Miniplayer previous and next buttons</li>
+<li>Navigation bar</li>
+<li>Play albums songs</li>
+<li>Playback speed</li>
+<li>Playlist track tap action</li>
+<li>PoToken provider</li>
+<li>Remember repeat state</li>
+<li>Remember shuffle state</li>
+<li>Remove background playback restrictions</li>
+<li>Remove viewer discretion dialog</li>
+<li>Return YouTube Dislike</li>
+<li>Sanitize sharing links</li>
+<li>Scrobbling</li>
+<li>Settings menu filter</li>
+<li>Skip silence</li>
+<li>SponsorBlock</li>
+<li>Spoof app version</li>
+<li>Spoof video streams</li>
+<li>Theme</li>
+<li>Third-party lyrics</li>
+<li>Module artifacts omit <code>GmsCore support</code></li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -157,53 +157,53 @@ title: YouTube Music
 ### Standard
 
 <details><summary><b>Applied patches: 44</b> . 1 build(s)</summary>
-
-- App refresh rate
-- Bitrate default value
-- Bypass image region restrictions
-- Certificate spoof
-- Change share sheet
-- Change start page
-- Disable Cairo splash animation
-- Disable QUIC protocol
-- Disable dislike redirection
-- Disable forced auto captions
-- Downloads
-- Enable debug logging
-- Enable landscape mode
-- Flyout menu components
-- Force original audio
-- GmsCore support
-- Hide account components
-- Hide action bar components
-- Hide ads
-- Hide layout components
-- Navigation bar components
-- Player components
-- PoToken provider
-- Remove background playback restrictions
-- Remove viewer discretion dialog
-- Restore old style library shelf
-- Return YouTube Dislike
-- Return YouTube Username
-- Sanitize sharing links
-- Settings menu filter
-- Skip silence
-- SponsorBlock
-- Spoof app version
-- Spoof app version for lyrics
-- Spoof video streams
-- Theme
-- Third-party lyrics
-- Track crossfade
-- Translations for YouTube Music
-- Video playback
-- Watch history
-- Visual preferences icons for YouTube Music
-- Custom branding for YouTube Music
-- Settings for YouTube Music
-- Module artifacts omit `GmsCore support`
-
+<ul>
+<li>App refresh rate</li>
+<li>Bitrate default value</li>
+<li>Bypass image region restrictions</li>
+<li>Certificate spoof</li>
+<li>Change share sheet</li>
+<li>Change start page</li>
+<li>Disable Cairo splash animation</li>
+<li>Disable QUIC protocol</li>
+<li>Disable dislike redirection</li>
+<li>Disable forced auto captions</li>
+<li>Downloads</li>
+<li>Enable debug logging</li>
+<li>Enable landscape mode</li>
+<li>Flyout menu components</li>
+<li>Force original audio</li>
+<li>GmsCore support</li>
+<li>Hide account components</li>
+<li>Hide action bar components</li>
+<li>Hide ads</li>
+<li>Hide layout components</li>
+<li>Navigation bar components</li>
+<li>Player components</li>
+<li>PoToken provider</li>
+<li>Remove background playback restrictions</li>
+<li>Remove viewer discretion dialog</li>
+<li>Restore old style library shelf</li>
+<li>Return YouTube Dislike</li>
+<li>Return YouTube Username</li>
+<li>Sanitize sharing links</li>
+<li>Settings menu filter</li>
+<li>Skip silence</li>
+<li>SponsorBlock</li>
+<li>Spoof app version</li>
+<li>Spoof app version for lyrics</li>
+<li>Spoof video streams</li>
+<li>Theme</li>
+<li>Third-party lyrics</li>
+<li>Track crossfade</li>
+<li>Translations for YouTube Music</li>
+<li>Video playback</li>
+<li>Watch history</li>
+<li>Visual preferences icons for YouTube Music</li>
+<li>Custom branding for YouTube Music</li>
+<li>Settings for YouTube Music</li>
+<li>Module artifacts omit <code>GmsCore support</code></li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

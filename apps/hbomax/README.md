@@ -5,10 +5,10 @@
 ### Android TV
 
 <details><summary><b>Applied patches: 2</b> . 3 build(s)</summary>
-
-- HBO Max - Disable Ads
-- HBO Max - Prefer Ad-Free Stream
-
+<ul>
+<li>HBO Max - Disable Ads</li>
+<li>HBO Max - Prefer Ad-Free Stream</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

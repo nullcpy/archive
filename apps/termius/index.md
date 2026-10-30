@@ -9,9 +9,9 @@ title: Termius
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Server Auditor Premium
-
+<ul>
+<li>Server Auditor Premium</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

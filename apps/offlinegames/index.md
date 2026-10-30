@@ -9,12 +9,12 @@ title: Offline Games
 ### Standard
 
 <details><summary><b>Applied patches: 4</b> . 1 build(s)</summary>
-
-- Fast Offline Games startup
-- In-house ad not clickable
-- In-house ad only
-- Instant in-house ad close
-
+<ul>
+<li>Fast Offline Games startup</li>
+<li>In-house ad not clickable</li>
+<li>In-house ad only</li>
+<li>Instant in-house ad close</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

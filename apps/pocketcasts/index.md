@@ -9,9 +9,9 @@ title: Pocket Casts
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Unlock Patron
-
+<ul>
+<li>Unlock Patron</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

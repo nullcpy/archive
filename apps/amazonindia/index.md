@@ -9,16 +9,16 @@ title: Amazon India
 ### Standard
 
 <details><summary><b>Applied patches: 8</b> . 1 build(s)</summary>
-
-- Dark mode
-- Disable search suggestions tracking
-- Disable video autoplay
-- Fix Amazon manifest conflicts
-- Hide Rufus tab
-- Open links in browser
-- Price history charts
-- Remove ads
-
+<ul>
+<li>Dark mode</li>
+<li>Disable search suggestions tracking</li>
+<li>Disable video autoplay</li>
+<li>Fix Amazon manifest conflicts</li>
+<li>Hide Rufus tab</li>
+<li>Open links in browser</li>
+<li>Price history charts</li>
+<li>Remove ads</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

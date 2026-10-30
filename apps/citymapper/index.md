@@ -9,9 +9,9 @@ title: Citymapper
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Unlock Club
-
+<ul>
+<li>Unlock Club</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

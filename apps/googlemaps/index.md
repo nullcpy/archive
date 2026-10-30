@@ -9,35 +9,35 @@ title: Google Maps
 ### Standard
 
 <details><summary><b>Applied patches: 26</b> . 1 build(s)</summary>
-
-- 120 refresh rate
-- Account sheet cleanup
-- Any media app
-- Avoid Flock cameras
-- Better offline maps
-- Black theme
-- Blue pin
-- Bypass Play Services checks
-- Customization screen
-- Flock cameras
-- Hide ads and clutter
-- Legacy icon
-- Location provider toggle
-- Offline saved places
-- Proxy
-- Rectangle shapes
-- Remove permissions
-- Remove sign-in prompts
-- Remove telemetry
-- Speed cameras
-- Speeding chime
-- Trim account menu
-- Waze alerts
-- Zoom controls in navigation
-- Power saving mode
-- Add microG-RE support
-- Module artifacts omit `Add microG-RE support`
-
+<ul>
+<li>120 refresh rate</li>
+<li>Account sheet cleanup</li>
+<li>Any media app</li>
+<li>Avoid Flock cameras</li>
+<li>Better offline maps</li>
+<li>Black theme</li>
+<li>Blue pin</li>
+<li>Bypass Play Services checks</li>
+<li>Customization screen</li>
+<li>Flock cameras</li>
+<li>Hide ads and clutter</li>
+<li>Legacy icon</li>
+<li>Location provider toggle</li>
+<li>Offline saved places</li>
+<li>Proxy</li>
+<li>Rectangle shapes</li>
+<li>Remove permissions</li>
+<li>Remove sign-in prompts</li>
+<li>Remove telemetry</li>
+<li>Speed cameras</li>
+<li>Speeding chime</li>
+<li>Trim account menu</li>
+<li>Waze alerts</li>
+<li>Zoom controls in navigation</li>
+<li>Power saving mode</li>
+<li>Add microG-RE support</li>
+<li>Module artifacts omit <code>Add microG-RE support</code></li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -45,33 +45,33 @@ title: Google Maps
 | [260410](https://github.com/nullcpy/archive/releases/tag/260410) | 2026-10-29 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260410/google-maps-bearinmindcat-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260410/google-maps-bearinmindcat-v26.36.04.973607363-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260410/google-maps-bearinmindcat-module-v26.36.04.973607363-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260410/google-maps-bearinmindcat-module-v26.36.04.973607363-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 25</b> . 5 build(s)</summary>
-
-- 120 refresh rate
-- Account sheet cleanup
-- Any media app
-- Avoid Flock cameras
-- Better offline maps
-- Black theme
-- Blue pin
-- Bypass Play Services checks
-- Customization screen
-- Flock cameras
-- Hide ads and clutter
-- Legacy icon
-- Location provider toggle
-- Offline saved places
-- Proxy
-- Rectangle shapes
-- Remove permissions
-- Remove sign-in prompts
-- Remove telemetry
-- Speed cameras
-- Speeding chime
-- Trim account menu
-- Waze alerts
-- Zoom controls in navigation
-- Power saving mode
-
+<ul>
+<li>120 refresh rate</li>
+<li>Account sheet cleanup</li>
+<li>Any media app</li>
+<li>Avoid Flock cameras</li>
+<li>Better offline maps</li>
+<li>Black theme</li>
+<li>Blue pin</li>
+<li>Bypass Play Services checks</li>
+<li>Customization screen</li>
+<li>Flock cameras</li>
+<li>Hide ads and clutter</li>
+<li>Legacy icon</li>
+<li>Location provider toggle</li>
+<li>Offline saved places</li>
+<li>Proxy</li>
+<li>Rectangle shapes</li>
+<li>Remove permissions</li>
+<li>Remove sign-in prompts</li>
+<li>Remove telemetry</li>
+<li>Speed cameras</li>
+<li>Speeding chime</li>
+<li>Trim account menu</li>
+<li>Waze alerts</li>
+<li>Zoom controls in navigation</li>
+<li>Power saving mode</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -83,35 +83,35 @@ title: Google Maps
 | [260382](https://github.com/nullcpy/archive/releases/tag/260382) | 2026-10-26 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-v26.36.04.973607363-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-module-v26.36.04.973607363-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-module-v26.36.04.973607363-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 26</b> . 1 build(s)</summary>
-
-- 120 refresh rate
-- Account sheet cleanup
-- Any media app
-- Avoid Flock cameras
-- Better offline maps
-- Black theme
-- Blue pin
-- Bypass Play Services checks
-- Customization screen
-- Flock cameras
-- Hide ads and clutter
-- Legacy icon
-- Location provider toggle
-- Offline saved places
-- Proxy
-- Rectangle shapes
-- Remove permissions
-- Remove sign-in prompts
-- Remove telemetry
-- Speed cameras
-- Speeding chime
-- Trim account menu
-- Waze alerts
-- Zoom controls in navigation
-- Power saving mode
-- Add microG support
-- Module artifacts omit `Add microG support`
-
+<ul>
+<li>120 refresh rate</li>
+<li>Account sheet cleanup</li>
+<li>Any media app</li>
+<li>Avoid Flock cameras</li>
+<li>Better offline maps</li>
+<li>Black theme</li>
+<li>Blue pin</li>
+<li>Bypass Play Services checks</li>
+<li>Customization screen</li>
+<li>Flock cameras</li>
+<li>Hide ads and clutter</li>
+<li>Legacy icon</li>
+<li>Location provider toggle</li>
+<li>Offline saved places</li>
+<li>Proxy</li>
+<li>Rectangle shapes</li>
+<li>Remove permissions</li>
+<li>Remove sign-in prompts</li>
+<li>Remove telemetry</li>
+<li>Speed cameras</li>
+<li>Speeding chime</li>
+<li>Trim account menu</li>
+<li>Waze alerts</li>
+<li>Zoom controls in navigation</li>
+<li>Power saving mode</li>
+<li>Add microG support</li>
+<li>Module artifacts omit <code>Add microG support</code></li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -121,36 +121,36 @@ title: Google Maps
 ### UnGoogled
 
 <details><summary><b>Applied patches: 28</b> . 1 build(s)</summary>
-
-- 120 refresh rate
-- Account sheet cleanup
-- Any media app
-- Avoid Flock cameras
-- Better offline maps
-- Black theme
-- Blue pin
-- Bypass Play Services checks
-- Change app name
-- Change package name
-- Customization screen
-- Flock cameras
-- Hide ads and clutter
-- Legacy icon
-- Location provider toggle
-- Offline saved places
-- Proxy
-- Rectangle shapes
-- Remove permissions
-- Remove sign-in prompts
-- Remove telemetry
-- Speed cameras
-- Speeding chime
-- Trim account menu
-- Waze alerts
-- Zoom controls in navigation
-- Power saving mode
-- Add microG-RE support
-
+<ul>
+<li>120 refresh rate</li>
+<li>Account sheet cleanup</li>
+<li>Any media app</li>
+<li>Avoid Flock cameras</li>
+<li>Better offline maps</li>
+<li>Black theme</li>
+<li>Blue pin</li>
+<li>Bypass Play Services checks</li>
+<li>Change app name</li>
+<li>Change package name</li>
+<li>Customization screen</li>
+<li>Flock cameras</li>
+<li>Hide ads and clutter</li>
+<li>Legacy icon</li>
+<li>Location provider toggle</li>
+<li>Offline saved places</li>
+<li>Proxy</li>
+<li>Rectangle shapes</li>
+<li>Remove permissions</li>
+<li>Remove sign-in prompts</li>
+<li>Remove telemetry</li>
+<li>Speed cameras</li>
+<li>Speeding chime</li>
+<li>Trim account menu</li>
+<li>Waze alerts</li>
+<li>Zoom controls in navigation</li>
+<li>Power saving mode</li>
+<li>Add microG-RE support</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -158,35 +158,35 @@ title: Google Maps
 | [260410](https://github.com/nullcpy/archive/releases/tag/260410) | 2026-10-29 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260410/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260410/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 27</b> . 5 build(s)</summary>
-
-- 120 refresh rate
-- Account sheet cleanup
-- Any media app
-- Avoid Flock cameras
-- Better offline maps
-- Black theme
-- Blue pin
-- Bypass Play Services checks
-- Change app name
-- Change package name
-- Customization screen
-- Flock cameras
-- Hide ads and clutter
-- Legacy icon
-- Location provider toggle
-- Offline saved places
-- Proxy
-- Rectangle shapes
-- Remove permissions
-- Remove sign-in prompts
-- Remove telemetry
-- Speed cameras
-- Speeding chime
-- Trim account menu
-- Waze alerts
-- Zoom controls in navigation
-- Power saving mode
-
+<ul>
+<li>120 refresh rate</li>
+<li>Account sheet cleanup</li>
+<li>Any media app</li>
+<li>Avoid Flock cameras</li>
+<li>Better offline maps</li>
+<li>Black theme</li>
+<li>Blue pin</li>
+<li>Bypass Play Services checks</li>
+<li>Change app name</li>
+<li>Change package name</li>
+<li>Customization screen</li>
+<li>Flock cameras</li>
+<li>Hide ads and clutter</li>
+<li>Legacy icon</li>
+<li>Location provider toggle</li>
+<li>Offline saved places</li>
+<li>Proxy</li>
+<li>Rectangle shapes</li>
+<li>Remove permissions</li>
+<li>Remove sign-in prompts</li>
+<li>Remove telemetry</li>
+<li>Speed cameras</li>
+<li>Speeding chime</li>
+<li>Trim account menu</li>
+<li>Waze alerts</li>
+<li>Zoom controls in navigation</li>
+<li>Power saving mode</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -198,36 +198,36 @@ title: Google Maps
 | [260382](https://github.com/nullcpy/archive/releases/tag/260382) | 2026-10-26 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm64-v8a.apk) • [arm64](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm-v7a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 28</b> . 1 build(s)</summary>
-
-- 120 refresh rate
-- Account sheet cleanup
-- Any media app
-- Avoid Flock cameras
-- Better offline maps
-- Black theme
-- Blue pin
-- Bypass Play Services checks
-- Change app name
-- Change package name
-- Customization screen
-- Flock cameras
-- Hide ads and clutter
-- Legacy icon
-- Location provider toggle
-- Offline saved places
-- Proxy
-- Rectangle shapes
-- Remove permissions
-- Remove sign-in prompts
-- Remove telemetry
-- Speed cameras
-- Speeding chime
-- Trim account menu
-- Waze alerts
-- Zoom controls in navigation
-- Power saving mode
-- Add microG support
-
+<ul>
+<li>120 refresh rate</li>
+<li>Account sheet cleanup</li>
+<li>Any media app</li>
+<li>Avoid Flock cameras</li>
+<li>Better offline maps</li>
+<li>Black theme</li>
+<li>Blue pin</li>
+<li>Bypass Play Services checks</li>
+<li>Change app name</li>
+<li>Change package name</li>
+<li>Customization screen</li>
+<li>Flock cameras</li>
+<li>Hide ads and clutter</li>
+<li>Legacy icon</li>
+<li>Location provider toggle</li>
+<li>Offline saved places</li>
+<li>Proxy</li>
+<li>Rectangle shapes</li>
+<li>Remove permissions</li>
+<li>Remove sign-in prompts</li>
+<li>Remove telemetry</li>
+<li>Speed cameras</li>
+<li>Speeding chime</li>
+<li>Trim account menu</li>
+<li>Waze alerts</li>
+<li>Zoom controls in navigation</li>
+<li>Power saving mode</li>
+<li>Add microG support</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

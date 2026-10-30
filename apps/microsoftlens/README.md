@@ -5,9 +5,9 @@
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Hide OneDrive migration
-
+<ul>
+<li>Hide OneDrive migration</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

@@ -9,19 +9,19 @@ title: Proton Mail
 ### Standard
 
 <details><summary><b>Applied patches: 11</b> . 2 build(s)</summary>
-
-- AMOLED dark theme
-- Custom accent color
-- Hide layout components
-- Hide upgrade promotions
-- M3E loading indicator
-- Material 3 switches
-- Remove 'Sent from' signature
-- Remove free accounts limit
-- Scheduled Trash and Spam deletion
-- Swipe to switch accounts
-- Unlock custom time picker
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Custom accent color</li>
+<li>Hide layout components</li>
+<li>Hide upgrade promotions</li>
+<li>M3E loading indicator</li>
+<li>Material 3 switches</li>
+<li>Remove 'Sent from' signature</li>
+<li>Remove free accounts limit</li>
+<li>Scheduled Trash and Spam deletion</li>
+<li>Swipe to switch accounts</li>
+<li>Unlock custom time picker</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -30,19 +30,19 @@ title: Proton Mail
 | [260399](https://github.com/nullcpy/archive/releases/tag/260399) | 2026-10-28 | `7.11.11` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260399/proton-mail-hxreborn-v7.11.11-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260399/proton-mail-hxreborn-v7.11.11-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 11</b> . 5 build(s)</summary>
-
-- AMOLED dark theme
-- Custom accent color
-- Hide layout components
-- Hide upgrade promotions
-- Material 3 loading indicator
-- Material 3 switches
-- Remove 'Sent from' signature
-- Remove free accounts limit
-- Scheduled Trash and Spam deletion
-- Swipe to switch accounts
-- Unlock custom time picker
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Custom accent color</li>
+<li>Hide layout components</li>
+<li>Hide upgrade promotions</li>
+<li>Material 3 loading indicator</li>
+<li>Material 3 switches</li>
+<li>Remove 'Sent from' signature</li>
+<li>Remove free accounts limit</li>
+<li>Scheduled Trash and Spam deletion</li>
+<li>Swipe to switch accounts</li>
+<li>Unlock custom time picker</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -58,13 +58,13 @@ title: Proton Mail
 ### Standard
 
 <details><summary><b>Applied patches: 5</b> . 1 build(s)</summary>
-
-- AMOLED dark theme
-- Hide upgrade upselling
-- Remove 'Sent from' signature
-- Remove free accounts limit
-- Unlock custom time picker
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Hide upgrade upselling</li>
+<li>Remove 'Sent from' signature</li>
+<li>Remove free accounts limit</li>
+<li>Unlock custom time picker</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -76,11 +76,11 @@ title: Proton Mail
 ### Standard
 
 <details><summary><b>Applied patches: 3</b> . 1 build(s)</summary>
-
-- AMOLED Black Theme - Proton Mail (Experimental)
-- Declutter UI & Hide Upsells - Proton Mail (Experimental)
-- Enhanced Privacy & Tracker Blocker - Proton Mail (Experimental)
-
+<ul>
+<li>AMOLED Black Theme - Proton Mail (Experimental)</li>
+<li>Declutter UI &amp; Hide Upsells - Proton Mail (Experimental)</li>
+<li>Enhanced Privacy &amp; Tracker Blocker - Proton Mail (Experimental)</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

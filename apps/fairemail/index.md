@@ -9,9 +9,9 @@ title: FairEmail
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Enable Pro
-
+<ul>
+<li>Enable Pro</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

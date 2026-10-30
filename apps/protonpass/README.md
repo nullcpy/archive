@@ -5,16 +5,16 @@
 ### Standard
 
 <details><summary><b>Applied patches: 8</b> . 2 build(s)</summary>
-
-- AMOLED dark theme
-- Custom accent color
-- Hide layout components
-- Hide navigation bar on scroll
-- Hide promotional messages
-- Hide upgrade promotions
-- M3E loading indicator
-- Material 3 switches
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Custom accent color</li>
+<li>Hide layout components</li>
+<li>Hide navigation bar on scroll</li>
+<li>Hide promotional messages</li>
+<li>Hide upgrade promotions</li>
+<li>M3E loading indicator</li>
+<li>Material 3 switches</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -23,16 +23,16 @@
 | [260399](https://github.com/nullcpy/archive/releases/tag/260399) | 2026-10-28 | `1.41.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260399/proton-pass-hxreborn-v1.41.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260399/proton-pass-hxreborn-v1.41.5-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 8</b> . 3 build(s)</summary>
-
-- AMOLED dark theme
-- Custom accent color
-- Hide layout components
-- Hide navigation bar on scroll
-- Hide promotional messages
-- Hide upgrade promotions
-- Material 3 loading indicator
-- Material 3 switches
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Custom accent color</li>
+<li>Hide layout components</li>
+<li>Hide navigation bar on scroll</li>
+<li>Hide promotional messages</li>
+<li>Hide upgrade promotions</li>
+<li>Material 3 loading indicator</li>
+<li>Material 3 switches</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -42,15 +42,15 @@
 | [260381](https://github.com/nullcpy/archive/releases/tag/260381) | 2026-10-26 | `1.41.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260381/proton-pass-hxreborn-v1.41.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260381/proton-pass-hxreborn-v1.41.5-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 7</b> . 1 build(s)</summary>
-
-- AMOLED dark theme
-- Custom accent color
-- Hide layout components
-- Hide promotional messages
-- Hide upgrade promotions
-- Material 3 loading indicator
-- Material 3 switches
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Custom accent color</li>
+<li>Hide layout components</li>
+<li>Hide promotional messages</li>
+<li>Hide upgrade promotions</li>
+<li>Material 3 loading indicator</li>
+<li>Material 3 switches</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -58,14 +58,14 @@
 | [260374](https://github.com/nullcpy/archive/releases/tag/260374) | 2026-10-25 | `1.41.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260374/proton-pass-hxreborn-v1.41.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260374/proton-pass-hxreborn-v1.41.5-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 6</b> . 2 build(s)</summary>
-
-- AMOLED dark theme
-- Custom accent color
-- Hide layout components
-- Hide promotional messages
-- Hide upgrade promotions
-- Material 3 switches
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Custom accent color</li>
+<li>Hide layout components</li>
+<li>Hide promotional messages</li>
+<li>Hide upgrade promotions</li>
+<li>Material 3 switches</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

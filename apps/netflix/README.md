@@ -5,12 +5,12 @@
 ### Android TV
 
 <details><summary><b>Applied patches: 4</b> . 1 build(s)</summary>
-
-- Disable Netflix CertCheck
-- Remove Netflix ads (bundle engine)
-- Remove Netflix ads (loader)
-- Clone Netflix
-
+<ul>
+<li>Disable Netflix CertCheck</li>
+<li>Remove Netflix ads (bundle engine)</li>
+<li>Remove Netflix ads (loader)</li>
+<li>Clone Netflix</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

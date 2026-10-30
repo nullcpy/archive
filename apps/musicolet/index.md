@@ -9,9 +9,9 @@ title: Musicolet
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 4 build(s)</summary>
-
-- Unlock premium
-
+<ul>
+<li>Unlock premium</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

@@ -9,9 +9,9 @@ title: AccuWeather
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Unlock Premium+
-
+<ul>
+<li>Unlock Premium+</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

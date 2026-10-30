@@ -9,9 +9,9 @@ title: Firsty
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Auto-claim free data
-
+<ul>
+<li>Auto-claim free data</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

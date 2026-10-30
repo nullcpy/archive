@@ -9,14 +9,14 @@ title: Prime Video
 ### Android TV
 
 <details><summary><b>Applied patches: 6</b> . 3 build(s)</summary>
-
-- Bundle native ad-strip hook
-- Disable auto-updates
-- Load native ad-strip hook
-- Prime Video extension
-- Skip ads
-- Clone Prime Video
-
+<ul>
+<li>Bundle native ad-strip hook</li>
+<li>Disable auto-updates</li>
+<li>Load native ad-strip hook</li>
+<li>Prime Video extension</li>
+<li>Skip ads</li>
+<li>Clone Prime Video</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

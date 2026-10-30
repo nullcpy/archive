@@ -9,15 +9,15 @@ title: Messenger
 ### Standard
 
 <details><summary><b>Applied patches: 7</b> . 3 build(s)</summary>
-
-- Disable typing indicator
-- Hide Facebook buttons
-- Hide inbox ads
-- Hide inbox stories and notes tray
-- Hide inbox subtabs
-- Open links externally
-- Remove Meta AI
-
+<ul>
+<li>Disable typing indicator</li>
+<li>Hide Facebook buttons</li>
+<li>Hide inbox ads</li>
+<li>Hide inbox stories and notes tray</li>
+<li>Hide inbox subtabs</li>
+<li>Open links externally</li>
+<li>Remove Meta AI</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -31,16 +31,16 @@ title: Messenger
 ### Standard
 
 <details><summary><b>Applied patches: 8</b> . 1 build(s)</summary>
-
-- Allow screen capture
-- Block screenshot detection
-- Change package name
-- Disable media transcoding
-- Disable typing indicator
-- Enable chat heads
-- Hide inbox ads
-- Open links externally
-
+<ul>
+<li>Allow screen capture</li>
+<li>Block screenshot detection</li>
+<li>Change package name</li>
+<li>Disable media transcoding</li>
+<li>Disable typing indicator</li>
+<li>Enable chat heads</li>
+<li>Hide inbox ads</li>
+<li>Open links externally</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -52,70 +52,70 @@ title: Messenger
 ### Standard
 
 <details><summary><b>Applied patches: 62</b> . 1 build(s)</summary>
-
-- Allow chat bubbles
-- Allow screenshots
-- Auto reply
-- Bold and italic text
-- Fix videos that won't send
-- Hide AI sticker tools
-- Hide Chat Moments
-- Hide Facebook shortcuts
-- Hide Mark as read
-- Hide Meta AI
-- Hide Notifications tab
-- Hide People You May Know
-- Hide People tab
-- Hide Reels badge
-- Hide Your story when sharing
-- Hide ad banners in business chats
-- Hide avatar stickers
-- Hide business reply suggestions
-- Hide business typing suggestions
-- Hide chat promotions
-- Hide event prompts
-- Hide friend request cards
-- Hide growth prompts
-- Hide inbox promotions
-- Hide inbox tabs
-- Hide joined community chats
-- Hide read receipts
-- Hide stories and notes
-- Hide tab badges
-- Hide the recent photo card
-- Hide typing indicator
-- Hold stories at the end
-- Ignore the swipe up for disappearing messages
-- Install beside Meta apps
-- Keep a message log
-- Keep emoji search on emoji
-- Keep unsent messages
-- Mark as read button
-- Material You theme
-- Open settings from menu
-- Open web links externally
-- Open your gallery app
-- Pin more chats
-- Quiet incoming calls
-- Restore old emoji drawer
-- Restore screens on re-signed builds
-- Save any story
-- Send photos at original quality
-- Send videos without re-encoding
-- Slide chats in and out
-- Square profile pictures
-- Stop ad attribution uploads
-- Stop analytics uploads
-- Stop app list and device ID sharing
-- Stop inbox and ad link logging
-- Stop live connection logging
-- Stop nearby scans
-- Unlock app icons
-- Use system emoji
-- Use the phone's camera app
-- Use your own font
-- View stories anonymously
-
+<ul>
+<li>Allow chat bubbles</li>
+<li>Allow screenshots</li>
+<li>Auto reply</li>
+<li>Bold and italic text</li>
+<li>Fix videos that won't send</li>
+<li>Hide AI sticker tools</li>
+<li>Hide Chat Moments</li>
+<li>Hide Facebook shortcuts</li>
+<li>Hide Mark as read</li>
+<li>Hide Meta AI</li>
+<li>Hide Notifications tab</li>
+<li>Hide People You May Know</li>
+<li>Hide People tab</li>
+<li>Hide Reels badge</li>
+<li>Hide Your story when sharing</li>
+<li>Hide ad banners in business chats</li>
+<li>Hide avatar stickers</li>
+<li>Hide business reply suggestions</li>
+<li>Hide business typing suggestions</li>
+<li>Hide chat promotions</li>
+<li>Hide event prompts</li>
+<li>Hide friend request cards</li>
+<li>Hide growth prompts</li>
+<li>Hide inbox promotions</li>
+<li>Hide inbox tabs</li>
+<li>Hide joined community chats</li>
+<li>Hide read receipts</li>
+<li>Hide stories and notes</li>
+<li>Hide tab badges</li>
+<li>Hide the recent photo card</li>
+<li>Hide typing indicator</li>
+<li>Hold stories at the end</li>
+<li>Ignore the swipe up for disappearing messages</li>
+<li>Install beside Meta apps</li>
+<li>Keep a message log</li>
+<li>Keep emoji search on emoji</li>
+<li>Keep unsent messages</li>
+<li>Mark as read button</li>
+<li>Material You theme</li>
+<li>Open settings from menu</li>
+<li>Open web links externally</li>
+<li>Open your gallery app</li>
+<li>Pin more chats</li>
+<li>Quiet incoming calls</li>
+<li>Restore old emoji drawer</li>
+<li>Restore screens on re-signed builds</li>
+<li>Save any story</li>
+<li>Send photos at original quality</li>
+<li>Send videos without re-encoding</li>
+<li>Slide chats in and out</li>
+<li>Square profile pictures</li>
+<li>Stop ad attribution uploads</li>
+<li>Stop analytics uploads</li>
+<li>Stop app list and device ID sharing</li>
+<li>Stop inbox and ad link logging</li>
+<li>Stop live connection logging</li>
+<li>Stop nearby scans</li>
+<li>Unlock app icons</li>
+<li>Use system emoji</li>
+<li>Use the phone's camera app</li>
+<li>Use your own font</li>
+<li>View stories anonymously</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

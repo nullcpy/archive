@@ -5,11 +5,11 @@
 ### Standard
 
 <details><summary><b>Applied patches: 3</b> . 1 build(s)</summary>
-
-- Disable community tab
-- Disable force update dialog
-- Unlock Premium
-
+<ul>
+<li>Disable community tab</li>
+<li>Disable force update dialog</li>
+<li>Unlock Premium</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

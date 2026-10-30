@@ -9,25 +9,25 @@ title: Truecaller
 ### Standard
 
 <details><summary><b>Applied patches: 16</b> . 5 build(s)</summary>
-
-- Disable ads
-- Disable auto-launch
-- Disable contact upload
-- Disable nags
-- Disable telemetry
-- Disable update prompts
-- Enable Premium
-- GmsCore support
-- Hide Blocking tab
-- Hide Premium tab
-- Hide Scam feed
-- Hide Wear OS settings
-- Hide family button
-- Hide promotions
-- Spoof signature
-- Use SMS for verification codes
-- Module artifacts omit `GmsCore support`
-
+<ul>
+<li>Disable ads</li>
+<li>Disable auto-launch</li>
+<li>Disable contact upload</li>
+<li>Disable nags</li>
+<li>Disable telemetry</li>
+<li>Disable update prompts</li>
+<li>Enable Premium</li>
+<li>GmsCore support</li>
+<li>Hide Blocking tab</li>
+<li>Hide Premium tab</li>
+<li>Hide Scam feed</li>
+<li>Hide Wear OS settings</li>
+<li>Hide family button</li>
+<li>Hide promotions</li>
+<li>Spoof signature</li>
+<li>Use SMS for verification codes</li>
+<li>Module artifacts omit <code>GmsCore support</code></li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -43,15 +43,15 @@ title: Truecaller
 ### Standard
 
 <details><summary><b>Applied patches: 7</b> . 1 build(s)</summary>
-
-- Disable analytics
-- Enable premium features
-- Hide 'Get Premium' banners
-- Hide ads
-- Hide premium upgrade prompts
-- Mock premium
-- Remove Premium UI
-
+<ul>
+<li>Disable analytics</li>
+<li>Enable premium features</li>
+<li>Hide 'Get Premium' banners</li>
+<li>Hide ads</li>
+<li>Hide premium upgrade prompts</li>
+<li>Mock premium</li>
+<li>Remove Premium UI</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

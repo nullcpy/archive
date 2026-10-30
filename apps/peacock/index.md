@@ -9,10 +9,10 @@ title: Peacock
 ### Android TV
 
 <details><summary><b>Applied patches: 2</b> . 3 build(s)</summary>
-
-- Disable auto-updates
-- Skip ads
-
+<ul>
+<li>Disable auto-updates</li>
+<li>Skip ads</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

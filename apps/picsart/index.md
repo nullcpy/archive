@@ -9,11 +9,11 @@ title: PicsArt
 ### Standard
 
 <details><summary><b>Applied patches: 3</b> . 1 build(s)</summary>
-
-- Remove Ads
-- Remove Watermark
-- Unlock Premium
-
+<ul>
+<li>Remove Ads</li>
+<li>Remove Watermark</li>
+<li>Unlock Premium</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

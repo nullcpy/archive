@@ -9,11 +9,11 @@ title: Photomath
 ### Standard
 
 <details><summary><b>Applied patches: 3</b> . 3 build(s)</summary>
-
-- Hide update popup
-- Spoof device ID
-- Unlock plus
-
+<ul>
+<li>Hide update popup</li>
+<li>Spoof device ID</li>
+<li>Unlock plus</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

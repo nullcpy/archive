@@ -9,12 +9,12 @@ title: Google Photos
 ### Standard
 
 <details><summary><b>Applied patches: 3</b> . 3 build(s)</summary>
-
-- Fix selected account persistence
-- GmsCore support
-- Spoof features
-- Module artifacts omit `GmsCore support`
-
+<ul>
+<li>Fix selected account persistence</li>
+<li>GmsCore support</li>
+<li>Spoof features</li>
+<li>Module artifacts omit <code>GmsCore support</code></li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -28,14 +28,14 @@ title: Google Photos
 ### Standard
 
 <details><summary><b>Applied patches: 6</b> . 1 build(s)</summary>
-
-- AMOLED dark theme
-- Change package name
-- Enable DCIM folders backup control
-- Fix DCIM folder classification
-- GmsCore support
-- Spoof features
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>Change package name</li>
+<li>Enable DCIM folders backup control</li>
+<li>Fix DCIM folder classification</li>
+<li>GmsCore support</li>
+<li>Spoof features</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -47,15 +47,15 @@ title: Google Photos
 ### Standard
 
 <details><summary><b>Applied patches: 6</b> . 3 build(s)</summary>
-
-- AMOLED dark theme
-- DCIM & backup control
-- Flag manager & Toolkit
-- Media engine & AI fixes
-- Spoof features
-- GmsCore support
-- Module artifacts omit `GmsCore support`
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>DCIM &amp; backup control</li>
+<li>Flag manager &amp; Toolkit</li>
+<li>Media engine &amp; AI fixes</li>
+<li>Spoof features</li>
+<li>GmsCore support</li>
+<li>Module artifacts omit <code>GmsCore support</code></li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
@@ -67,15 +67,15 @@ title: Google Photos
 ### Unclone
 
 <details><summary><b>Applied patches: 7</b> . 3 build(s)</summary>
-
-- AMOLED dark theme
-- DCIM & backup control
-- Flag manager & Toolkit
-- Media engine & AI fixes
-- Spoof features
-- Official package name
-- GmsCore support
-
+<ul>
+<li>AMOLED dark theme</li>
+<li>DCIM &amp; backup control</li>
+<li>Flag manager &amp; Toolkit</li>
+<li>Media engine &amp; AI fixes</li>
+<li>Spoof features</li>
+<li>Official package name</li>
+<li>GmsCore support</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

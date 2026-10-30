@@ -5,10 +5,10 @@
 ### Standard
 
 <details><summary><b>Applied patches: 2</b> . 1 build(s)</summary>
-
-- Hide ads
-- Unlock premium
-
+<ul>
+<li>Hide ads</li>
+<li>Unlock premium</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

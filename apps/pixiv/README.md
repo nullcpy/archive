@@ -5,10 +5,10 @@
 ### Standard
 
 <details><summary><b>Applied patches: 2</b> . 1 build(s)</summary>
-
-- Hide ads
-- Remove popular search time limit
-
+<ul>
+<li>Hide ads</li>
+<li>Remove popular search time limit</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

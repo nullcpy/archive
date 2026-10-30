@@ -9,9 +9,9 @@ title: Google Recorder
 ### Standard
 
 <details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-
-- Remove device restrictions
-
+<ul>
+<li>Remove device restrictions</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

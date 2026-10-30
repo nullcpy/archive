@@ -9,9 +9,9 @@ title: Twitch
 ### Android TV
 
 <details><summary><b>Applied patches: 1</b> . 3 build(s)</summary>
-
-- Block TV ads
-
+<ul>
+<li>Block TV ads</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

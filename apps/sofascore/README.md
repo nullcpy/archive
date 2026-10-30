@@ -5,14 +5,14 @@
 ### Standard
 
 <details><summary><b>Applied patches: 6</b> . 2 build(s)</summary>
-
-- Block marketing notifications
-- Disable Facebook SDK
-- Disable ads
-- Disable rating prompts
-- Disable telemetry
-- Enable Premium
-
+<ul>
+<li>Block marketing notifications</li>
+<li>Disable Facebook SDK</li>
+<li>Disable ads</li>
+<li>Disable rating prompts</li>
+<li>Disable telemetry</li>
+<li>Enable Premium</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |

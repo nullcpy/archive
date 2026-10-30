@@ -9,11 +9,11 @@ title: SoundCloud
 ### Standard
 
 <details><summary><b>Applied patches: 3</b> . 1 build(s)</summary>
-
-- Disable analytics
-- Disable consent popup
-- Enable SoundCloud Go
-
+<ul>
+<li>Disable analytics</li>
+<li>Disable consent popup</li>
+<li>Enable SoundCloud Go</li>
+</ul>
 </details>
 
 | Build | Date | Version | Downloads |
