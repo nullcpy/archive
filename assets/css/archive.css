@@ -58,6 +58,12 @@ h1 {
   margin: 0 0 12px;
 }
 
+/* The brand marks only the product half of the name, exactly as the main site
+   does: <span class="accent">Null</span>Store Archive. */
+.accent {
+  color: var(--accent);
+}
+
 h2 {
   font-size: 1.4rem;
   font-weight: 700;
