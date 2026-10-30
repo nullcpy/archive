@@ -1,0 +1,11 @@
+title: NullStore Archive
+description: Every build NullForge has published, kept permanently.
+
+# Every generated page carries front matter, so one default layout covers the
+# root index and the per-app pages alike. README.md has no front matter, so Jekyll
+# copies it verbatim and the github.com rendering is untouched.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

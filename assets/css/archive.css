@@ -1,0 +1,172 @@
+/* Site chrome for the generated archive pages. The palette and the
+   prefers-color-scheme switch mirror the NullStore site so the two properties
+   read as one: dark unless the operating system asks for light.
+   Content files are written by rvb's build_archive_pages.py; only this
+   stylesheet and _layouts/default.html decide how they look. */
+
+:root {
+  color-scheme: dark;
+  --bg: #1a1814;
+  --bg-card: #201e1a;
+  --bg-chip: #2a2723;
+  --text: #f0ede8;
+  --text-2: #a89f94;
+  --text-3: #6b6358;
+  --accent: #00d084;
+  --link: #00d084;
+  --border: rgba(240, 237, 232, 0.08);
+  --radius: 12px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color-scheme: light;
+    --bg: #faf7f2;
+    --bg-card: #ffffff;
+    --bg-chip: #f0ebe3;
+    --text: #26221c;
+    --text-2: #6b6358;
+    --text-3: #9a9086;
+    /* The dark-mode green is too pale on paper; darken it for contrast. */
+    --link: #067a52;
+    --border: #e8e0d5;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 44px 20px 72px;
+}
+
+h1 {
+  font-size: clamp(1.7rem, 4.5vw, 2.6rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  margin: 0 0 12px;
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin: 36px 0 8px;
+}
+
+h3 {
+  font-size: 1.02rem;
+  font-weight: 600;
+  margin: 24px 0 6px;
+  color: var(--text-2);
+}
+
+p {
+  margin: 0 0 16px;
+  color: var(--text-2);
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.crumbs {
+  margin: 0 0 22px;
+  font-size: 0.9rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 14px 0 30px;
+  font-size: 0.9rem;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 9px 12px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+th {
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-3);
+}
+
+tbody tr:hover {
+  background: var(--bg-card);
+}
+
+code {
+  padding: 1px 5px;
+  border-radius: 5px;
+  background: var(--bg-chip);
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.86em;
+}
+
+details {
+  margin: 14px 0 4px;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+}
+
+details summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: var(--text-2);
+}
+
+details summary b {
+  color: var(--text);
+  font-weight: 700;
+}
+
+/* A canonical list can run past 100 patches; two columns keep the block
+   scannable without hiding anything behind a second click. */
+details ul {
+  margin: 10px 0 2px;
+  padding-left: 20px;
+  columns: 2;
+  column-gap: 32px;
+}
+
+details li {
+  margin: 2px 0;
+  font-size: 0.85rem;
+  color: var(--text-2);
+  break-inside: avoid;
+}
+
+@media (max-width: 640px) {
+  .wrap {
+    padding: 28px 16px 56px;
+  }
+
+  details ul {
+    columns: 1;
+  }
+}
