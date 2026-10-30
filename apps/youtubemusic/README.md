@@ -1,5 +1,64 @@
 # YouTube Music
 
+## anddea
+
+### Standard
+
+<details><summary><b>Applied patches: 44</b> . 2 build(s)</summary>
+<ul>
+<li>App refresh rate</li>
+<li>Bitrate default value</li>
+<li>Bypass image region restrictions</li>
+<li>Certificate spoof</li>
+<li>Change share sheet</li>
+<li>Change start page</li>
+<li>Disable Cairo splash animation</li>
+<li>Disable QUIC protocol</li>
+<li>Disable dislike redirection</li>
+<li>Disable forced auto captions</li>
+<li>Downloads</li>
+<li>Enable debug logging</li>
+<li>Enable landscape mode</li>
+<li>Flyout menu components</li>
+<li>Force original audio</li>
+<li>GmsCore support</li>
+<li>Hide account components</li>
+<li>Hide action bar components</li>
+<li>Hide ads</li>
+<li>Hide layout components</li>
+<li>Navigation bar components</li>
+<li>Player components</li>
+<li>PoToken provider</li>
+<li>Remove background playback restrictions</li>
+<li>Remove viewer discretion dialog</li>
+<li>Restore old style library shelf</li>
+<li>Return YouTube Dislike</li>
+<li>Return YouTube Username</li>
+<li>Sanitize sharing links</li>
+<li>Settings menu filter</li>
+<li>Skip silence</li>
+<li>SponsorBlock</li>
+<li>Spoof app version</li>
+<li>Spoof app version for lyrics</li>
+<li>Spoof video streams</li>
+<li>Theme</li>
+<li>Third-party lyrics</li>
+<li>Track crossfade</li>
+<li>Translations for YouTube Music</li>
+<li>Video playback</li>
+<li>Watch history</li>
+<li>Visual preferences icons for YouTube Music</li>
+<li>Custom branding for YouTube Music</li>
+<li>Settings for YouTube Music</li>
+<li>Module artifacts omit <code>GmsCore support</code></li>
+</ul>
+</details>
+
+| Build | Date | Version | Downloads |
+|---|---|---|---|
+| [260418](https://github.com/nullcpy/archive/releases/tag/260418) | 2026-10-30 | `9.15.51` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260418/youtube-music-anddea-v9.15.51-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260418/youtube-music-anddea-v9.15.51-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260418/youtube-music-anddea-module-v9.15.51-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260418/youtube-music-anddea-module-v9.15.51-arm-v7a.zip) |
+| [260368](https://github.com/nullcpy/archive/releases/tag/260368) | 2026-10-25 | `9.15.51` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-v9.15.51-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-v9.15.51-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-module-v9.15.51-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-module-v9.15.51-arm-v7a.zip) |
+
 ## Morphe
 
 ### Standard
@@ -147,62 +206,4 @@
 | [260362](https://github.com/nullcpy/archive/releases/tag/260362) | 2026-10-24 | `9.42.52` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260362/youtube-music-morphe-experimental-v9.42.52-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260362/youtube-music-morphe-experimental-v9.42.52-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260362/youtube-music-morphe-experimental-module-v9.42.52-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260362/youtube-music-morphe-experimental-module-v9.42.52-arm-v7a.zip) |
 | [260358](https://github.com/nullcpy/archive/releases/tag/260358) | 2026-10-24 | `9.42.52` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260358/youtube-music-morphe-experimental-v9.42.52-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260358/youtube-music-morphe-experimental-v9.42.52-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260358/youtube-music-morphe-experimental-module-v9.42.52-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260358/youtube-music-morphe-experimental-module-v9.42.52-arm-v7a.zip) |
 | [260350](https://github.com/nullcpy/archive/releases/tag/260350) | 2026-10-23 | `9.42.52` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260350/youtube-music-morphe-experimental-v9.42.52-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260350/youtube-music-morphe-experimental-v9.42.52-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260350/youtube-music-morphe-experimental-module-v9.42.52-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260350/youtube-music-morphe-experimental-module-v9.42.52-arm-v7a.zip) |
-
-## anddea
-
-### Standard
-
-<details><summary><b>Applied patches: 44</b> . 1 build(s)</summary>
-<ul>
-<li>App refresh rate</li>
-<li>Bitrate default value</li>
-<li>Bypass image region restrictions</li>
-<li>Certificate spoof</li>
-<li>Change share sheet</li>
-<li>Change start page</li>
-<li>Disable Cairo splash animation</li>
-<li>Disable QUIC protocol</li>
-<li>Disable dislike redirection</li>
-<li>Disable forced auto captions</li>
-<li>Downloads</li>
-<li>Enable debug logging</li>
-<li>Enable landscape mode</li>
-<li>Flyout menu components</li>
-<li>Force original audio</li>
-<li>GmsCore support</li>
-<li>Hide account components</li>
-<li>Hide action bar components</li>
-<li>Hide ads</li>
-<li>Hide layout components</li>
-<li>Navigation bar components</li>
-<li>Player components</li>
-<li>PoToken provider</li>
-<li>Remove background playback restrictions</li>
-<li>Remove viewer discretion dialog</li>
-<li>Restore old style library shelf</li>
-<li>Return YouTube Dislike</li>
-<li>Return YouTube Username</li>
-<li>Sanitize sharing links</li>
-<li>Settings menu filter</li>
-<li>Skip silence</li>
-<li>SponsorBlock</li>
-<li>Spoof app version</li>
-<li>Spoof app version for lyrics</li>
-<li>Spoof video streams</li>
-<li>Theme</li>
-<li>Third-party lyrics</li>
-<li>Track crossfade</li>
-<li>Translations for YouTube Music</li>
-<li>Video playback</li>
-<li>Watch history</li>
-<li>Visual preferences icons for YouTube Music</li>
-<li>Custom branding for YouTube Music</li>
-<li>Settings for YouTube Music</li>
-<li>Module artifacts omit <code>GmsCore support</code></li>
-</ul>
-</details>
-
-| Build | Date | Version | Downloads |
-|---|---|---|---|
-| [260368](https://github.com/nullcpy/archive/releases/tag/260368) | 2026-10-25 | `9.15.51` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-v9.15.51-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-v9.15.51-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-module-v9.15.51-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-module-v9.15.51-arm-v7a.zip) |
 
