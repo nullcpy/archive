@@ -34,6 +34,11 @@ jobs:
           git clone --quiet --depth 1 --filter=blob:none --sparse \
             https://github.com/nullcpy/rvb .rvb
           git -C .rvb sparse-checkout set .github/scripts
+          if [ ! -f .rvb/.github/scripts/build_archive_pages.py ]; then
+            echo "::error::build_archive_pages.py is missing from rvb's main:" \
+                 "the change is not pushed there yet, or it was renamed" >&2
+            exit 1
+          fi
 
       - name: Export this build set's manifests
         run: |
