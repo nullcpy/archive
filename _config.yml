@@ -1,5 +1,8 @@
 title: NullStore Archive
 description: Every build NullForge has published, kept permanently.
+# Project site: every relative_url in the layout is prefixed with this, and the
+# Jekyll build action passes no --baseurl of its own.
+baseurl: /archive
 
 # Every generated page carries front matter, so one default layout covers the
 # root index and the per-app pages alike. README.md has no front matter, so Jekyll

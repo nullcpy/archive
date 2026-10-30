@@ -1,28 +1,38 @@
 name: Pages
 
-# Renders the browsable site on this branch from the per-build manifests on
-# `website`. Triggered by rvb after each manifest publish, and on a schedule so a
-# lost dispatch converges instead of leaving the view stale: everything is derived
-# from scratch, so one run heals whatever the previous one got wrong.
+# Renders the browsable site from the per-build manifests on `website`, then
+# builds it with Jekyll and deploys the artifact. Triggered by rvb after each
+# manifest publish, by a push that touches the layout or stylesheet, and on a
+# schedule so a lost dispatch converges instead of leaving the view stale:
+# everything is derived from scratch, so one run heals whatever the previous one
+# got wrong.
+#
+# The deploy is what keeps the analytics token out of git: the layout carries a
+# placeholder and this job replaces it from the CF_BEACON_TOKEN secret in the
+# working tree only, after the content commit. A push made with GITHUB_TOKEN does
+# not trigger this workflow, so the render commit cannot loop back into it.
 
 on:
+  push:
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: "37 4 * * 1"
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
-  # NOT "pages": GitHub publishes legacy Pages builds through its own dynamic
-  # pages-build-deployment workflow, which holds that group. Sharing the name made
-  # our render wait for the Pages build while the Pages build waited for our
-  # commit, so both sat queued forever.
+  # Our own group, not "pages": the legacy pages-build-deployment workflow used
+  # to hold that name and deadlock against this one. That workflow disappears
+  # when the Pages source is Actions, but a private name costs nothing.
   group: archive-pages-render
   cancel-in-progress: false
 
 jobs:
-  render:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Check out main
@@ -89,3 +99,58 @@ jobs:
           done
           echo "::error::could not push the rebuilt pages after 3 attempts" >&2
           exit 1
+
+      - name: Inject the analytics beacon
+        # Runs after the commit on purpose: the working tree gets the real tag,
+        # the repository keeps only the placeholder.
+        env:
+          CF_BEACON_TOKEN: ${{ secrets.CF_BEACON_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          import pathlib
+          import sys
+
+          path = pathlib.Path("_layouts/default.html")
+          html = path.read_text(encoding="utf-8")
+          placeholder = "<!-- ANALYTICS-BEACON -->"
+          if placeholder not in html:
+              sys.exit("::error::the layout lost its analytics placeholder")
+
+          token = os.environ.get("CF_BEACON_TOKEN", "").strip()
+          if not token:
+              print("::warning::CF_BEACON_TOKEN is unset; deploying without analytics")
+              tag = ""
+          else:
+              data = json.dumps({"token": token})
+              tag = ('<script type="module" '
+                     'src="https://static.cloudflareinsights.com/beacon.min.js"\n'
+                     f"            data-cf-beacon='{data}'></script>")
+          path.write_text(html.replace(placeholder, tag), encoding="utf-8")
+          PY
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Upload the site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
