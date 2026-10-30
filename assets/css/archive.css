@@ -58,8 +58,8 @@ h1 {
   margin: 0 0 12px;
 }
 
-/* The brand marks only the product half of the name, exactly as the main site
-   does: <span class="accent">Null</span>Store Archive. */
+/* The brand carries the accent in full: <span class="accent">NullStore</span>
+   Archive. */
 .accent {
   color: var(--accent);
 }
