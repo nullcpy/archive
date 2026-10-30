@@ -2,7 +2,7 @@
 title: NullStore Archive
 ---
 
-# NullStore Archive
+<h1><span class="accent">Null</span>Store Archive</h1>
 
 Every build NullForge has published, kept permanently. For the newest versions and for one-tap Obtainium adds, use [NullStore](https://fahim-ahmed05.github.io/nullstore).
 
@@ -28,7 +28,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Firsty](https://nullcpy.github.io/archive/apps/firsty/) | 2026-10-29 |
 | [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | 2026-10-29 |
 | [Google Maps](https://nullcpy.github.io/archive/apps/googlemaps/) | 2026-10-29 |
-| [Google Photos](https://nullcpy.github.io/archive/apps/googlephotos/) | 2026-10-29 |
+| [Google Photos](https://nullcpy.github.io/archive/apps/googlephotos/) | 2026-10-30 |
 | [Google Recorder](https://nullcpy.github.io/archive/apps/googlerecorder/) | 2026-10-24 |
 | [HBO Max](https://nullcpy.github.io/archive/apps/hbomax/) | 2026-10-29 |
 | [IMDb](https://nullcpy.github.io/archive/apps/imdb/) | 2026-10-25 |
