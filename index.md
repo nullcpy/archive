@@ -26,7 +26,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Facebook](https://nullcpy.github.io/archive/apps/facebook/) | 2026-10-28 |
 | [FairEmail](https://nullcpy.github.io/archive/apps/fairemail/) | 2026-10-26 |
 | [Firsty](https://nullcpy.github.io/archive/apps/firsty/) | 2026-10-29 |
-| [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | 2026-10-29 |
+| [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | 2026-10-30 |
 | [Google Maps](https://nullcpy.github.io/archive/apps/googlemaps/) | 2026-10-29 |
 | [Google Photos](https://nullcpy.github.io/archive/apps/googlephotos/) | 2026-10-30 |
 | [Google Recorder](https://nullcpy.github.io/archive/apps/googlerecorder/) | 2026-10-24 |
