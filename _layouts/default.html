@@ -28,7 +28,8 @@
       {{ content }}
     </main>
     <footer class="site">
-      <p>Last updated <time datetime="{{ site.time | date_to_xmlschema }}" data-local-time>{{ site.time | date: "%a, %d %b %Y %I:%M:%S %p UTC" }}</time></p>
+      {% assign t = site.time | date: "%a, %d %b %Y %I:%M:%S %p UTC" %}
+      <p>Last updated <time datetime="{{ site.time | date_to_xmlschema }}" data-local-time>{{ t }}</time></p>
     </footer>
   </div>
   <!-- Cloudflare Web Analytics. CI replaces this placeholder in the working tree
