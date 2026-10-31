@@ -7,9 +7,14 @@ name: Pages
 # everything is derived from scratch, so one run heals whatever the previous one
 # got wrong.
 #
+# The two surfaces live on separate branches. `main` keeps the github.com
+# README surface and the site chrome (layout, stylesheet, script, config); the
+# `site` branch keeps the Pages index surface plus a synced copy of that chrome,
+# and the Jekyll build reads only from `site`.
+#
 # The deploy is what keeps the analytics token out of git: the layout carries a
 # placeholder and this job replaces it from the CF_BEACON_TOKEN secret in the
-# working tree only, after the content commit. A push made with GITHUB_TOKEN does
+# working tree only, after the site commit. A push made with GITHUB_TOKEN does
 # not trigger this workflow, so the render commit cannot loop back into it.
 
 on:
@@ -40,6 +45,12 @@ jobs:
         with:
           ref: main
 
+      - name: Check out the site branch
+        uses: actions/checkout@v4
+        with:
+          ref: site
+          path: site
+
       - name: Fetch the generator from rvb
         # Imported, not mirrored: the rendering rules have one implementation and it
         # lives with the pipeline that produces the data. rvb is public, so this needs
@@ -65,44 +76,73 @@ jobs:
         env:
           ARCHIVE_SITE_BASE: https://github.com/${{ github.repository }}/blob/main
           # Two surfaces are written: README.md for github.com browsing and
-          # index.md for this Pages build, which links at that URL.
+          # index.md for the Pages build, which links at that URL.
           ARCHIVE_PAGES_BASE: https://nullcpy.github.io/archive/
           NULLSTORE_URL: https://fahim-ahmed05.github.io/nullstore
         run: |
+          rm -rf _gen
           python3 .rvb/.github/scripts/build_archive_pages.py \
-            --manifests _data/manifests --out . --cap 50
-          # Pages serves this at /; without it the site builds and then 404s,
+            --manifests _data/manifests --out _gen --cap 50
+          # Pages serves index.md at /; without it the site builds and then 404s,
           # which is exactly how it failed once.
-          test -f index.md || { echo "::error::generator wrote no root index.md" >&2; exit 1; }
+          test -f _gen/index.md || { echo "::error::generator wrote no root index.md" >&2; exit 1; }
 
-      - name: Commit and push only if something changed
+      - name: Commit the README surface to main
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           rm -rf _data .rvb
-          # index.md is the Pages entry point and used to be left untracked,
-          # so every rebuild produced a site with no root page.
-          git add README.md index.md apps
+          cp _gen/README.md README.md
+          # README.md and the numbered continuation pages are the github.com
+          # surface; index.md and page-*.md belong to the site branch.
+          rsync -a --include='*/' --include='README.md' --include='[0-9]*.md' \
+            --exclude='*' _gen/apps/ apps/
+          git add README.md apps
           if git diff --cached --quiet; then
-            echo "Pages unchanged; nothing to commit."
+            echo "README surface unchanged."
             exit 0
           fi
-          git commit -q -m "chore: rebuild archive pages [skip ci]"
+          git commit -q -m "chore: rebuild the archive README surface [skip ci]"
           for i in 1 2 3; do
             if git push -q origin HEAD:main; then
-              echo "published rebuilt pages"
+              echo "published the README surface"
               exit 0
             fi
             echo "push attempt $i failed, rebasing" >&2
             sleep 5
             git pull --rebase -q origin main || git rebase --abort || true
           done
-          echo "::error::could not push the rebuilt pages after 3 attempts" >&2
+          echo "::error::could not push the README surface after 3 attempts" >&2
           exit 1
 
+      - name: Sync the Pages surface to the site branch
+        run: |
+          git -C site config user.name "github-actions[bot]"
+          git -C site config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Rebuild the branch from the fresh render; the chrome is copied from
+          # main so a layout or stylesheet edit reaches the deploy without a
+          # second commit there.
+          rm -rf site/index.md site/apps site/_layouts site/assets \
+                 site/_config.yml site/favicon.svg
+          mkdir -p site/apps
+          cp _gen/index.md site/index.md
+          rsync -a --include='*/' --include='index.md' --include='page-*.md' \
+            --exclude='*' _gen/apps/ site/apps/
+          cp _config.yml site/_config.yml
+          cp -r _layouts site/_layouts
+          cp -r assets site/assets
+          cp favicon.svg site/favicon.svg
+          git -C site add -A
+          if git -C site diff --cached --quiet; then
+            echo "Pages surface unchanged."
+            exit 0
+          fi
+          git -C site commit -q -m "chore: rebuild the archive Pages surface [skip ci]"
+          git -C site push -q origin HEAD:site
+
       - name: Inject the analytics beacon
-        # Runs after the commit on purpose: the working tree gets the real tag,
-        # the repository keeps only the placeholder.
+        # Runs after the site commit on purpose: the working tree gets the real
+        # tag, the repository keeps only the placeholder.
         env:
           CF_BEACON_TOKEN: ${{ secrets.CF_BEACON_TOKEN }}
         run: |
@@ -112,11 +152,11 @@ jobs:
           import pathlib
           import sys
 
-          path = pathlib.Path("_layouts/default.html")
+          path = pathlib.Path("site/_layouts/default.html")
           html = path.read_text(encoding="utf-8")
           placeholder = "<!-- ANALYTICS-BEACON -->"
           if placeholder not in html:
-              sys.exit("::error::the layout lost its analytics placeholder")
+              sys.exit("::error::the site layout lost its analytics placeholder")
 
           token = os.environ.get("CF_BEACON_TOKEN", "").strip()
           if not token:
@@ -136,7 +176,7 @@ jobs:
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./
+          source: ./site
           destination: ./_site
 
       - name: Upload the site

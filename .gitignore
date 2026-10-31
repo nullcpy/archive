@@ -1,0 +1,11 @@
+# Generated Pages sources live on the `site` branch. The render writes both
+# surfaces into _gen and the workflow splits them: README.md plus the numbered
+# continuation pages go to main, index.md and page-*.md go to `site`.
+/index.md
+/apps/*/index.md
+/apps/*/page-*.md
+
+# Workflow scratch: the render output, the site checkout and the Jekyll build.
+/_gen/
+/site/
+/_site/
