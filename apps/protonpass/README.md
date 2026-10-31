@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 8</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 8</b> . 3 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
 <li>Custom accent color</li>
@@ -19,6 +19,7 @@
 
 | Build | Date | Version | Downloads |
 |---|---|---|---|
+| [260424](https://github.com/nullcpy/archive/releases/tag/260424) | 2026-10-31 | `1.41.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260424/proton-pass-hxreborn-v1.41.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260424/proton-pass-hxreborn-v1.41.5-arm-v7a.apk) |
 | [260411](https://github.com/nullcpy/archive/releases/tag/260411) | 2026-10-29 | `1.41.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260411/proton-pass-hxreborn-v1.41.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260411/proton-pass-hxreborn-v1.41.5-arm-v7a.apk) |
 | [260399](https://github.com/nullcpy/archive/releases/tag/260399) | 2026-10-28 | `1.41.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260399/proton-pass-hxreborn-v1.41.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260399/proton-pass-hxreborn-v1.41.5-arm-v7a.apk) |
 
