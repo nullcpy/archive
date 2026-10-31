@@ -1,24 +1,44 @@
-// Renders the home table's "Last build" cells relative to the viewer's clock.
-// The markup keeps the absolute date in the text and in datetime, so a reader
-// without this script, and github.com which never runs it, still sees the date.
+// Formats dates in the reader's time zone: the footer's build time and the home
+// table's last-build labels. The markup keeps an absolute value as the text, so
+// a reader without this script, and github.com which never runs it, still sees a
+// readable date.
 (function () {
   "use strict";
 
-  var nodes = document.querySelectorAll("time[data-relative]");
-  if (!nodes.length) {
-    return;
-  }
-
-  var now = new Date();
-  var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-
   function parse(value) {
-    var parts = value.split("-").map(Number);
-    return new Date(parts[0], parts[1] - 1, parts[2]);
+    if (!value) {
+      return null;
+    }
+    if (/^\d{4}-\d{2}-\d{2}$/.test(value)) {
+      var parts = value.split("-").map(Number);
+      return new Date(parts[0], parts[1] - 1, parts[2]);
+    }
+    var parsed = new Date(value);
+    return isNaN(parsed.getTime()) ? null : parsed;
   }
 
-  function label(then) {
-    var days = Math.round((today - then) / 86400000);
+  function localDay(date) {
+    return new Date(date.getFullYear(), date.getMonth(), date.getDate());
+  }
+
+  function formatLocal(date) {
+    return date.toLocaleString(undefined, {
+      weekday: "short",
+      day: "2-digit",
+      month: "short",
+      year: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+      second: "2-digit",
+      hour12: true,
+      timeZoneName: "short"
+    });
+  }
+
+  function relativeLabel(then) {
+    var today = localDay(new Date());
+    var target = localDay(then);
+    var days = Math.round((today - target) / 86400000);
     if (days <= 0) {
       return "today";
     }
@@ -28,9 +48,9 @@
     if (days < 30) {
       return days + " days ago";
     }
-    var months = (today.getFullYear() - then.getFullYear()) * 12
-      + (today.getMonth() - then.getMonth());
-    if (today.getDate() < then.getDate()) {
+    var months = (today.getFullYear() - target.getFullYear()) * 12
+      + (today.getMonth() - target.getMonth());
+    if (today.getDate() < target.getDate()) {
       months -= 1;
     }
     if (months < 12) {
@@ -40,13 +60,25 @@
     return years === 1 ? "1 year ago" : years + " years ago";
   }
 
-  Array.prototype.forEach.call(nodes, function (node) {
-    var value = node.getAttribute("datetime");
-    if (!value) {
-      return;
+  Array.prototype.forEach.call(
+    document.querySelectorAll("time[data-local-time]"),
+    function (node) {
+      var date = parse(node.getAttribute("datetime"));
+      if (date) {
+        node.textContent = formatLocal(date);
+      }
     }
-    var then = parse(value);
-    node.setAttribute("title", value);
-    node.textContent = label(then);
-  });
+  );
+
+  Array.prototype.forEach.call(
+    document.querySelectorAll("time[data-relative]"),
+    function (node) {
+      var date = parse(node.getAttribute("datetime"));
+      if (!date) {
+        return;
+      }
+      node.setAttribute("title", formatLocal(date));
+      node.textContent = relativeLabel(date);
+    }
+  );
 })();

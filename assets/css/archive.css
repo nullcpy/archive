@@ -41,7 +41,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -184,7 +184,7 @@ details li {
 
 footer.site {
   margin-top: 56px;
-  font-size: 0.82rem;
+  font-size: 0.86rem;
   color: var(--text-3);
 }
 
