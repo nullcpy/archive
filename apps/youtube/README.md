@@ -4,6 +4,125 @@
 
 ### Standard
 
+<details><summary><b>Applied patches: 109</b> . 1 build(s)</summary>
+<ul>
+<li>AI channel filter</li>
+<li>Add to queue</li>
+<li>Ambient mode</li>
+<li>App refresh rate</li>
+<li>Ask flyout menu</li>
+<li>Bypass image region restrictions</li>
+<li>Bypass link redirects</li>
+<li>Captions</li>
+<li>Change form factor</li>
+<li>Change header</li>
+<li>Change picture-in-picture actions</li>
+<li>Change start page</li>
+<li>Channel search</li>
+<li>Channel whitelist</li>
+<li>Check watch history domain name resolution</li>
+<li>Copy text</li>
+<li>Copy video link</li>
+<li>Custom branding</li>
+<li>Custom font</li>
+<li>Custom player overlay opacity</li>
+<li>DeArrow</li>
+<li>Disable DRC audio</li>
+<li>Disable QUIC protocol</li>
+<li>Disable Shorts resuming on startup</li>
+<li>Disable auto feed refresh</li>
+<li>Disable continue watching prompt</li>
+<li>Disable double tap actions</li>
+<li>Disable fullscreen gestures</li>
+<li>Disable haptic feedback</li>
+<li>Disable layout updates</li>
+<li>Disable player popup panels</li>
+<li>Disable playlist autoplay</li>
+<li>Disable rolling number animations</li>
+<li>Disable scrolling speed limit</li>
+<li>Disable sign in to TV popup</li>
+<li>Disable video codecs</li>
+<li>Double tap to seek</li>
+<li>Download post images</li>
+<li>Downloads</li>
+<li>Enable debugging</li>
+<li>Exit fullscreen mode</li>
+<li>Feed card layout</li>
+<li>Feed video actions</li>
+<li>Feed view count</li>
+<li>Force animations</li>
+<li>Force fullscreen landscape</li>
+<li>Force original audio</li>
+<li>Fullscreen video scale</li>
+<li>GmsCore support</li>
+<li>Hide Shorts components</li>
+<li>Hide ads</li>
+<li>Hide autoplay preview</li>
+<li>Hide end screen cards</li>
+<li>Hide end screen suggested video</li>
+<li>Hide info cards</li>
+<li>Hide layout components</li>
+<li>Hide player flyout menu components</li>
+<li>Hide player overlay buttons</li>
+<li>Hide related video overlay</li>
+<li>Hide related videos</li>
+<li>Hide status bar</li>
+<li>Hide timestamp</li>
+<li>Hide video action buttons</li>
+<li>Loop video</li>
+<li>Media notification controls</li>
+<li>Miniplayer</li>
+<li>Mute button</li>
+<li>Navigation bar</li>
+<li>Niconico comments</li>
+<li>Open Shorts in regular player</li>
+<li>Open channel of live avatar</li>
+<li>Open links externally</li>
+<li>Open system share sheet</li>
+<li>Open videos fullscreen</li>
+<li>Override YouTube Music buttons</li>
+<li>Picture-in-picture button</li>
+<li>Play all</li>
+<li>Playback buffer</li>
+<li>Playback in feeds</li>
+<li>Playback speed</li>
+<li>PoToken provider</li>
+<li>Reload video</li>
+<li>Remember live stream playback position</li>
+<li>Remove background playback restrictions</li>
+<li>Remove viewer discretion dialog</li>
+<li>Restore original titles</li>
+<li>Return YouTube Dislike</li>
+<li>Sanitize sharing links</li>
+<li>Save to Watch later</li>
+<li>Search comments</li>
+<li>Seekbar</li>
+<li>Series tracking</li>
+<li>Settings menu filter</li>
+<li>Shorts autoplay</li>
+<li>Skip live Shorts</li>
+<li>Skip silence</li>
+<li>SponsorBlock</li>
+<li>Spoof app version</li>
+<li>Spoof device dimensions</li>
+<li>Spoof video streams</li>
+<li>Swipe controls</li>
+<li>Theme</li>
+<li>Translate posts</li>
+<li>Video delay</li>
+<li>Video quality</li>
+<li>Voice over translation</li>
+<li>Wide search bar</li>
+<li>Shorts icon style</li>
+<li>Player icon style</li>
+<li>Module artifacts omit <code>GmsCore support</code></li>
+</ul>
+</details>
+
+| Build | Date | Version | Downloads |
+|---|---|---|---|
+| [260426](https://github.com/nullcpy/archive/releases/tag/260426) | 2026-10-31 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
+
 <details><summary><b>Applied patches: 108</b> . 3 build(s)</summary>
 <ul>
 <li>AI channel filter</li>
@@ -483,6 +602,125 @@
 | [260350](https://github.com/nullcpy/archive/releases/tag/260350) | 2026-10-23 | `21.23.492` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260350/youtube-morphe-v21.23.492-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260350/youtube-morphe-v21.23.492-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260350/youtube-morphe-module-v21.23.492-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260350/youtube-morphe-module-v21.23.492-arm-v7a.zip) |
 
 ### Experimental
+
+<details><summary><b>Applied patches: 109</b> . 1 build(s)</summary>
+<ul>
+<li>AI channel filter</li>
+<li>Add to queue</li>
+<li>Ambient mode</li>
+<li>App refresh rate</li>
+<li>Ask flyout menu</li>
+<li>Bypass image region restrictions</li>
+<li>Bypass link redirects</li>
+<li>Captions</li>
+<li>Change form factor</li>
+<li>Change header</li>
+<li>Change picture-in-picture actions</li>
+<li>Change start page</li>
+<li>Channel search</li>
+<li>Channel whitelist</li>
+<li>Check watch history domain name resolution</li>
+<li>Copy text</li>
+<li>Copy video link</li>
+<li>Custom branding</li>
+<li>Custom font</li>
+<li>Custom player overlay opacity</li>
+<li>DeArrow</li>
+<li>Disable DRC audio</li>
+<li>Disable QUIC protocol</li>
+<li>Disable Shorts resuming on startup</li>
+<li>Disable auto feed refresh</li>
+<li>Disable continue watching prompt</li>
+<li>Disable double tap actions</li>
+<li>Disable fullscreen gestures</li>
+<li>Disable haptic feedback</li>
+<li>Disable layout updates</li>
+<li>Disable player popup panels</li>
+<li>Disable playlist autoplay</li>
+<li>Disable rolling number animations</li>
+<li>Disable scrolling speed limit</li>
+<li>Disable sign in to TV popup</li>
+<li>Disable video codecs</li>
+<li>Double tap to seek</li>
+<li>Download post images</li>
+<li>Downloads</li>
+<li>Enable debugging</li>
+<li>Exit fullscreen mode</li>
+<li>Feed card layout</li>
+<li>Feed video actions</li>
+<li>Feed view count</li>
+<li>Force animations</li>
+<li>Force fullscreen landscape</li>
+<li>Force original audio</li>
+<li>Fullscreen video scale</li>
+<li>GmsCore support</li>
+<li>Hide Shorts components</li>
+<li>Hide ads</li>
+<li>Hide autoplay preview</li>
+<li>Hide end screen cards</li>
+<li>Hide end screen suggested video</li>
+<li>Hide info cards</li>
+<li>Hide layout components</li>
+<li>Hide player flyout menu components</li>
+<li>Hide player overlay buttons</li>
+<li>Hide related video overlay</li>
+<li>Hide related videos</li>
+<li>Hide status bar</li>
+<li>Hide timestamp</li>
+<li>Hide video action buttons</li>
+<li>Loop video</li>
+<li>Media notification controls</li>
+<li>Miniplayer</li>
+<li>Mute button</li>
+<li>Navigation bar</li>
+<li>Niconico comments</li>
+<li>Open Shorts in regular player</li>
+<li>Open channel of live avatar</li>
+<li>Open links externally</li>
+<li>Open system share sheet</li>
+<li>Open videos fullscreen</li>
+<li>Override YouTube Music buttons</li>
+<li>Picture-in-picture button</li>
+<li>Play all</li>
+<li>Playback buffer</li>
+<li>Playback in feeds</li>
+<li>Playback speed</li>
+<li>PoToken provider</li>
+<li>Reload video</li>
+<li>Remember live stream playback position</li>
+<li>Remove background playback restrictions</li>
+<li>Remove viewer discretion dialog</li>
+<li>Restore original titles</li>
+<li>Return YouTube Dislike</li>
+<li>Sanitize sharing links</li>
+<li>Save to Watch later</li>
+<li>Search comments</li>
+<li>Seekbar</li>
+<li>Series tracking</li>
+<li>Settings menu filter</li>
+<li>Shorts autoplay</li>
+<li>Skip live Shorts</li>
+<li>Skip silence</li>
+<li>SponsorBlock</li>
+<li>Spoof app version</li>
+<li>Spoof device dimensions</li>
+<li>Spoof video streams</li>
+<li>Swipe controls</li>
+<li>Theme</li>
+<li>Translate posts</li>
+<li>Video delay</li>
+<li>Video quality</li>
+<li>Voice over translation</li>
+<li>Wide search bar</li>
+<li>Shorts icon style</li>
+<li>Player icon style</li>
+<li>Module artifacts omit <code>GmsCore support</code></li>
+</ul>
+</details>
+
+| Build | Date | Version | Downloads |
+|---|---|---|---|
+| [260426](https://github.com/nullcpy/archive/releases/tag/260426) | 2026-10-31 | `21.44.528` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-v21.44.528-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-v21.44.528-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-module-v21.44.528-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-module-v21.44.528-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 108</b> . 3 build(s)</summary>
 <ul>
