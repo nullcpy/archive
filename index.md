@@ -26,7 +26,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Facebook](https://nullcpy.github.io/archive/apps/facebook/) | <time datetime="2026-10-28T21:22:56Z" data-relative>2026-10-28</time> |
 | [FairEmail](https://nullcpy.github.io/archive/apps/fairemail/) | <time datetime="2026-10-26T11:06:43Z" data-relative>2026-10-26</time> |
 | [Firsty](https://nullcpy.github.io/archive/apps/firsty/) | <time datetime="2026-10-29T06:46:20Z" data-relative>2026-10-29</time> |
-| [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | <time datetime="2026-10-30T23:42:44Z" data-relative>2026-10-30</time> |
+| [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | <time datetime="2026-10-31T04:20:52Z" data-relative>2026-10-31</time> |
 | [Google Maps](https://nullcpy.github.io/archive/apps/googlemaps/) | <time datetime="2026-10-30T23:51:29Z" data-relative>2026-10-30</time> |
 | [Google Photos](https://nullcpy.github.io/archive/apps/googlephotos/) | <time datetime="2026-10-30T18:34:50Z" data-relative>2026-10-30</time> |
 | [Google Recorder](https://nullcpy.github.io/archive/apps/googlerecorder/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> |
@@ -58,6 +58,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Proton VPN](https://nullcpy.github.io/archive/apps/protonvpn/) | <time datetime="2026-10-29T15:19:10Z" data-relative>2026-10-29</time> |
 | [RAR](https://nullcpy.github.io/archive/apps/rar/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [Reddit](https://nullcpy.github.io/archive/apps/reddit/) | <time datetime="2026-10-30T15:18:38Z" data-relative>2026-10-30</time> |
+| [Remote for Android TV](https://nullcpy.github.io/archive/apps/remoteforandroidtv/) | <time datetime="2026-10-31T04:20:52Z" data-relative>2026-10-31</time> |
 | [Send Files to TV](https://nullcpy.github.io/archive/apps/sendfilestotv/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [Showly](https://nullcpy.github.io/archive/apps/showly/) | <time datetime="2026-10-29T15:19:10Z" data-relative>2026-10-29</time> |
 | [Sofascore](https://nullcpy.github.io/archive/apps/sofascore/) | <time datetime="2026-10-26T11:06:43Z" data-relative>2026-10-26</time> |
