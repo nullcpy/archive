@@ -17,6 +17,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Block Blast](https://nullcpy.github.io/archive/apps/blockblast/) | <time datetime="2026-10-30T00:01:56Z" data-relative>2026-10-30</time> |
 | [Bluetooth Keyboard & Mouse](https://nullcpy.github.io/archive/apps/bluetoothkeyboardmouse/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [Brave Browser](https://nullcpy.github.io/archive/apps/bravebrowser/) | <time datetime="2026-10-27T04:25:16Z" data-relative>2026-10-27</time> |
+| [ByAir](https://nullcpy.github.io/archive/apps/byair/) | <time datetime="2026-10-31T17:47:02Z" data-relative>2026-10-31</time> |
 | [Calm](https://nullcpy.github.io/archive/apps/calm/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [Calorie Counter](https://nullcpy.github.io/archive/apps/caloriecounter/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> |
 | [Citymapper](https://nullcpy.github.io/archive/apps/citymapper/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
@@ -35,7 +36,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Instagram](https://nullcpy.github.io/archive/apps/instagram/) | <time datetime="2026-10-29T19:09:01Z" data-relative>2026-10-29</time> |
 | [LinkedIn](https://nullcpy.github.io/archive/apps/linkedin/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [MacroDroid](https://nullcpy.github.io/archive/apps/macrodroid/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
-| [Messenger](https://nullcpy.github.io/archive/apps/messenger/) | <time datetime="2026-10-29T11:37:32Z" data-relative>2026-10-29</time> |
+| [Messenger](https://nullcpy.github.io/archive/apps/messenger/) | <time datetime="2026-10-31T17:47:02Z" data-relative>2026-10-31</time> |
 | [Microsoft Lens](https://nullcpy.github.io/archive/apps/microsoftlens/) | <time datetime="2026-10-24T12:57:28Z" data-relative>2026-10-24</time> |
 | [Microsoft Word](https://nullcpy.github.io/archive/apps/microsoftword/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [Musicolet](https://nullcpy.github.io/archive/apps/musicolet/) | <time datetime="2026-10-31T11:01:53Z" data-relative>2026-10-31</time> |
@@ -64,7 +65,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Sofascore](https://nullcpy.github.io/archive/apps/sofascore/) | <time datetime="2026-10-26T11:06:43Z" data-relative>2026-10-26</time> |
 | [SoundCloud](https://nullcpy.github.io/archive/apps/soundcloud/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> |
 | [Strava](https://nullcpy.github.io/archive/apps/strava/) | <time datetime="2026-10-29T11:37:32Z" data-relative>2026-10-29</time> |
-| [Telegram](https://nullcpy.github.io/archive/apps/telegram/) | <time datetime="2026-10-30T23:51:29Z" data-relative>2026-10-30</time> |
+| [Telegram](https://nullcpy.github.io/archive/apps/telegram/) | <time datetime="2026-10-31T17:47:02Z" data-relative>2026-10-31</time> |
 | [TeraBox](https://nullcpy.github.io/archive/apps/terabox/) | <time datetime="2026-10-31T11:01:53Z" data-relative>2026-10-31</time> |
 | [Termius](https://nullcpy.github.io/archive/apps/termius/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [The Weather Channel](https://nullcpy.github.io/archive/apps/theweatherchannel/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
