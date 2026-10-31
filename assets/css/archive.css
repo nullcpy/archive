@@ -124,6 +124,11 @@ tbody tr:hover {
   background: var(--bg-card);
 }
 
+/* The relative label is short; keep it on one line inside the last-build cell. */
+time[data-relative] {
+  white-space: nowrap;
+}
+
 code {
   padding: 1px 5px;
   border-radius: 5px;
