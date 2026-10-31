@@ -1,37 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {% if page.title and page.title != site.title %}
-    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
-    {% else %}
-    <title>{{ site.title | escape }}</title>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% if page.title and page.title != site.title %}
+  <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+  {% else %}
+  <title>{{ site.title | escape }}</title>
+  {% endif %}
+  <meta name="description" content="{{ site.description | escape }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/archive.css' | relative_url }}">
+  <script defer src="{{ '/assets/js/relative-time.js' | relative_url }}"></script>
+</head>
+
+<body>
+  <div class="wrap">
+    {% comment %}
+    The per-app pages need a way back to the index. The index itself must not
+    repeat its own title, which is what the default theme used to do.
+    {% endcomment %}
+    {% if page.url contains "/apps/" %}
+    <nav class="crumbs"><a href="{{ '/' | relative_url }}">&larr; All builds</a></nav>
     {% endif %}
-    <meta name="description" content="{{ site.description | escape }}">
-    <link rel="icon" type="image/svg+xml" href="{{ '/favicon.svg' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/archive.css' | relative_url }}">
-    <script defer src="{{ '/assets/js/relative-time.js' | relative_url }}"></script>
-  </head>
-  <body>
-    <div class="wrap">
-      {% comment %}
-      The per-app pages need a way back to the index. The index itself must not
-      repeat its own title, which is what the default theme used to do.
-      {% endcomment %}
-      {% if page.url contains "/apps/" %}
-      <nav class="crumbs"><a href="{{ '/' | relative_url }}">&larr; All builds</a></nav>
-      {% endif %}
-      <main>
-        {{ content }}
-      </main>
-      <footer class="site">
-        <p>Last updated <time datetime="{{ site.time | date_to_xmlschema }}" data-local-time>{{ site.time | date: "%a, %d %b %Y %I:%M:%S %p UTC" }}</time></p>
-      </footer>
-    </div>
-    <!-- Cloudflare Web Analytics. CI replaces this placeholder in the working tree
+    <main>
+      {{ content }}
+    </main>
+    <footer class="site">
+      <p>Last updated <time datetime="{{ site.time | date_to_xmlschema }}" data-local-time>{{ site.time | date: "%a, %d %b %Y %I:%M:%S %p UTC" }}</time></p>
+    </footer>
+  </div>
+  <!-- Cloudflare Web Analytics. CI replaces this placeholder in the working tree
          with the beacon built from the CF_BEACON_TOKEN repository secret, so the
          token never enters git. Without the secret the site deploys without it. -->
-    <!-- ANALYTICS-BEACON -->
-  </body>
+  <!-- ANALYTICS-BEACON -->
+</body>
+
 </html>
