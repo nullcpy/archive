@@ -265,7 +265,7 @@ title: Instagram
 |---|---|---|---|
 | [260365](https://github.com/nullcpy/archive/releases/tag/260365) | 2026-10-24 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260365/instagram-hushgram-v452.1.0.53.64-arm64-v8a.apk) |
 
-#### Clone
+### Clone
 
 <details><summary><b>Applied patches: 123</b> . 2 build(s)</summary>
 <ul>
@@ -719,7 +719,7 @@ title: Instagram
 |---|---|---|---|
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
 
-#### Clone
+### Clone
 
 <details><summary><b>Applied patches: 65</b> . 1 build(s)</summary>
 <ul>
