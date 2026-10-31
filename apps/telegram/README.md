@@ -4,7 +4,7 @@
 
 ### FOSS
 
-<details><summary><b>Applied patches: 63</b> . 3 build(s)</summary>
+<details><summary><b>Applied patches: 63</b> . 4 build(s)</summary>
 <ul>
 <li>AMOLED black</li>
 <li>Add Repeat to the message menu</li>
@@ -74,13 +74,14 @@
 
 | Build | Date | Version | Downloads |
 |---|---|---|---|
+| [260427](https://github.com/nullcpy/archive/releases/tag/260427) | 2026-10-31 | `13.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260427/telegram-hushtelegram-foss-v13.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260427/telegram-hushtelegram-foss-v13.1.0-arm-v7a.apk) |
 | [260421](https://github.com/nullcpy/archive/releases/tag/260421) | 2026-10-30 | `13.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260421/telegram-hushtelegram-foss-v13.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260421/telegram-hushtelegram-foss-v13.1.0-arm-v7a.apk) |
 | [260396](https://github.com/nullcpy/archive/releases/tag/260396) | 2026-10-27 | `13.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260396/telegram-hushtelegram-foss-v13.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260396/telegram-hushtelegram-foss-v13.1.0-arm-v7a.apk) |
 | [260352](https://github.com/nullcpy/archive/releases/tag/260352) | 2026-10-23 | `13.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260352/telegram-hushtelegram-foss-v13.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260352/telegram-hushtelegram-foss-v13.1.0-arm-v7a.apk) |
 
 ### Google Play
 
-<details><summary><b>Applied patches: 63</b> . 3 build(s)</summary>
+<details><summary><b>Applied patches: 63</b> . 4 build(s)</summary>
 <ul>
 <li>AMOLED black</li>
 <li>Add Repeat to the message menu</li>
@@ -150,6 +151,7 @@
 
 | Build | Date | Version | Downloads |
 |---|---|---|---|
+| [260427](https://github.com/nullcpy/archive/releases/tag/260427) | 2026-10-31 | `13.1.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260427/telegram-hushtelegram-google-play-v13.1.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260427/telegram-hushtelegram-google-play-v13.1.1-arm-v7a.apk) |
 | [260421](https://github.com/nullcpy/archive/releases/tag/260421) | 2026-10-30 | `13.1.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260421/telegram-hushtelegram-google-play-v13.1.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260421/telegram-hushtelegram-google-play-v13.1.1-arm-v7a.apk) |
 | [260396](https://github.com/nullcpy/archive/releases/tag/260396) | 2026-10-27 | `13.1.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260396/telegram-hushtelegram-google-play-v13.1.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260396/telegram-hushtelegram-google-play-v13.1.1-arm-v7a.apk) |
 | [260352](https://github.com/nullcpy/archive/releases/tag/260352) | 2026-10-23 | `13.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260352/telegram-hushtelegram-google-play-v13.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260352/telegram-hushtelegram-google-play-v13.1.0-arm-v7a.apk) |
