@@ -33,7 +33,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Google Recorder](https://nullcpy.github.io/archive/apps/googlerecorder/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> |
 | [HBO Max](https://nullcpy.github.io/archive/apps/hbomax/) | <time datetime="2026-10-31T20:14:45Z" data-relative>2026-10-31</time> |
 | [IMDb](https://nullcpy.github.io/archive/apps/imdb/) | <time datetime="2026-10-25T15:56:22Z" data-relative>2026-10-25</time> |
-| [Instagram](https://nullcpy.github.io/archive/apps/instagram/) | <time datetime="2026-10-29T19:09:01Z" data-relative>2026-10-29</time> |
+| [Instagram](https://nullcpy.github.io/archive/apps/instagram/) | <time datetime="2026-10-31T23:24:18Z" data-relative>2026-10-31</time> |
 | [LinkedIn](https://nullcpy.github.io/archive/apps/linkedin/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [MacroDroid](https://nullcpy.github.io/archive/apps/macrodroid/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [Messenger](https://nullcpy.github.io/archive/apps/messenger/) | <time datetime="2026-10-31T17:47:02Z" data-relative>2026-10-31</time> |
