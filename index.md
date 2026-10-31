@@ -57,7 +57,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Proton Pass](https://nullcpy.github.io/archive/apps/protonpass/) | <time datetime="2026-10-29T15:19:10Z" data-relative>2026-10-29</time> |
 | [Proton VPN](https://nullcpy.github.io/archive/apps/protonvpn/) | <time datetime="2026-10-29T15:19:10Z" data-relative>2026-10-29</time> |
 | [RAR](https://nullcpy.github.io/archive/apps/rar/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
-| [Reddit](https://nullcpy.github.io/archive/apps/reddit/) | <time datetime="2026-10-30T15:18:38Z" data-relative>2026-10-30</time> |
+| [Reddit](https://nullcpy.github.io/archive/apps/reddit/) | <time datetime="2026-10-31T10:54:15Z" data-relative>2026-10-31</time> |
 | [Remote for Android TV](https://nullcpy.github.io/archive/apps/remoteforandroidtv/) | <time datetime="2026-10-31T04:20:52Z" data-relative>2026-10-31</time> |
 | [Send Files to TV](https://nullcpy.github.io/archive/apps/sendfilestotv/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
 | [Showly](https://nullcpy.github.io/archive/apps/showly/) | <time datetime="2026-10-29T15:19:10Z" data-relative>2026-10-29</time> |
@@ -75,6 +75,6 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Viber](https://nullcpy.github.io/archive/apps/viber/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> |
 | [ViX](https://nullcpy.github.io/archive/apps/vix/) | <time datetime="2026-10-28T21:22:56Z" data-relative>2026-10-28</time> |
 | [Windscribe VPN](https://nullcpy.github.io/archive/apps/windscribevpn/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> |
-| [YouTube](https://nullcpy.github.io/archive/apps/youtube/) | <time datetime="2026-10-30T18:28:23Z" data-relative>2026-10-30</time> |
-| [YouTube Music](https://nullcpy.github.io/archive/apps/youtubemusic/) | <time datetime="2026-10-30T18:28:23Z" data-relative>2026-10-30</time> |
+| [YouTube](https://nullcpy.github.io/archive/apps/youtube/) | <time datetime="2026-10-31T10:54:15Z" data-relative>2026-10-31</time> |
+| [YouTube Music](https://nullcpy.github.io/archive/apps/youtubemusic/) | <time datetime="2026-10-31T10:54:15Z" data-relative>2026-10-31</time> |
 | [Zalo](https://nullcpy.github.io/archive/apps/zalo/) | <time datetime="2026-10-30T15:18:38Z" data-relative>2026-10-30</time> |
