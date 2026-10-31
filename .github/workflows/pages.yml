@@ -78,7 +78,7 @@ jobs:
           # Two surfaces are written: README.md for github.com browsing and
           # index.md for the Pages build, which links at that URL.
           ARCHIVE_PAGES_BASE: https://nullcpy.github.io/archive/
-          NULLSTORE_URL: https://fahim-ahmed05.github.io/nullstore
+          NULLSTORE_URL: https://nullcpy.github.io/nullstore
         run: |
           rm -rf _gen
           python3 .rvb/.github/scripts/build_archive_pages.py \
