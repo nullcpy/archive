@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/archive.css' | relative_url }}">
   </head>
   <body>
-    <main class="wrap">
+    <div class="wrap">
       {% comment %}
       The per-app pages need a way back to the index. The index itself must not
       repeat its own title, which is what the default theme used to do.
@@ -21,8 +21,14 @@
       {% if page.url contains "/apps/" %}
       <nav class="crumbs"><a href="{{ '/' | relative_url }}">&larr; All builds</a></nav>
       {% endif %}
-      {{ content }}
-    </main>
+      <main>
+        {{ content }}
+      </main>
+      <footer class="site">
+        <p>&copy; <a href="https://github.com/nullcpy">nullcpy</a> &middot;
+          Last updated {{ site.time | date: "%a, %d %b %Y %H:%M:%S UTC" }}</p>
+      </footer>
+    </div>
     <!-- Cloudflare Web Analytics. CI replaces this placeholder in the working tree
          with the beacon built from the CF_BEACON_TOKEN repository secret, so the
          token never enters git. Without the secret the site deploys without it. -->

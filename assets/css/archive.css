@@ -176,3 +176,20 @@ details li {
     columns: 1;
   }
 }
+
+footer.site {
+  margin-top: 56px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+  font-size: 0.82rem;
+  color: var(--text-3);
+}
+
+footer.site p {
+  margin: 0;
+  color: var(--text-3);
+}
+
+footer.site a {
+  color: var(--text-2);
+}
