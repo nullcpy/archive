@@ -9,7 +9,6 @@ title: YouTube Music
 ### Standard
 
 <details><summary><b>Applied patches: 48</b> . 15 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Android Auto</li>
 <li>App refresh rate</li>
@@ -83,7 +82,6 @@ title: YouTube Music
 ### Experimental
 
 <details><summary><b>Applied patches: 48</b> . 15 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Android Auto</li>
 <li>App refresh rate</li>
@@ -161,7 +159,6 @@ title: YouTube Music
 ### Standard
 
 <details><summary><b>Applied patches: 44</b> . 2 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>App refresh rate</li>
 <li>Bitrate default value</li>
