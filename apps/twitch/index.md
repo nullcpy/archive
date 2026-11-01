@@ -14,7 +14,7 @@ title: Twitch
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260428](https://github.com/nullcpy/archive/releases/tag/260428) | 2026-10-31 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260428/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260413](https://github.com/nullcpy/archive/releases/tag/260413) | 2026-10-29 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260413/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |

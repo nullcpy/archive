@@ -18,7 +18,7 @@ title: Prime Video
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260428](https://github.com/nullcpy/archive/releases/tag/260428) | 2026-10-31 | `6.23.23+v15.5.0.70-armv7a` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260428/prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk) |
 | [260413](https://github.com/nullcpy/archive/releases/tag/260413) | 2026-10-29 | `6.23.23+v15.5.0.70-armv7a` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260413/prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk) |
@@ -38,7 +38,7 @@ title: Prime Video
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260428](https://github.com/nullcpy/archive/releases/tag/260428) | 2026-10-31 | `6.23.23+v15.5.0.70-armv7a` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260428/prime-video-ajstrick81-android-tv-clone-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk) |
 | [260413](https://github.com/nullcpy/archive/releases/tag/260413) | 2026-10-29 | `6.23.23+v15.5.0.70-armv7a` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260413/prime-video-ajstrick81-android-tv-clone-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk) |

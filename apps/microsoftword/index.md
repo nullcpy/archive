@@ -14,7 +14,7 @@ title: Microsoft Word
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `16.0.20228.20090` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260401/microsoft-word-rushiranpise-v16.0.20228.20090-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260401/microsoft-word-rushiranpise-v16.0.20228.20090-arm-v7a.apk) |
 
@@ -32,7 +32,7 @@ title: Microsoft Word
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `16.0.20527.20034` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260401/microsoft-word-kveld9-v16.0.20527.20034-arm64-v8a.apk) |
 | [260391](https://github.com/nullcpy/archive/releases/tag/260391) | 2026-10-27 | `16.0.20527.20034` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260391/microsoft-word-kveld9-v16.0.20527.20034-arm64-v8a.apk) |
@@ -48,7 +48,7 @@ title: Microsoft Word
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260388](https://github.com/nullcpy/archive/releases/tag/260388) | 2026-10-27 | `16.0.20527.20034` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260388/microsoft-word-kveld9-v16.0.20527.20034-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260388/microsoft-word-kveld9-v16.0.20527.20034-arm-v7a.apk) |
 

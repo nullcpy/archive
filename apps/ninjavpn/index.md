@@ -14,7 +14,7 @@ title: Ninja VPN
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `1.4.7` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260401/ninja-vpn-rushiranpise-v1.4.7-arm64-v8a.apk) |
 

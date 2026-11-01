@@ -29,7 +29,7 @@ title: Truecaller
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260381](https://github.com/nullcpy/archive/releases/tag/260381) | 2026-10-26 | `26.41.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260381/truecaller-heval99-v26.41.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260381/truecaller-heval99-v26.41.5-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260381/truecaller-heval99-module-v26.41.5-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260381/truecaller-heval99-module-v26.41.5-arm-v7a.zip) |
 | [260362](https://github.com/nullcpy/archive/releases/tag/260362) 🧪 | 2026-10-24 | `26.41.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260362/truecaller-heval99-v26.41.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260362/truecaller-heval99-v26.41.5-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260362/truecaller-heval99-module-v26.41.5-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260362/truecaller-heval99-module-v26.41.5-arm-v7a.zip) |
@@ -53,7 +53,7 @@ title: Truecaller
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260371](https://github.com/nullcpy/archive/releases/tag/260371) | 2026-10-25 | `26.10.6` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260371/truecaller-bufferk-v26.10.6-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260371/truecaller-bufferk-v26.10.6-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260371/truecaller-bufferk-module-v26.10.6-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260371/truecaller-bufferk-module-v26.10.6-arm-v7a.zip) |
 

@@ -47,7 +47,7 @@ title: Pinterest
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260381](https://github.com/nullcpy/archive/releases/tag/260381) | 2026-10-26 | `14.39.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260381/pinterest-browzomje-v14.39.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260381/pinterest-browzomje-v14.39.0-arm-v7a.apk) |
 

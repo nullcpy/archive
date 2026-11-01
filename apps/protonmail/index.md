@@ -24,7 +24,7 @@ title: Proton Mail
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260424](https://github.com/nullcpy/archive/releases/tag/260424) | 2026-10-31 | `7.11.11` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260424/proton-mail-hxreborn-v7.11.11-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260424/proton-mail-hxreborn-v7.11.11-arm-v7a.apk) |
 | [260411](https://github.com/nullcpy/archive/releases/tag/260411) | 2026-10-29 | `7.11.11` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260411/proton-mail-hxreborn-v7.11.11-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260411/proton-mail-hxreborn-v7.11.11-arm-v7a.apk) |
@@ -46,7 +46,7 @@ title: Proton Mail
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260390](https://github.com/nullcpy/archive/releases/tag/260390) | 2026-10-27 | `7.11.11` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260390/proton-mail-hxreborn-v7.11.11-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260390/proton-mail-hxreborn-v7.11.11-arm-v7a.apk) |
 | [260384](https://github.com/nullcpy/archive/releases/tag/260384) | 2026-10-26 | `7.11.11` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260384/proton-mail-hxreborn-v7.11.11-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260384/proton-mail-hxreborn-v7.11.11-arm-v7a.apk) |
@@ -68,7 +68,7 @@ title: Proton Mail
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260372](https://github.com/nullcpy/archive/releases/tag/260372) | 2026-10-25 | `7.11.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260372/proton-mail-dhrubonai-v7.11.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260372/proton-mail-dhrubonai-v7.11.5-arm-v7a.apk) |
 
@@ -84,7 +84,7 @@ title: Proton Mail
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260361](https://github.com/nullcpy/archive/releases/tag/260361) | 2026-10-24 | `7.11.10` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260361/proton-mail-satanmerde-v7.11.10-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260361/proton-mail-satanmerde-v7.11.10-arm-v7a.apk) |
 

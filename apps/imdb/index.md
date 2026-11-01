@@ -14,7 +14,7 @@ title: IMDb
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260374](https://github.com/nullcpy/archive/releases/tag/260374) | 2026-10-25 | `9.3.6` | APK: [all](https://github.com/nullcpy/archive/releases/download/260374/imdb-adobo-v9.3.6-all.apk) |
 

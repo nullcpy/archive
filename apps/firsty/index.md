@@ -14,7 +14,7 @@ title: Firsty
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260406](https://github.com/nullcpy/archive/releases/tag/260406) | 2026-10-29 | `1.8.23` | APK: [all](https://github.com/nullcpy/archive/releases/download/260406/firsty-trimpsuz-v1.8.23-all.apk) |
 

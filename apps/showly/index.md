@@ -15,7 +15,7 @@ title: Showly
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260424](https://github.com/nullcpy/archive/releases/tag/260424) | 2026-10-31 | `3.72.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260424/showly-hxreborn-v3.72.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260424/showly-hxreborn-v3.72.0-arm-v7a.apk) |
 | [260411](https://github.com/nullcpy/archive/releases/tag/260411) | 2026-10-29 | `3.72.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260411/showly-hxreborn-v3.72.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260411/showly-hxreborn-v3.72.0-arm-v7a.apk) |

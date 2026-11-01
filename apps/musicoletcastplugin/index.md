@@ -14,7 +14,7 @@ title: Musicolet Cast Plugin
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260424](https://github.com/nullcpy/archive/releases/tag/260424) | 2026-10-31 | `1.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260424/musicolet-cast-plugin-hxreborn-v1.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260424/musicolet-cast-plugin-hxreborn-v1.9-arm-v7a.apk) |
 | [260411](https://github.com/nullcpy/archive/releases/tag/260411) | 2026-10-29 | `1.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260411/musicolet-cast-plugin-hxreborn-v1.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260411/musicolet-cast-plugin-hxreborn-v1.9-arm-v7a.apk) |

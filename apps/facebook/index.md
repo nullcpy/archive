@@ -28,7 +28,7 @@ title: Facebook
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `580.0.0.51.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/facebook-devanced-v580.0.0.51.74-arm64-v8a.apk) |
 | [260359](https://github.com/nullcpy/archive/releases/tag/260359) | 2026-10-24 | `580.0.0.51.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260359/facebook-devanced-v580.0.0.51.74-arm64-v8a.apk) |
@@ -145,7 +145,7 @@ title: Facebook
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260397](https://github.com/nullcpy/archive/releases/tag/260397) | 2026-10-28 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260397/facebook-hushfacebook-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260397/facebook-hushfacebook-v584.0.0.51.56-arm-v7a.apk) |
 
@@ -254,7 +254,7 @@ title: Facebook
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260386](https://github.com/nullcpy/archive/releases/tag/260386) | 2026-10-27 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260386/facebook-hushfacebook-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260386/facebook-hushfacebook-v584.0.0.51.56-arm-v7a.apk) |
 | [260365](https://github.com/nullcpy/archive/releases/tag/260365) | 2026-10-24 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260365/facebook-hushfacebook-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260365/facebook-hushfacebook-v584.0.0.51.56-arm-v7a.apk) |
@@ -357,7 +357,7 @@ title: Facebook
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260352](https://github.com/nullcpy/archive/releases/tag/260352) | 2026-10-23 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260352/facebook-hushfacebook-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260352/facebook-hushfacebook-v584.0.0.51.56-arm-v7a.apk) |
 
@@ -471,7 +471,7 @@ title: Facebook
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260397](https://github.com/nullcpy/archive/releases/tag/260397) | 2026-10-28 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260397/facebook-hushfacebook-material-you-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260397/facebook-hushfacebook-material-you-v584.0.0.51.56-arm-v7a.apk) |
 
@@ -580,7 +580,7 @@ title: Facebook
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260386](https://github.com/nullcpy/archive/releases/tag/260386) | 2026-10-27 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260386/facebook-hushfacebook-material-you-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260386/facebook-hushfacebook-material-you-v584.0.0.51.56-arm-v7a.apk) |
 | [260365](https://github.com/nullcpy/archive/releases/tag/260365) | 2026-10-24 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260365/facebook-hushfacebook-material-you-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260365/facebook-hushfacebook-material-you-v584.0.0.51.56-arm-v7a.apk) |
@@ -683,7 +683,7 @@ title: Facebook
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260353](https://github.com/nullcpy/archive/releases/tag/260353) | 2026-10-23 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260353/facebook-hushfacebook-material-you-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260353/facebook-hushfacebook-material-you-v584.0.0.51.56-arm-v7a.apk) |
 
@@ -786,7 +786,7 @@ title: Facebook
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260352](https://github.com/nullcpy/archive/releases/tag/260352) | 2026-10-23 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260352/facebook-hushfacebook-material-you-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260352/facebook-hushfacebook-material-you-v584.0.0.51.56-arm-v7a.apk) |
 
@@ -815,7 +815,7 @@ title: Facebook
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260354](https://github.com/nullcpy/archive/releases/tag/260354) | 2026-10-23 | `577.0.0.50.72` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260354/facebook-andrewliang25-v577.0.0.50.72-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260354/facebook-andrewliang25-v577.0.0.50.72-arm-v7a.apk) |
 

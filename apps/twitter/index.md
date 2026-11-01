@@ -85,7 +85,7 @@ title: Twitter
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260377](https://github.com/nullcpy/archive/releases/tag/260377) 🧪 | 2026-10-25 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-module-v12.19.1-release.0-arm-v7a.zip) |
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-module-v12.19.1-release.0-arm-v7a.zip) |
@@ -171,7 +171,7 @@ title: Twitter
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260377](https://github.com/nullcpy/archive/releases/tag/260377) 🧪 | 2026-10-25 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-material-you-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-material-you-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-material-you-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-material-you-module-v12.19.1-release.0-arm-v7a.zip) |
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-material-you-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-material-you-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-material-you-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-material-you-module-v12.19.1-release.0-arm-v7a.zip) |
@@ -229,7 +229,7 @@ title: Twitter
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260414](https://github.com/nullcpy/archive/releases/tag/260414) | 2026-10-30 | `12.38.1-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260414/twitter-piko-newx-v12.38.1-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260414/twitter-piko-newx-v12.38.1-prod.01-arm-v7a.apk) |
 | [260410](https://github.com/nullcpy/archive/releases/tag/260410) | 2026-10-29 | `12.38.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260410/twitter-piko-newx-v12.38.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260410/twitter-piko-newx-v12.38.0-prod.01-arm-v7a.apk) |
@@ -284,7 +284,7 @@ title: Twitter
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260405](https://github.com/nullcpy/archive/releases/tag/260405) | 2026-10-29 | `12.38.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260405/twitter-piko-newx-v12.38.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260405/twitter-piko-newx-v12.38.0-prod.01-arm-v7a.apk) |
 
@@ -336,7 +336,7 @@ title: Twitter
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260403](https://github.com/nullcpy/archive/releases/tag/260403) | 2026-10-29 | `12.35.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260403/twitter-piko-newx-v12.35.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260403/twitter-piko-newx-v12.35.0-prod.01-arm-v7a.apk) |
 | [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `12.35.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/twitter-piko-newx-v12.35.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260402/twitter-piko-newx-v12.35.0-prod.01-arm-v7a.apk) |
@@ -390,7 +390,7 @@ title: Twitter
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260379](https://github.com/nullcpy/archive/releases/tag/260379) | 2026-10-26 | `12.35.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260379/twitter-piko-newx-v12.35.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260379/twitter-piko-newx-v12.35.0-prod.01-arm-v7a.apk) |
 | [260359](https://github.com/nullcpy/archive/releases/tag/260359) | 2026-10-24 | `12.35.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260359/twitter-piko-newx-v12.35.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260359/twitter-piko-newx-v12.35.0-prod.01-arm-v7a.apk) |
@@ -443,7 +443,7 @@ title: Twitter
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260352](https://github.com/nullcpy/archive/releases/tag/260352) | 2026-10-23 | `12.35.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260352/twitter-piko-newx-v12.35.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260352/twitter-piko-newx-v12.35.0-prod.01-arm-v7a.apk) |
 

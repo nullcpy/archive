@@ -23,7 +23,7 @@ title: Strava
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260408](https://github.com/nullcpy/archive/releases/tag/260408) | 2026-10-29 | `477.14` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260408/strava-devanced-v477.14-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260408/strava-devanced-v477.14-arm-v7a.apk) |
 | [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `477.14` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/strava-devanced-v477.14-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260402/strava-devanced-v477.14-arm-v7a.apk) |

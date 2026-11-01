@@ -79,7 +79,7 @@ title: Messenger
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260427](https://github.com/nullcpy/archive/releases/tag/260427) | 2026-10-31 | `585.0.0.53.94` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260427/messenger-hushmessenger-v585.0.0.53.94-arm64-v8a.apk) |
 
@@ -150,7 +150,7 @@ title: Messenger
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260397](https://github.com/nullcpy/archive/releases/tag/260397) | 2026-10-28 | `584.1.0.61.98` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260397/messenger-hushmessenger-v584.1.0.61.98-arm64-v8a.apk) |
 
@@ -170,7 +170,7 @@ title: Messenger
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260408](https://github.com/nullcpy/archive/releases/tag/260408) | 2026-10-29 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260408/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260408/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
 | [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260402/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
@@ -193,7 +193,7 @@ title: Messenger
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `576.0.0.47.92` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260401/messenger-rushiranpise-v576.0.0.47.92-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260401/messenger-rushiranpise-v576.0.0.47.92-arm-v7a.apk) |
 
