@@ -1,21 +1,9 @@
 name: Pages
 
-# Renders the browsable site from the per-build manifests on `website`, then
-# builds it with Jekyll and deploys the artifact. Triggered by rvb after each
-# manifest publish, by a push that touches the layout or stylesheet, and on a
-# schedule so a lost dispatch converges instead of leaving the view stale:
-# everything is derived from scratch, so one run heals whatever the previous one
-# got wrong.
-#
-# The two surfaces live on separate branches. `main` keeps the github.com
-# README surface and the site chrome (layout, stylesheet, script, config); the
-# `site` branch keeps the Pages index surface plus a synced copy of that chrome,
-# and the Jekyll build reads only from `site`.
-#
-# The deploy is what keeps the analytics token out of git: the layout carries a
-# placeholder and this job replaces it from the CF_BEACON_TOKEN secret in the
-# working tree only, after the site commit. A push made with GITHUB_TOKEN does
-# not trigger this workflow, so the render commit cannot loop back into it.
+# Renders the site from the per-build manifests on `website`, builds it with Jekyll and
+# deploys the artifact. Every run derives the whole tree, so one run heals whatever the
+# previous one got wrong. Branch split, surface ownership and the analytics beacon are
+# documented in rvb's docs/ci-pipelines.md and docs/decisions/0016.
 
 on:
   push:
@@ -73,16 +61,9 @@ jobs:
           echo "manifests: $(find _data/manifests -name '*.json' | wc -l)"
 
       - name: Export the release download counters
-        # Feeds the index's Downloads column. Counted here rather than in the
-        # generator because that script stays offline and deterministic for the trace
-        # harness, exactly like the manifests it reads from a directory. The mirror
-        # never prunes its releases, so a counter can only rise and no history needs
-        # to be kept.
-        #
-        # A failure is allowed to cost the column and nothing else: the file is
-        # written only after every page came through, and the next step passes
-        # --counts only when it exists, so a lost API call leaves the index as it was
-        # instead of publishing a table of blanks.
+        # Feeds the index's Downloads column; the generator stays offline and
+        # deterministic. If this fetch fails the next step simply omits --counts, so the
+        # render loses the column and nothing else.
         run: |
           python3 - <<'PY'
           import json, os, sys, urllib.request
