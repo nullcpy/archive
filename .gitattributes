@@ -1,0 +1,16 @@
+# Text is LF everywhere: the render job writes these files, Jekyll builds them, and a
+# Windows checkout with core.autocrlf=true would otherwise hand back CRLF and make an
+# editor set to LF report a clean file as modified. Mirrors rvb's .gitattributes.
+* text=auto
+
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.svg text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+.editorconfig text eol=lf
