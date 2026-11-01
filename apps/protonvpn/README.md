@@ -22,7 +22,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260424](https://github.com/nullcpy/archive/releases/tag/260424) | 2026-10-31 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260424/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) |
 
@@ -44,7 +44,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260411](https://github.com/nullcpy/archive/releases/tag/260411) | 2026-10-29 | `5.20.98.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260411/proton-vpn-hxreborn-v5.20.98.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260411/proton-vpn-hxreborn-v5.20.98.0-arm-v7a.apk) |
 | [260399](https://github.com/nullcpy/archive/releases/tag/260399) | 2026-10-28 | `5.20.98.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260399/proton-vpn-hxreborn-v5.20.98.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260399/proton-vpn-hxreborn-v5.20.98.0-arm-v7a.apk) |

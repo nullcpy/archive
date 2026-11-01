@@ -12,7 +12,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `30.7.8` | APK: [all](https://github.com/nullcpy/archive/releases/download/260401/picsart-rushiranpise-v30.7.8-all.apk) |
 

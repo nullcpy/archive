@@ -10,7 +10,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `4.3.2360` | APK: [all](https://github.com/nullcpy/archive/releases/download/260401/windscribe-vpn-rushiranpise-v4.3.2360-all.apk) |
 

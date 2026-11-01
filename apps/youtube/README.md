@@ -118,7 +118,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260426](https://github.com/nullcpy/archive/releases/tag/260426) 🧪 | 2026-10-31 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 
@@ -235,7 +235,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260423](https://github.com/nullcpy/archive/releases/tag/260423) 🧪 | 2026-10-31 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260423/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260423/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260423/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260423/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 | [260417](https://github.com/nullcpy/archive/releases/tag/260417) | 2026-10-30 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260417/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260417/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260417/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260417/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
@@ -353,7 +353,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260412](https://github.com/nullcpy/archive/releases/tag/260412) 🧪 | 2026-10-29 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260412/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260412/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260412/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260412/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 | [260407](https://github.com/nullcpy/archive/releases/tag/260407) 🧪 | 2026-10-29 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260407/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260407/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260407/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260407/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
@@ -472,7 +472,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260380](https://github.com/nullcpy/archive/releases/tag/260380) 🧪 | 2026-10-26 | `21.23.492` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-v21.23.492-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-v21.23.492-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-module-v21.23.492-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-module-v21.23.492-arm-v7a.zip) |
 
@@ -586,7 +586,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260373](https://github.com/nullcpy/archive/releases/tag/260373) 🧪 | 2026-10-25 | `21.23.492` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260373/youtube-morphe-v21.23.492-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260373/youtube-morphe-v21.23.492-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260373/youtube-morphe-module-v21.23.492-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260373/youtube-morphe-module-v21.23.492-arm-v7a.zip) |
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `21.23.492` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-morphe-v21.23.492-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-morphe-v21.23.492-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-morphe-module-v21.23.492-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-morphe-module-v21.23.492-arm-v7a.zip) |
@@ -712,7 +712,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260426](https://github.com/nullcpy/archive/releases/tag/260426) 🧪 | 2026-10-31 | `21.44.528` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-v21.44.528-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-v21.44.528-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-module-v21.44.528-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-module-v21.44.528-arm-v7a.zip) |
 
@@ -829,7 +829,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260423](https://github.com/nullcpy/archive/releases/tag/260423) 🧪 | 2026-10-31 | `21.44.528-BETA` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260423/youtube-morphe-experimental-v21.44.528-BETA-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260423/youtube-morphe-experimental-v21.44.528-BETA-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260423/youtube-morphe-experimental-module-v21.44.528-BETA-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260423/youtube-morphe-experimental-module-v21.44.528-BETA-arm-v7a.zip) |
 | [260417](https://github.com/nullcpy/archive/releases/tag/260417) | 2026-10-30 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260417/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260417/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260417/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260417/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
@@ -947,7 +947,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260412](https://github.com/nullcpy/archive/releases/tag/260412) 🧪 | 2026-10-29 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260412/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260412/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260412/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260412/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
 | [260407](https://github.com/nullcpy/archive/releases/tag/260407) 🧪 | 2026-10-29 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260407/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260407/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260407/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260407/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
@@ -1066,7 +1066,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260380](https://github.com/nullcpy/archive/releases/tag/260380) 🧪 | 2026-10-26 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
 
@@ -1180,7 +1180,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260373](https://github.com/nullcpy/archive/releases/tag/260373) 🧪 | 2026-10-25 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260373/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260373/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260373/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260373/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
@@ -1283,7 +1283,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260418](https://github.com/nullcpy/archive/releases/tag/260418) 🧪 | 2026-10-30 | `21.13.164` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260418/youtube-anddea-v21.13.164-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260418/youtube-anddea-v21.13.164-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260418/youtube-anddea-module-v21.13.164-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260418/youtube-anddea-module-v21.13.164-arm-v7a.zip) |
 
@@ -1374,7 +1374,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `21.13.164` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-anddea-v21.13.164-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-anddea-v21.13.164-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-anddea-module-v21.13.164-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-anddea-module-v21.13.164-arm-v7a.zip) |
 

@@ -12,7 +12,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260428](https://github.com/nullcpy/archive/releases/tag/260428) | 2026-10-31 | `5.66.0-leanback` | APK: [all](https://github.com/nullcpy/archive/releases/download/260428/plutotv-ajstrick81-android-tv-v5.66.0-leanback-all.apk) |
 | [260413](https://github.com/nullcpy/archive/releases/tag/260413) | 2026-10-29 | `5.66.0-leanback` | APK: [all](https://github.com/nullcpy/archive/releases/download/260413/plutotv-ajstrick81-android-tv-v5.66.0-leanback-all.apk) |

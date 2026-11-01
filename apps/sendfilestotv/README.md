@@ -10,7 +10,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `1.4.22` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260401/send-files-to-tv-rushiranpise-v1.4.22-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260401/send-files-to-tv-rushiranpise-v1.4.22-arm-v7a.apk) |
 

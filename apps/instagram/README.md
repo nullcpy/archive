@@ -147,7 +147,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260429](https://github.com/nullcpy/archive/releases/tag/260429) | 2026-10-31 | `453.0.0.57.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260429/instagram-hushgram-v453.0.0.57.79-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260429/instagram-hushgram-v453.0.0.57.79-arm-v7a.apk) |
 
@@ -278,7 +278,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260413](https://github.com/nullcpy/archive/releases/tag/260413) | 2026-10-29 | `453.0.0.55.79` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260413/instagram-hushgram-v453.0.0.55.79-arm-v7a.apk) |
 
@@ -409,7 +409,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260399](https://github.com/nullcpy/archive/releases/tag/260399) | 2026-10-28 | `453.0.0.55.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260399/instagram-hushgram-v453.0.0.55.79-arm64-v8a.apk) |
 
@@ -534,7 +534,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260365](https://github.com/nullcpy/archive/releases/tag/260365) | 2026-10-24 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260365/instagram-hushgram-v452.1.0.53.64-arm64-v8a.apk) |
 
@@ -684,7 +684,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260429](https://github.com/nullcpy/archive/releases/tag/260429) | 2026-10-31 | `453.0.0.57.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260429/instagram-hushgram-clone-v453.0.0.57.79-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260429/instagram-hushgram-clone-v453.0.0.57.79-arm-v7a.apk) |
 
@@ -816,7 +816,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260413](https://github.com/nullcpy/archive/releases/tag/260413) | 2026-10-29 | `453.0.0.55.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260413/instagram-hushgram-clone-v453.0.0.55.79-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260413/instagram-hushgram-clone-v453.0.0.55.79-arm-v7a.apk) |
 
@@ -948,7 +948,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260399](https://github.com/nullcpy/archive/releases/tag/260399) | 2026-10-28 | `453.0.0.55.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260399/instagram-hushgram-clone-v453.0.0.55.79-arm64-v8a.apk) |
 
@@ -1074,7 +1074,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260365](https://github.com/nullcpy/archive/releases/tag/260365) | 2026-10-24 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260365/instagram-hushgram-clone-v452.1.0.53.64-arm64-v8a.apk) |
 
@@ -1096,7 +1096,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260403](https://github.com/nullcpy/archive/releases/tag/260403) | 2026-10-29 | `453.0.0.57.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260403/instagram-instafel-v453.0.0.57.79-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260403/instagram-instafel-v453.0.0.57.79-arm-v7a.apk) |
 | [260388](https://github.com/nullcpy/archive/releases/tag/260388) | 2026-10-27 | `453.0.0.55.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260388/instagram-instafel-v453.0.0.55.79-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260388/instagram-instafel-v453.0.0.55.79-arm-v7a.apk) |
@@ -1115,7 +1115,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260387](https://github.com/nullcpy/archive/releases/tag/260387) | 2026-10-27 | `453.0.0.55.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260387/instagram-instafel-v453.0.0.55.79-arm64-v8a.apk) |
 | [260386](https://github.com/nullcpy/archive/releases/tag/260386) | 2026-10-27 | `453.0.0.55.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260386/instagram-instafel-v453.0.0.55.79-arm64-v8a.apk) |
@@ -1138,7 +1138,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260403](https://github.com/nullcpy/archive/releases/tag/260403) | 2026-10-29 | `453.0.0.57.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260403/instagram-instafel-clone-v453.0.0.57.79-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260403/instagram-instafel-clone-v453.0.0.57.79-arm-v7a.apk) |
 | [260388](https://github.com/nullcpy/archive/releases/tag/260388) | 2026-10-27 | `453.0.0.55.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260388/instagram-instafel-clone-v453.0.0.55.79-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260388/instagram-instafel-clone-v453.0.0.55.79-arm-v7a.apk) |
@@ -1159,7 +1159,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260387](https://github.com/nullcpy/archive/releases/tag/260387) | 2026-10-27 | `453.0.0.55.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260387/instagram-instafel-clone-v453.0.0.55.79-arm64-v8a.apk) |
 | [260386](https://github.com/nullcpy/archive/releases/tag/260386) | 2026-10-27 | `453.0.0.55.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260386/instagram-instafel-clone-v453.0.0.55.79-arm64-v8a.apk) |
@@ -1237,7 +1237,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260377](https://github.com/nullcpy/archive/releases/tag/260377) 🧪 | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260377/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
 
@@ -1303,7 +1303,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
 
@@ -1379,7 +1379,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260377](https://github.com/nullcpy/archive/releases/tag/260377) 🧪 | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/instagram-piko-clone-v452.1.0.53.64-arm64-v8a.apk) |
 
@@ -1446,7 +1446,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-clone-v452.1.0.53.64-arm64-v8a.apk) |
 

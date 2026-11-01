@@ -13,7 +13,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260385](https://github.com/nullcpy/archive/releases/tag/260385) | 2026-10-26 | `3.15.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260385/offline-games-ggyasin-v3.15.3-arm64-v8a.apk) |
 | [260385](https://github.com/nullcpy/archive/releases/tag/260385) | 2026-10-26 | `3.14.1` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260385/offline-games-ggyasin-v3.14.1-arm-v7a.apk) |

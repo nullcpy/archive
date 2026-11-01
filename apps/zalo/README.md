@@ -29,7 +29,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260417](https://github.com/nullcpy/archive/releases/tag/260417) | 2026-10-30 | `26.10.02` | APK: [all](https://github.com/nullcpy/archive/releases/download/260417/zalo-zeldrisho-v26.10.02-all.apk) |
 | [260409](https://github.com/nullcpy/archive/releases/tag/260409) | 2026-10-29 | `26.08.01` | APK: [all](https://github.com/nullcpy/archive/releases/download/260409/zalo-zeldrisho-v26.08.01-all.apk) |

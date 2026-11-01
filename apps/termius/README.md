@@ -10,7 +10,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `7.11.2` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260401/termius-rushiranpise-v7.11.2-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260401/termius-rushiranpise-v7.11.2-arm-v7a.apk) |
 

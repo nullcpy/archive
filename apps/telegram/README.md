@@ -72,7 +72,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260427](https://github.com/nullcpy/archive/releases/tag/260427) | 2026-10-31 | `13.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260427/telegram-hushtelegram-foss-v13.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260427/telegram-hushtelegram-foss-v13.1.0-arm-v7a.apk) |
 | [260421](https://github.com/nullcpy/archive/releases/tag/260421) | 2026-10-30 | `13.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260421/telegram-hushtelegram-foss-v13.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260421/telegram-hushtelegram-foss-v13.1.0-arm-v7a.apk) |
@@ -149,7 +149,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260427](https://github.com/nullcpy/archive/releases/tag/260427) | 2026-10-31 | `13.1.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260427/telegram-hushtelegram-google-play-v13.1.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260427/telegram-hushtelegram-google-play-v13.1.1-arm-v7a.apk) |
 | [260421](https://github.com/nullcpy/archive/releases/tag/260421) | 2026-10-30 | `13.1.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260421/telegram-hushtelegram-google-play-v13.1.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260421/telegram-hushtelegram-google-play-v13.1.1-arm-v7a.apk) |
@@ -179,7 +179,7 @@
 </ul>
 </details>
 
-| Build | Date | Version | Downloads |
+| Build | Date | Version | Download |
 |---|---|---|---|
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `12.10.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260401/telegram-rushiranpise-google-play-v12.10.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260401/telegram-rushiranpise-google-play-v12.10.1-arm-v7a.apk) |
 
