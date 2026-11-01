@@ -169,10 +169,10 @@
 
 | Build | Date | Version | Downloads |
 |---|---|---|---|
-| [260375](https://github.com/nullcpy/archive/releases/tag/260375) | 2026-10-25 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260375/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260375/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
-| [260364](https://github.com/nullcpy/archive/releases/tag/260364) | 2026-10-24 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260364/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260364/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
-| [260360](https://github.com/nullcpy/archive/releases/tag/260360) | 2026-10-24 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260360/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260360/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
-| [260350](https://github.com/nullcpy/archive/releases/tag/260350) | 2026-10-23 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260350/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260350/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
+| [260375](https://github.com/nullcpy/archive/releases/tag/260375) 🧪 | 2026-10-25 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260375/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260375/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
+| [260364](https://github.com/nullcpy/archive/releases/tag/260364) 🧪 | 2026-10-24 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260364/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260364/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
+| [260360](https://github.com/nullcpy/archive/releases/tag/260360) 🧪 | 2026-10-24 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260360/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260360/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
+| [260350](https://github.com/nullcpy/archive/releases/tag/260350) 🧪 | 2026-10-23 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260350/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260350/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 
 ## hushfeed
 
