@@ -8,6 +8,16 @@ title: Musicolet
 
 ### Standard
 
+<details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
+<ul>
+<li>Unlock premium</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260433](https://github.com/nullcpy/archive/releases/tag/260433) | 2026-11-01 | `6.14.1build540` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260433/musicolet-hxreborn-v6.14.1build540-arm64-v8a.apk) |
+
 <details><summary><b>Applied patches: 1</b> . 5 build(s)</summary>
 <ul>
 <li>Unlock premium</li>
