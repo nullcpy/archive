@@ -5,7 +5,6 @@
 ### Standard
 
 <details><summary><b>Applied patches: 6</b> . 5 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>AMOLED dark theme</li>
 <li>DCIM &amp; backup control</li>
@@ -51,7 +50,6 @@
 ### Standard
 
 <details><summary><b>Applied patches: 3</b> . 4 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Fix selected account persistence</li>
 <li>GmsCore support <code>module omit</code></li>

@@ -5,7 +5,6 @@
 ### Standard
 
 <details><summary><b>Applied patches: 109</b> . 1 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -124,7 +123,6 @@
 | [260426](https://github.com/nullcpy/archive/releases/tag/260426) 🧪 | 2026-10-31 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 108</b> . 3 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -244,7 +242,6 @@
 | [260415](https://github.com/nullcpy/archive/releases/tag/260415) 🧪 | 2026-10-30 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260415/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260415/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260415/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260415/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 107</b> . 5 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -365,7 +362,6 @@
 | [260392](https://github.com/nullcpy/archive/releases/tag/260392) 🧪 | 2026-10-27 | `21.23.492` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260392/youtube-morphe-v21.23.492-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260392/youtube-morphe-v21.23.492-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260392/youtube-morphe-module-v21.23.492-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260392/youtube-morphe-module-v21.23.492-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 106</b> . 1 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -481,7 +477,6 @@
 | [260380](https://github.com/nullcpy/archive/releases/tag/260380) 🧪 | 2026-10-26 | `21.23.492` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-v21.23.492-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-v21.23.492-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-module-v21.23.492-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-module-v21.23.492-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 105</b> . 7 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -604,7 +599,6 @@
 ### Experimental
 
 <details><summary><b>Applied patches: 109</b> . 1 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -723,7 +717,6 @@
 | [260426](https://github.com/nullcpy/archive/releases/tag/260426) 🧪 | 2026-10-31 | `21.44.528` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-v21.44.528-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-v21.44.528-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-module-v21.44.528-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260426/youtube-morphe-experimental-module-v21.44.528-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 108</b> . 3 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -843,7 +836,6 @@
 | [260415](https://github.com/nullcpy/archive/releases/tag/260415) 🧪 | 2026-10-30 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260415/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260415/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260415/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260415/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 107</b> . 5 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -964,7 +956,6 @@
 | [260392](https://github.com/nullcpy/archive/releases/tag/260392) 🧪 | 2026-10-27 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260392/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260392/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260392/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260392/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 106</b> . 1 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -1080,7 +1071,6 @@
 | [260380](https://github.com/nullcpy/archive/releases/tag/260380) 🧪 | 2026-10-26 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 105</b> . 7 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -1205,7 +1195,6 @@
 ### Standard
 
 <details><summary><b>Applied patches: 84</b> . 1 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Ambient mode control</li>
 <li>App refresh rate</li>
@@ -1299,7 +1288,6 @@
 | [260418](https://github.com/nullcpy/archive/releases/tag/260418) 🧪 | 2026-10-30 | `21.13.164` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260418/youtube-anddea-v21.13.164-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260418/youtube-anddea-v21.13.164-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260418/youtube-anddea-module-v21.13.164-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260418/youtube-anddea-module-v21.13.164-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 82</b> . 1 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Ambient mode control</li>
 <li>App refresh rate</li>

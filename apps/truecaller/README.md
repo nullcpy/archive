@@ -5,7 +5,6 @@
 ### Standard
 
 <details><summary><b>Applied patches: 16</b> . 5 build(s)</summary>
-<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Disable ads</li>
 <li>Disable auto-launch</li>
