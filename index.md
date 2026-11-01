@@ -33,7 +33,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | <time datetime="2026-11-01T05:59:29Z" data-relative>2026-11-01</time> | 112 |
 | [Google Maps](https://nullcpy.github.io/archive/apps/googlemaps/) | <time datetime="2026-10-30T23:51:29Z" data-relative>2026-10-30</time> | 205 |
 | [Google Phone](https://nullcpy.github.io/archive/apps/googlephone/) | <time datetime="2026-11-01T14:43:11Z" data-relative>2026-11-01</time> | 4 |
-| [Google Photos](https://nullcpy.github.io/archive/apps/googlephotos/) | <time datetime="2026-11-01T12:03:18Z" data-relative>2026-11-01</time> | 116 |
+| [Google Photos](https://nullcpy.github.io/archive/apps/googlephotos/) | <time datetime="2026-11-01T18:24:37Z" data-relative>2026-11-01</time> | 116 |
 | [Google Recorder](https://nullcpy.github.io/archive/apps/googlerecorder/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> | 6 |
 | [HBO Max](https://nullcpy.github.io/archive/apps/hbomax/) | <time datetime="2026-10-31T20:14:45Z" data-relative>2026-10-31</time> | 7 |
 | [IMDb](https://nullcpy.github.io/archive/apps/imdb/) | <time datetime="2026-10-25T15:56:22Z" data-relative>2026-10-25</time> | 3 |
