@@ -1,0 +1,28 @@
+# Editor defaults for the mirror repo, matching rvb's .editorconfig and this repo's
+# .gitattributes. The point is the same: a save must not reformat a file nobody edited.
+#
+# Worth knowing before you edit anything here. `README.md` and everything under `apps/`
+# is written by .github/workflows/pages.yml from rvb's generator, the `site` branch is
+# rebuilt from that same render, and only the layout, stylesheet, script and config are
+# hand-maintained. A wording change to a generated page is not just formatted away, it
+# is overwritten at the next dispatch; it belongs in rvb's build_archive_pages.py.
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 4
+
+[*.{yml,yaml}]
+indent_size = 2
+
+[*.{html,css,svg,json}]
+indent_size = 2
+
+# Two trailing spaces are a markdown line break, and the generated tables are compared
+# against nothing at all here, so leave their whitespace exactly as written.
+[*.md]
+trim_trailing_whitespace = false
