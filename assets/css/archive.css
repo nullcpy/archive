@@ -179,17 +179,20 @@ details li {
   break-inside: avoid;
 }
 
-/* A scope tag names who lacks the patch. It must not compete with the patch name,
-   so it sits smaller and one step dimmer than the line it belongs to. */
+/* A scope tag names who lacks the patch, so it must read as a label and not as
+   code: pill shape, the page font rather than mono, one step dimmer than the
+   patch name it follows. */
 details li code {
-  font-size: 0.78em;
-  color: var(--text-3);
-}
-
-details .legend {
-  margin: 2px 0 10px;
-  font-size: 0.8rem;
-  color: var(--text-3);
+  padding: 1px 8px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--bg-chip);
+  color: var(--text-2);
+  font-family: inherit;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
 }
 
 @media (max-width: 640px) {
