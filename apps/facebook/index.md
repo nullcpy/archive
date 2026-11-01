@@ -20,11 +20,11 @@ title: Facebook
 <li>Facebook signature compatibility</li>
 <li>Material You theme</li>
 <li>Media quality controls</li>
+<li>Messenger install compatibility</li>
 <li>Open Marketplace on launch</li>
 <li>Optimize Facebook</li>
 <li>Picture-in-picture</li>
 <li>Reels 2x speed</li>
-<li>Messenger install compatibility</li>
 </ul>
 </details>
 
@@ -39,12 +39,14 @@ title: Facebook
 
 <details><summary><b>Applied patches: 103</b> . 1 build(s)</summary>
 <ul>
-<li>AMOLED black theme</li>
+<li>Accent color</li>
 <li>Allow screenshots</li>
-<li>Block Instant Games ads</li>
+<li>AMOLED black theme</li>
+<li>Badge and logo colors</li>
 <li>Block ad telemetry</li>
 <li>Block background ad prefetch</li>
 <li>Block background-return feed refresh</li>
+<li>Block Instant Games ads</li>
 <li>Block promotional notifications</li>
 <li>Block screenshot detection</li>
 <li>Clean up Facebook's chat list</li>
@@ -63,21 +65,20 @@ title: Facebook
 <li>Following feed on Home</li>
 <li>Force dark mode</li>
 <li>Frame step</li>
+<li>Hide affiliate product links</li>
 <li>Hide AI-detected posts</li>
+<li>Hide carrier data banners</li>
 <li>Hide Menu promotions</li>
 <li>Hide Meta AI comment summaries</li>
 <li>Hide Meta AI in search</li>
 <li>Hide Meta AI questions under posts</li>
 <li>Hide Meta upsells</li>
-<li>Hide Reels in the feed</li>
-<li>Hide Stories tray</li>
-<li>Hide affiliate product links</li>
-<li>Hide carrier data banners</li>
 <li>Hide post prompts</li>
 <li>Hide posts by words</li>
 <li>Hide profile notes</li>
 <li>Hide read receipts</li>
 <li>Hide reel interest prompts</li>
+<li>Hide Reels in the feed</li>
 <li>Hide seen posts</li>
 <li>Hide sponsored Marketplace listings</li>
 <li>Hide sponsored posts</li>
@@ -85,6 +86,7 @@ title: Facebook
 <li>Hide sponsored reels</li>
 <li>Hide sponsored search results</li>
 <li>Hide sponsored stories</li>
+<li>Hide Stories tray</li>
 <li>Hide suggested and promoted posts</li>
 <li>Hide suggested stories</li>
 <li>Hide tab badges</li>
@@ -107,10 +109,10 @@ title: Facebook
 <li>Longer music on photo stories</li>
 <li>Marketplace only</li>
 <li>Newest reels first</li>
-<li>Open Messenger from the top bar</li>
 <li>Open comments at full height</li>
 <li>Open comments with a gesture</li>
 <li>Open links in external browser</li>
+<li>Open Messenger from the top bar</li>
 <li>Open on a chosen tab</li>
 <li>Picture-in-picture</li>
 <li>Pinch to zoom</li>
@@ -120,8 +122,8 @@ title: Facebook
 <li>Sanitize sharing links</li>
 <li>Send chat photos and videos at original quality</li>
 <li>Share sheet items</li>
-<li>Show View profile on Marketplace sellers</li>
 <li>Show full post text</li>
+<li>Show View profile on Marketplace sellers</li>
 <li>Skip silent parts</li>
 <li>Start on x86 devices</li>
 <li>Stop Story auto-advance</li>
@@ -130,18 +132,16 @@ title: Facebook
 <li>Tag suggestions only after @</li>
 <li>Tap shows the controls</li>
 <li>Tap to play</li>
-<li>Turn off HDR brightness</li>
 <li>Turn off auto-translation</li>
 <li>Turn off double tap to like</li>
 <li>Turn off haptics</li>
+<li>Turn off HDR brightness</li>
 <li>Turn off screen transitions</li>
 <li>Unlock app icons</li>
 <li>Upload Stories in HD</li>
 <li>Use the phone's emoji</li>
 <li>Use the system font</li>
 <li>View stories anonymously</li>
-<li>Badge and logo colors</li>
-<li>Accent color</li>
 </ul>
 </details>
 
@@ -151,12 +151,13 @@ title: Facebook
 
 <details><summary><b>Applied patches: 100</b> . 2 build(s)</summary>
 <ul>
-<li>AMOLED black theme</li>
+<li>Accent color</li>
 <li>Allow screenshots</li>
-<li>Block Instant Games ads</li>
+<li>AMOLED black theme</li>
 <li>Block ad telemetry</li>
 <li>Block background ad prefetch</li>
 <li>Block background-return feed refresh</li>
+<li>Block Instant Games ads</li>
 <li>Block promotional notifications</li>
 <li>Block screenshot detection</li>
 <li>Clean up Facebook's chat list</li>
@@ -175,21 +176,20 @@ title: Facebook
 <li>Following feed on Home</li>
 <li>Force dark mode</li>
 <li>Frame step</li>
+<li>Hide affiliate product links</li>
 <li>Hide AI-detected posts</li>
+<li>Hide carrier data banners</li>
 <li>Hide Menu promotions</li>
 <li>Hide Meta AI comment summaries</li>
 <li>Hide Meta AI in search</li>
 <li>Hide Meta AI questions under posts</li>
 <li>Hide Meta upsells</li>
-<li>Hide Reels in the feed</li>
-<li>Hide Stories tray</li>
-<li>Hide affiliate product links</li>
-<li>Hide carrier data banners</li>
 <li>Hide post prompts</li>
 <li>Hide posts by words</li>
 <li>Hide profile notes</li>
 <li>Hide read receipts</li>
 <li>Hide reel interest prompts</li>
+<li>Hide Reels in the feed</li>
 <li>Hide seen posts</li>
 <li>Hide sponsored Marketplace listings</li>
 <li>Hide sponsored posts</li>
@@ -197,6 +197,7 @@ title: Facebook
 <li>Hide sponsored reels</li>
 <li>Hide sponsored search results</li>
 <li>Hide sponsored stories</li>
+<li>Hide Stories tray</li>
 <li>Hide suggested and promoted posts</li>
 <li>Hide suggested stories</li>
 <li>Hide tab badges</li>
@@ -219,10 +220,10 @@ title: Facebook
 <li>Longer music on photo stories</li>
 <li>Marketplace only</li>
 <li>Newest reels first</li>
-<li>Open Messenger from the top bar</li>
 <li>Open comments at full height</li>
 <li>Open comments with a gesture</li>
 <li>Open links in external browser</li>
+<li>Open Messenger from the top bar</li>
 <li>Open on a chosen tab</li>
 <li>Picture-in-picture</li>
 <li>Pinch to zoom</li>
@@ -240,17 +241,16 @@ title: Facebook
 <li>Tag suggestions only after @</li>
 <li>Tap shows the controls</li>
 <li>Tap to play</li>
-<li>Turn off HDR brightness</li>
 <li>Turn off auto-translation</li>
 <li>Turn off double tap to like</li>
 <li>Turn off haptics</li>
+<li>Turn off HDR brightness</li>
 <li>Turn off screen transitions</li>
 <li>Unlock app icons</li>
 <li>Upload Stories in HD</li>
 <li>Use the phone's emoji</li>
 <li>Use the system font</li>
 <li>View stories anonymously</li>
-<li>Accent color</li>
 </ul>
 </details>
 
@@ -261,12 +261,13 @@ title: Facebook
 
 <details><summary><b>Applied patches: 93</b> . 1 build(s)</summary>
 <ul>
-<li>AMOLED black theme</li>
+<li>Accent color</li>
 <li>Allow screenshots</li>
-<li>Block Instant Games ads</li>
+<li>AMOLED black theme</li>
 <li>Block ad telemetry</li>
 <li>Block background ad prefetch</li>
 <li>Block background-return feed refresh</li>
+<li>Block Instant Games ads</li>
 <li>Block promotional notifications</li>
 <li>Block screenshot detection</li>
 <li>Clean up Facebook's chat list</li>
@@ -284,20 +285,19 @@ title: Facebook
 <li>Following feed on Home</li>
 <li>Force dark mode</li>
 <li>Frame step</li>
+<li>Hide affiliate product links</li>
 <li>Hide AI-detected posts</li>
+<li>Hide carrier data banners</li>
 <li>Hide Menu promotions</li>
 <li>Hide Meta AI comment summaries</li>
 <li>Hide Meta AI in search</li>
 <li>Hide Meta AI questions under posts</li>
 <li>Hide Meta upsells</li>
-<li>Hide Reels in the feed</li>
-<li>Hide Stories tray</li>
-<li>Hide affiliate product links</li>
-<li>Hide carrier data banners</li>
 <li>Hide post prompts</li>
 <li>Hide posts by words</li>
 <li>Hide read receipts</li>
 <li>Hide reel interest prompts</li>
+<li>Hide Reels in the feed</li>
 <li>Hide seen posts</li>
 <li>Hide sponsored Marketplace listings</li>
 <li>Hide sponsored posts</li>
@@ -305,6 +305,7 @@ title: Facebook
 <li>Hide sponsored reels</li>
 <li>Hide sponsored search results</li>
 <li>Hide sponsored stories</li>
+<li>Hide Stories tray</li>
 <li>Hide suggested and promoted posts</li>
 <li>Hide suggested stories</li>
 <li>Hide tab badges</li>
@@ -324,10 +325,10 @@ title: Facebook
 <li>Keep the progress bar</li>
 <li>Keep the reel speed</li>
 <li>Marketplace only</li>
-<li>Open Messenger from the top bar</li>
 <li>Open comments at full height</li>
 <li>Open comments with a gesture</li>
 <li>Open links in external browser</li>
+<li>Open Messenger from the top bar</li>
 <li>Open on a chosen tab</li>
 <li>Picture-in-picture</li>
 <li>Restore screens on re-signed builds</li>
@@ -343,17 +344,16 @@ title: Facebook
 <li>Tab bar at the bottom</li>
 <li>Tag suggestions only after @</li>
 <li>Tap to play</li>
-<li>Turn off HDR brightness</li>
 <li>Turn off auto-translation</li>
 <li>Turn off double tap to like</li>
 <li>Turn off haptics</li>
+<li>Turn off HDR brightness</li>
 <li>Turn off screen transitions</li>
 <li>Unlock app icons</li>
 <li>Upload Stories in HD</li>
 <li>Use the phone's emoji</li>
 <li>Use the system font</li>
 <li>View stories anonymously</li>
-<li>Accent color</li>
 </ul>
 </details>
 
@@ -365,11 +365,13 @@ title: Facebook
 
 <details><summary><b>Applied patches: 103</b> . 1 build(s)</summary>
 <ul>
+<li>Accent color</li>
 <li>Allow screenshots</li>
-<li>Block Instant Games ads</li>
+<li>Badge and logo colors</li>
 <li>Block ad telemetry</li>
 <li>Block background ad prefetch</li>
 <li>Block background-return feed refresh</li>
+<li>Block Instant Games ads</li>
 <li>Block promotional notifications</li>
 <li>Block screenshot detection</li>
 <li>Clean up Facebook's chat list</li>
@@ -388,21 +390,20 @@ title: Facebook
 <li>Following feed on Home</li>
 <li>Force dark mode</li>
 <li>Frame step</li>
+<li>Hide affiliate product links</li>
 <li>Hide AI-detected posts</li>
+<li>Hide carrier data banners</li>
 <li>Hide Menu promotions</li>
 <li>Hide Meta AI comment summaries</li>
 <li>Hide Meta AI in search</li>
 <li>Hide Meta AI questions under posts</li>
 <li>Hide Meta upsells</li>
-<li>Hide Reels in the feed</li>
-<li>Hide Stories tray</li>
-<li>Hide affiliate product links</li>
-<li>Hide carrier data banners</li>
 <li>Hide post prompts</li>
 <li>Hide posts by words</li>
 <li>Hide profile notes</li>
 <li>Hide read receipts</li>
 <li>Hide reel interest prompts</li>
+<li>Hide Reels in the feed</li>
 <li>Hide seen posts</li>
 <li>Hide sponsored Marketplace listings</li>
 <li>Hide sponsored posts</li>
@@ -410,6 +411,7 @@ title: Facebook
 <li>Hide sponsored reels</li>
 <li>Hide sponsored search results</li>
 <li>Hide sponsored stories</li>
+<li>Hide Stories tray</li>
 <li>Hide suggested and promoted posts</li>
 <li>Hide suggested stories</li>
 <li>Hide tab badges</li>
@@ -431,11 +433,12 @@ title: Facebook
 <li>Keep the reel speed</li>
 <li>Longer music on photo stories</li>
 <li>Marketplace only</li>
+<li>Material You theme</li>
 <li>Newest reels first</li>
-<li>Open Messenger from the top bar</li>
 <li>Open comments at full height</li>
 <li>Open comments with a gesture</li>
 <li>Open links in external browser</li>
+<li>Open Messenger from the top bar</li>
 <li>Open on a chosen tab</li>
 <li>Picture-in-picture</li>
 <li>Pinch to zoom</li>
@@ -445,8 +448,8 @@ title: Facebook
 <li>Sanitize sharing links</li>
 <li>Send chat photos and videos at original quality</li>
 <li>Share sheet items</li>
-<li>Show View profile on Marketplace sellers</li>
 <li>Show full post text</li>
+<li>Show View profile on Marketplace sellers</li>
 <li>Skip silent parts</li>
 <li>Start on x86 devices</li>
 <li>Stop Story auto-advance</li>
@@ -455,19 +458,16 @@ title: Facebook
 <li>Tag suggestions only after @</li>
 <li>Tap shows the controls</li>
 <li>Tap to play</li>
-<li>Turn off HDR brightness</li>
 <li>Turn off auto-translation</li>
 <li>Turn off double tap to like</li>
 <li>Turn off haptics</li>
+<li>Turn off HDR brightness</li>
 <li>Turn off screen transitions</li>
 <li>Unlock app icons</li>
 <li>Upload Stories in HD</li>
 <li>Use the phone's emoji</li>
 <li>Use the system font</li>
 <li>View stories anonymously</li>
-<li>Material You theme</li>
-<li>Badge and logo colors</li>
-<li>Accent color</li>
 </ul>
 </details>
 
@@ -477,11 +477,12 @@ title: Facebook
 
 <details><summary><b>Applied patches: 100</b> . 2 build(s)</summary>
 <ul>
+<li>Accent color</li>
 <li>Allow screenshots</li>
-<li>Block Instant Games ads</li>
 <li>Block ad telemetry</li>
 <li>Block background ad prefetch</li>
 <li>Block background-return feed refresh</li>
+<li>Block Instant Games ads</li>
 <li>Block promotional notifications</li>
 <li>Block screenshot detection</li>
 <li>Clean up Facebook's chat list</li>
@@ -500,21 +501,20 @@ title: Facebook
 <li>Following feed on Home</li>
 <li>Force dark mode</li>
 <li>Frame step</li>
+<li>Hide affiliate product links</li>
 <li>Hide AI-detected posts</li>
+<li>Hide carrier data banners</li>
 <li>Hide Menu promotions</li>
 <li>Hide Meta AI comment summaries</li>
 <li>Hide Meta AI in search</li>
 <li>Hide Meta AI questions under posts</li>
 <li>Hide Meta upsells</li>
-<li>Hide Reels in the feed</li>
-<li>Hide Stories tray</li>
-<li>Hide affiliate product links</li>
-<li>Hide carrier data banners</li>
 <li>Hide post prompts</li>
 <li>Hide posts by words</li>
 <li>Hide profile notes</li>
 <li>Hide read receipts</li>
 <li>Hide reel interest prompts</li>
+<li>Hide Reels in the feed</li>
 <li>Hide seen posts</li>
 <li>Hide sponsored Marketplace listings</li>
 <li>Hide sponsored posts</li>
@@ -522,6 +522,7 @@ title: Facebook
 <li>Hide sponsored reels</li>
 <li>Hide sponsored search results</li>
 <li>Hide sponsored stories</li>
+<li>Hide Stories tray</li>
 <li>Hide suggested and promoted posts</li>
 <li>Hide suggested stories</li>
 <li>Hide tab badges</li>
@@ -543,11 +544,12 @@ title: Facebook
 <li>Keep the reel speed</li>
 <li>Longer music on photo stories</li>
 <li>Marketplace only</li>
+<li>Material You theme</li>
 <li>Newest reels first</li>
-<li>Open Messenger from the top bar</li>
 <li>Open comments at full height</li>
 <li>Open comments with a gesture</li>
 <li>Open links in external browser</li>
+<li>Open Messenger from the top bar</li>
 <li>Open on a chosen tab</li>
 <li>Picture-in-picture</li>
 <li>Pinch to zoom</li>
@@ -565,18 +567,16 @@ title: Facebook
 <li>Tag suggestions only after @</li>
 <li>Tap shows the controls</li>
 <li>Tap to play</li>
-<li>Turn off HDR brightness</li>
 <li>Turn off auto-translation</li>
 <li>Turn off double tap to like</li>
 <li>Turn off haptics</li>
+<li>Turn off HDR brightness</li>
 <li>Turn off screen transitions</li>
 <li>Unlock app icons</li>
 <li>Upload Stories in HD</li>
 <li>Use the phone's emoji</li>
 <li>Use the system font</li>
 <li>View stories anonymously</li>
-<li>Material You theme</li>
-<li>Accent color</li>
 </ul>
 </details>
 
@@ -587,11 +587,12 @@ title: Facebook
 
 <details><summary><b>Applied patches: 93</b> . 1 build(s)</summary>
 <ul>
+<li>Accent color</li>
 <li>Allow screenshots</li>
-<li>Block Instant Games ads</li>
 <li>Block ad telemetry</li>
 <li>Block background ad prefetch</li>
 <li>Block background-return feed refresh</li>
+<li>Block Instant Games ads</li>
 <li>Block promotional notifications</li>
 <li>Block screenshot detection</li>
 <li>Clean up Facebook's chat list</li>
@@ -609,20 +610,19 @@ title: Facebook
 <li>Following feed on Home</li>
 <li>Force dark mode</li>
 <li>Frame step</li>
+<li>Hide affiliate product links</li>
 <li>Hide AI-detected posts</li>
+<li>Hide carrier data banners</li>
 <li>Hide Menu promotions</li>
 <li>Hide Meta AI comment summaries</li>
 <li>Hide Meta AI in search</li>
 <li>Hide Meta AI questions under posts</li>
 <li>Hide Meta upsells</li>
-<li>Hide Reels in the feed</li>
-<li>Hide Stories tray</li>
-<li>Hide affiliate product links</li>
-<li>Hide carrier data banners</li>
 <li>Hide post prompts</li>
 <li>Hide posts by words</li>
 <li>Hide read receipts</li>
 <li>Hide reel interest prompts</li>
+<li>Hide Reels in the feed</li>
 <li>Hide seen posts</li>
 <li>Hide sponsored Marketplace listings</li>
 <li>Hide sponsored posts</li>
@@ -630,6 +630,7 @@ title: Facebook
 <li>Hide sponsored reels</li>
 <li>Hide sponsored search results</li>
 <li>Hide sponsored stories</li>
+<li>Hide Stories tray</li>
 <li>Hide suggested and promoted posts</li>
 <li>Hide suggested stories</li>
 <li>Hide tab badges</li>
@@ -649,10 +650,11 @@ title: Facebook
 <li>Keep the progress bar</li>
 <li>Keep the reel speed</li>
 <li>Marketplace only</li>
-<li>Open Messenger from the top bar</li>
+<li>Material You theme</li>
 <li>Open comments at full height</li>
 <li>Open comments with a gesture</li>
 <li>Open links in external browser</li>
+<li>Open Messenger from the top bar</li>
 <li>Open on a chosen tab</li>
 <li>Picture-in-picture</li>
 <li>Restore screens on re-signed builds</li>
@@ -668,18 +670,16 @@ title: Facebook
 <li>Tab bar at the bottom</li>
 <li>Tag suggestions only after @</li>
 <li>Tap to play</li>
-<li>Turn off HDR brightness</li>
 <li>Turn off auto-translation</li>
 <li>Turn off double tap to like</li>
 <li>Turn off haptics</li>
+<li>Turn off HDR brightness</li>
 <li>Turn off screen transitions</li>
 <li>Unlock app icons</li>
 <li>Upload Stories in HD</li>
 <li>Use the phone's emoji</li>
 <li>Use the system font</li>
 <li>View stories anonymously</li>
-<li>Material You theme</li>
-<li>Accent color</li>
 </ul>
 </details>
 
@@ -689,12 +689,13 @@ title: Facebook
 
 <details><summary><b>Applied patches: 94</b> . 1 build(s)</summary>
 <ul>
-<li>AMOLED black theme</li>
+<li>Accent color</li>
 <li>Allow screenshots</li>
-<li>Block Instant Games ads</li>
+<li>AMOLED black theme</li>
 <li>Block ad telemetry</li>
 <li>Block background ad prefetch</li>
 <li>Block background-return feed refresh</li>
+<li>Block Instant Games ads</li>
 <li>Block promotional notifications</li>
 <li>Block screenshot detection</li>
 <li>Clean up Facebook's chat list</li>
@@ -712,20 +713,19 @@ title: Facebook
 <li>Following feed on Home</li>
 <li>Force dark mode</li>
 <li>Frame step</li>
+<li>Hide affiliate product links</li>
 <li>Hide AI-detected posts</li>
+<li>Hide carrier data banners</li>
 <li>Hide Menu promotions</li>
 <li>Hide Meta AI comment summaries</li>
 <li>Hide Meta AI in search</li>
 <li>Hide Meta AI questions under posts</li>
 <li>Hide Meta upsells</li>
-<li>Hide Reels in the feed</li>
-<li>Hide Stories tray</li>
-<li>Hide affiliate product links</li>
-<li>Hide carrier data banners</li>
 <li>Hide post prompts</li>
 <li>Hide posts by words</li>
 <li>Hide read receipts</li>
 <li>Hide reel interest prompts</li>
+<li>Hide Reels in the feed</li>
 <li>Hide seen posts</li>
 <li>Hide sponsored Marketplace listings</li>
 <li>Hide sponsored posts</li>
@@ -733,6 +733,7 @@ title: Facebook
 <li>Hide sponsored reels</li>
 <li>Hide sponsored search results</li>
 <li>Hide sponsored stories</li>
+<li>Hide Stories tray</li>
 <li>Hide suggested and promoted posts</li>
 <li>Hide suggested stories</li>
 <li>Hide tab badges</li>
@@ -752,10 +753,11 @@ title: Facebook
 <li>Keep the progress bar</li>
 <li>Keep the reel speed</li>
 <li>Marketplace only</li>
-<li>Open Messenger from the top bar</li>
+<li>Material You theme</li>
 <li>Open comments at full height</li>
 <li>Open comments with a gesture</li>
 <li>Open links in external browser</li>
+<li>Open Messenger from the top bar</li>
 <li>Open on a chosen tab</li>
 <li>Picture-in-picture</li>
 <li>Restore screens on re-signed builds</li>
@@ -771,18 +773,16 @@ title: Facebook
 <li>Tab bar at the bottom</li>
 <li>Tag suggestions only after @</li>
 <li>Tap to play</li>
-<li>Turn off HDR brightness</li>
 <li>Turn off auto-translation</li>
 <li>Turn off double tap to like</li>
 <li>Turn off haptics</li>
+<li>Turn off HDR brightness</li>
 <li>Turn off screen transitions</li>
 <li>Unlock app icons</li>
 <li>Upload Stories in HD</li>
 <li>Use the phone's emoji</li>
 <li>Use the system font</li>
 <li>View stories anonymously</li>
-<li>Material You theme</li>
-<li>Accent color</li>
 </ul>
 </details>
 

@@ -23,10 +23,10 @@ title: Twitter
 <li>Custom share menu</li>
 <li>Custom sharing domain</li>
 <li>Customise post font size</li>
-<li>Customize Inline action Bar items</li>
-<li>Customize Navigation Bar items</li>
 <li>Customize default reply sorting</li>
 <li>Customize explore tabs</li>
+<li>Customize Inline action Bar items</li>
+<li>Customize Navigation Bar items</li>
 <li>Customize notification tabs</li>
 <li>Customize profile tabs</li>
 <li>Customize search suggestions</li>
@@ -37,28 +37,28 @@ title: Twitter
 <li>Disable auto timeline scroll on launch</li>
 <li>Disable chirp font</li>
 <li>Download patch</li>
-<li>Enable PiP mode automatically</li>
-<li>Enable Undo Posts</li>
 <li>Enable debug menu for posts</li>
 <li>Enable force HD videos</li>
+<li>Enable PiP mode automatically</li>
+<li>Enable Undo Posts</li>
 <li>Force enable translate</li>
 <li>Handle custom twitter links</li>
+<li>Hide badges from navigation bar icons</li>
 <li>Hide Banner</li>
+<li>Hide bookmark icon in timeline</li>
+<li>Hide community badges</li>
 <li>Hide Community Notes</li>
 <li>Hide FAB</li>
 <li>Hide FAB Menu Buttons</li>
-<li>Hide Live Threads</li>
-<li>Hide Recommended Users</li>
-<li>Hide badges from navigation bar icons</li>
-<li>Hide bookmark icon in timeline</li>
-<li>Hide community badges</li>
 <li>Hide followed by context</li>
 <li>Hide hidden replies</li>
 <li>Hide immersive player</li>
+<li>Hide Live Threads</li>
 <li>Hide nudge button</li>
 <li>Hide post metrics</li>
 <li>Hide promote button</li>
 <li>Hide recommendation items</li>
+<li>Hide Recommended Users</li>
 <li>Hook feature flag</li>
 <li>Import/Export login token</li>
 <li>Legacy share links</li>
@@ -108,10 +108,10 @@ title: Twitter
 <li>Custom share menu</li>
 <li>Custom sharing domain</li>
 <li>Customise post font size</li>
-<li>Customize Inline action Bar items</li>
-<li>Customize Navigation Bar items</li>
 <li>Customize default reply sorting</li>
 <li>Customize explore tabs</li>
+<li>Customize Inline action Bar items</li>
+<li>Customize Navigation Bar items</li>
 <li>Customize notification tabs</li>
 <li>Customize profile tabs</li>
 <li>Customize search suggestions</li>
@@ -123,28 +123,28 @@ title: Twitter
 <li>Disable chirp font</li>
 <li>Download patch</li>
 <li>Dynamic color</li>
-<li>Enable PiP mode automatically</li>
-<li>Enable Undo Posts</li>
 <li>Enable debug menu for posts</li>
 <li>Enable force HD videos</li>
+<li>Enable PiP mode automatically</li>
+<li>Enable Undo Posts</li>
 <li>Force enable translate</li>
 <li>Handle custom twitter links</li>
+<li>Hide badges from navigation bar icons</li>
 <li>Hide Banner</li>
+<li>Hide bookmark icon in timeline</li>
+<li>Hide community badges</li>
 <li>Hide Community Notes</li>
 <li>Hide FAB</li>
 <li>Hide FAB Menu Buttons</li>
-<li>Hide Live Threads</li>
-<li>Hide Recommended Users</li>
-<li>Hide badges from navigation bar icons</li>
-<li>Hide bookmark icon in timeline</li>
-<li>Hide community badges</li>
 <li>Hide followed by context</li>
 <li>Hide hidden replies</li>
 <li>Hide immersive player</li>
+<li>Hide Live Threads</li>
 <li>Hide nudge button</li>
 <li>Hide post metrics</li>
 <li>Hide promote button</li>
 <li>Hide recommendation items</li>
+<li>Hide Recommended Users</li>
 <li>Hook feature flag</li>
 <li>Import/Export login token</li>
 <li>Legacy share links</li>
@@ -199,14 +199,14 @@ title: Twitter
 <li>NewX: Filter posts by keyword</li>
 <li>NewX: Gallery profile Photos tab</li>
 <li>NewX: Hide AI-generated posts</li>
-<li>NewX: Hide Discover more</li>
-<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide compose button</li>
+<li>NewX: Hide Discover more</li>
 <li>NewX: Hide new posts pill</li>
 <li>NewX: Hide post author actions</li>
 <li>NewX: Hide post reply bar</li>
 <li>NewX: Hide posts by verified account type</li>
 <li>NewX: Hide premium upsell</li>
+<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide timeline tabs bar</li>
 <li>NewX: Hide who to follow</li>
 <li>NewX: Inline download button</li>
@@ -256,14 +256,14 @@ title: Twitter
 <li>NewX: Filter posts by keyword</li>
 <li>NewX: Gallery profile Photos tab</li>
 <li>NewX: Hide AI-generated posts</li>
-<li>NewX: Hide Discover more</li>
-<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide compose button</li>
+<li>NewX: Hide Discover more</li>
 <li>NewX: Hide new posts pill</li>
 <li>NewX: Hide post author actions</li>
 <li>NewX: Hide post reply bar</li>
 <li>NewX: Hide posts by verified account type</li>
 <li>NewX: Hide premium upsell</li>
+<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide timeline tabs bar</li>
 <li>NewX: Hide who to follow</li>
 <li>NewX: Inline download button</li>
@@ -309,14 +309,14 @@ title: Twitter
 <li>NewX: Filter posts by keyword</li>
 <li>NewX: Gallery profile Photos tab</li>
 <li>NewX: Hide AI-generated posts</li>
-<li>NewX: Hide Discover more</li>
-<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide compose button</li>
+<li>NewX: Hide Discover more</li>
 <li>NewX: Hide new posts pill</li>
 <li>NewX: Hide post author actions</li>
 <li>NewX: Hide post reply bar</li>
 <li>NewX: Hide posts by verified account type</li>
 <li>NewX: Hide premium upsell</li>
+<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide timeline tabs bar</li>
 <li>NewX: Hide who to follow</li>
 <li>NewX: Inline download button</li>
@@ -363,14 +363,14 @@ title: Twitter
 <li>NewX: Filter posts by keyword</li>
 <li>NewX: Gallery profile Photos tab</li>
 <li>NewX: Hide AI-generated posts</li>
-<li>NewX: Hide Discover more</li>
-<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide compose button</li>
+<li>NewX: Hide Discover more</li>
 <li>NewX: Hide new posts pill</li>
 <li>NewX: Hide post author actions</li>
 <li>NewX: Hide post reply bar</li>
 <li>NewX: Hide posts by verified account type</li>
 <li>NewX: Hide premium upsell</li>
+<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide timeline tabs bar</li>
 <li>NewX: Hide who to follow</li>
 <li>NewX: Inline download button</li>
@@ -416,14 +416,14 @@ title: Twitter
 <li>NewX: Filter posts by keyword</li>
 <li>NewX: Gallery profile Photos tab</li>
 <li>NewX: Hide AI-generated posts</li>
-<li>NewX: Hide Discover more</li>
-<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide compose button</li>
+<li>NewX: Hide Discover more</li>
 <li>NewX: Hide new posts pill</li>
 <li>NewX: Hide post author actions</li>
 <li>NewX: Hide post reply bar</li>
 <li>NewX: Hide posts by verified account type</li>
 <li>NewX: Hide premium upsell</li>
+<li>NewX: Hide Spaces bar</li>
 <li>NewX: Hide timeline tabs bar</li>
 <li>NewX: Hide who to follow</li>
 <li>NewX: Inline download button</li>

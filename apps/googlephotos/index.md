@@ -9,14 +9,14 @@ title: Google Photos
 ### Standard
 
 <details><summary><b>Applied patches: 6</b> . 5 build(s)</summary>
+<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>AMOLED dark theme</li>
 <li>DCIM &amp; backup control</li>
 <li>Flag manager &amp; Toolkit</li>
+<li>GmsCore support <code>module omit</code></li>
 <li>Media engine &amp; AI fixes</li>
 <li>Spoof features</li>
-<li>GmsCore support</li>
-<li>Module artifacts omit <code>GmsCore support</code></li>
 </ul>
 </details>
 
@@ -35,10 +35,10 @@ title: Google Photos
 <li>AMOLED dark theme</li>
 <li>DCIM &amp; backup control</li>
 <li>Flag manager &amp; Toolkit</li>
-<li>Media engine &amp; AI fixes</li>
-<li>Spoof features</li>
-<li>Official package name</li>
 <li>GmsCore support</li>
+<li>Media engine &amp; AI fixes</li>
+<li>Official package name</li>
+<li>Spoof features</li>
 </ul>
 </details>
 
@@ -55,11 +55,11 @@ title: Google Photos
 ### Standard
 
 <details><summary><b>Applied patches: 3</b> . 4 build(s)</summary>
+<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Fix selected account persistence</li>
-<li>GmsCore support</li>
+<li>GmsCore support <code>module omit</code></li>
 <li>Spoof features</li>
-<li>Module artifacts omit <code>GmsCore support</code></li>
 </ul>
 </details>
 

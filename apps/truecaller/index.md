@@ -9,6 +9,7 @@ title: Truecaller
 ### Standard
 
 <details><summary><b>Applied patches: 16</b> . 5 build(s)</summary>
+<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Disable ads</li>
 <li>Disable auto-launch</li>
@@ -17,16 +18,15 @@ title: Truecaller
 <li>Disable telemetry</li>
 <li>Disable update prompts</li>
 <li>Enable Premium</li>
-<li>GmsCore support</li>
+<li>GmsCore support <code>module omit</code></li>
 <li>Hide Blocking tab</li>
+<li>Hide family button</li>
 <li>Hide Premium tab</li>
+<li>Hide promotions</li>
 <li>Hide Scam feed</li>
 <li>Hide Wear OS settings</li>
-<li>Hide family button</li>
-<li>Hide promotions</li>
 <li>Spoof signature</li>
 <li>Use SMS for verification codes</li>
-<li>Module artifacts omit <code>GmsCore support</code></li>
 </ul>
 </details>
 

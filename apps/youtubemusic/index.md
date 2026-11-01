@@ -9,6 +9,7 @@ title: YouTube Music
 ### Standard
 
 <details><summary><b>Applied patches: 48</b> . 15 build(s)</summary>
+<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Android Auto</li>
 <li>App refresh rate</li>
@@ -19,9 +20,9 @@ title: YouTube Music
 <li>Crossfade</li>
 <li>Custom branding</li>
 <li>Custom font</li>
+<li>Disable dislike redirection</li>
 <li>Disable DRC audio</li>
 <li>Disable QUIC protocol</li>
-<li>Disable dislike redirection</li>
 <li>Downloads</li>
 <li>Enable audio/video switch</li>
 <li>Enable debugging</li>
@@ -30,7 +31,7 @@ title: YouTube Music
 <li>Enable swipe to dismiss miniplayer</li>
 <li>Force original audio</li>
 <li>Force portrait orientation</li>
-<li>GmsCore support</li>
+<li>GmsCore support <code>module omit</code></li>
 <li>Hide ads</li>
 <li>Hide buttons</li>
 <li>Hide flyout menu components</li>
@@ -58,7 +59,6 @@ title: YouTube Music
 <li>Spoof video streams</li>
 <li>Theme</li>
 <li>Third-party lyrics</li>
-<li>Module artifacts omit <code>GmsCore support</code></li>
 </ul>
 </details>
 
@@ -83,6 +83,7 @@ title: YouTube Music
 ### Experimental
 
 <details><summary><b>Applied patches: 48</b> . 15 build(s)</summary>
+<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>Android Auto</li>
 <li>App refresh rate</li>
@@ -93,9 +94,9 @@ title: YouTube Music
 <li>Crossfade</li>
 <li>Custom branding</li>
 <li>Custom font</li>
+<li>Disable dislike redirection</li>
 <li>Disable DRC audio</li>
 <li>Disable QUIC protocol</li>
-<li>Disable dislike redirection</li>
 <li>Downloads</li>
 <li>Enable audio/video switch</li>
 <li>Enable debugging</li>
@@ -104,7 +105,7 @@ title: YouTube Music
 <li>Enable swipe to dismiss miniplayer</li>
 <li>Force original audio</li>
 <li>Force portrait orientation</li>
-<li>GmsCore support</li>
+<li>GmsCore support <code>module omit</code></li>
 <li>Hide ads</li>
 <li>Hide buttons</li>
 <li>Hide flyout menu components</li>
@@ -132,7 +133,6 @@ title: YouTube Music
 <li>Spoof video streams</li>
 <li>Theme</li>
 <li>Third-party lyrics</li>
-<li>Module artifacts omit <code>GmsCore support</code></li>
 </ul>
 </details>
 
@@ -161,6 +161,7 @@ title: YouTube Music
 ### Standard
 
 <details><summary><b>Applied patches: 44</b> . 2 build(s)</summary>
+<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>App refresh rate</li>
 <li>Bitrate default value</li>
@@ -168,16 +169,17 @@ title: YouTube Music
 <li>Certificate spoof</li>
 <li>Change share sheet</li>
 <li>Change start page</li>
+<li>Custom branding for YouTube Music</li>
 <li>Disable Cairo splash animation</li>
-<li>Disable QUIC protocol</li>
 <li>Disable dislike redirection</li>
 <li>Disable forced auto captions</li>
+<li>Disable QUIC protocol</li>
 <li>Downloads</li>
 <li>Enable debug logging</li>
 <li>Enable landscape mode</li>
 <li>Flyout menu components</li>
 <li>Force original audio</li>
-<li>GmsCore support</li>
+<li>GmsCore support <code>module omit</code></li>
 <li>Hide account components</li>
 <li>Hide action bar components</li>
 <li>Hide ads</li>
@@ -191,6 +193,7 @@ title: YouTube Music
 <li>Return YouTube Dislike</li>
 <li>Return YouTube Username</li>
 <li>Sanitize sharing links</li>
+<li>Settings for YouTube Music</li>
 <li>Settings menu filter</li>
 <li>Skip silence</li>
 <li>SponsorBlock</li>
@@ -202,11 +205,8 @@ title: YouTube Music
 <li>Track crossfade</li>
 <li>Translations for YouTube Music</li>
 <li>Video playback</li>
-<li>Watch history</li>
 <li>Visual preferences icons for YouTube Music</li>
-<li>Custom branding for YouTube Music</li>
-<li>Settings for YouTube Music</li>
-<li>Module artifacts omit <code>GmsCore support</code></li>
+<li>Watch history</li>
 </ul>
 </details>
 

@@ -30,11 +30,11 @@ title: Prime Video
 <details><summary><b>Applied patches: 6</b> . 4 build(s)</summary>
 <ul>
 <li>Bundle native ad-strip hook</li>
+<li>Clone Prime Video</li>
 <li>Disable auto-updates</li>
 <li>Load native ad-strip hook</li>
 <li>Prime Video extension</li>
 <li>Skip ads</li>
-<li>Clone Prime Video</li>
 </ul>
 </details>
 

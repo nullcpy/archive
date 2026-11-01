@@ -10,10 +10,10 @@ title: Google Keyboard
 
 <details><summary><b>Applied patches: 44</b> . 4 build(s)</summary>
 <ul>
-<li>AI Writing Tools</li>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
 <li>Advanced Voice Typing</li>
+<li>AI Writing Tools</li>
 <li>Backup &amp; Restore</li>
 <li>Change emoji size</li>
 <li>Clipboard Custom Character Limit</li>
@@ -24,15 +24,15 @@ title: Google Keyboard
 <li>Developer options</li>
 <li>Dictionaries &amp; Predictions</li>
 <li>Emojis, stickers &amp; GIFs Tab Order</li>
-<li>Enable Inline Autofill Suggestions</li>
-<li>Enable OCR / Scan Text</li>
 <li>Enable accessibility layout</li>
 <li>Enable cursor trackpad mode</li>
+<li>Enable Inline Autofill Suggestions</li>
+<li>Enable OCR / Scan Text</li>
 <li>Enable split keyboard</li>
 <li>English QWERTY Up-Flick Uppercase</li>
-<li>FTP Server</li>
 <li>Floating Web Search</li>
 <li>Frosted Glass</li>
+<li>FTP Server</li>
 <li>G Logo on Spacebar</li>
 <li>Grammar Checker</li>
 <li>Incognito Mode Toggle</li>
@@ -66,10 +66,10 @@ title: Google Keyboard
 
 <details><summary><b>Applied patches: 43</b> . 3 build(s)</summary>
 <ul>
-<li>AI Writing Tools</li>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
 <li>Advanced Voice Typing</li>
+<li>AI Writing Tools</li>
 <li>Backup &amp; Restore</li>
 <li>Change emoji size</li>
 <li>Clipboard Custom Character Limit</li>
@@ -80,15 +80,15 @@ title: Google Keyboard
 <li>Developer options</li>
 <li>Dictionaries &amp; Predictions</li>
 <li>Emojis, stickers &amp; GIFs Tab Order</li>
-<li>Enable Inline Autofill Suggestions</li>
-<li>Enable OCR / Scan Text</li>
 <li>Enable accessibility layout</li>
 <li>Enable cursor trackpad mode</li>
+<li>Enable Inline Autofill Suggestions</li>
+<li>Enable OCR / Scan Text</li>
 <li>Enable split keyboard</li>
 <li>English QWERTY Up-Flick Uppercase</li>
-<li>FTP Server</li>
 <li>Floating Web Search</li>
 <li>Frosted Glass</li>
+<li>FTP Server</li>
 <li>G Logo on Spacebar</li>
 <li>Grammar Checker</li>
 <li>Incognito Mode Toggle</li>
@@ -120,10 +120,10 @@ title: Google Keyboard
 
 <details><summary><b>Applied patches: 42</b> . 3 build(s)</summary>
 <ul>
-<li>AI Writing Tools</li>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
 <li>Advanced Voice Typing</li>
+<li>AI Writing Tools</li>
 <li>Backup &amp; Restore</li>
 <li>Change emoji size</li>
 <li>Clipboard Custom Character Limit</li>
@@ -133,15 +133,15 @@ title: Google Keyboard
 <li>Custom Theme</li>
 <li>Developer options</li>
 <li>Emojis, stickers &amp; GIFs Tab Order</li>
-<li>Enable Inline Autofill Suggestions</li>
-<li>Enable OCR / Scan Text</li>
 <li>Enable accessibility layout</li>
 <li>Enable cursor trackpad mode</li>
+<li>Enable Inline Autofill Suggestions</li>
+<li>Enable OCR / Scan Text</li>
 <li>Enable split keyboard</li>
 <li>English QWERTY Up-Flick Uppercase</li>
-<li>FTP Server</li>
 <li>Floating Web Search</li>
 <li>Frosted Glass</li>
+<li>FTP Server</li>
 <li>G Logo on Spacebar</li>
 <li>Grammar Checker</li>
 <li>Incognito Mode Toggle</li>
@@ -173,10 +173,10 @@ title: Google Keyboard
 
 <details><summary><b>Applied patches: 43</b> . 2 build(s)</summary>
 <ul>
-<li>AI Writing Tools</li>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
 <li>Advanced Voice Typing</li>
+<li>AI Writing Tools</li>
 <li>Backup &amp; Restore</li>
 <li>Change emoji size</li>
 <li>Clipboard Custom Character Limit</li>
@@ -186,15 +186,15 @@ title: Google Keyboard
 <li>Custom Theme</li>
 <li>Developer options</li>
 <li>Emojis, stickers &amp; GIFs Tab Order</li>
-<li>Enable Inline Autofill Suggestions</li>
-<li>Enable OCR / Scan Text</li>
 <li>Enable accessibility layout</li>
 <li>Enable cursor trackpad mode</li>
+<li>Enable Inline Autofill Suggestions</li>
+<li>Enable OCR / Scan Text</li>
 <li>Enable split keyboard</li>
 <li>English QWERTY Up-Flick Uppercase</li>
-<li>FTP Server</li>
 <li>Floating Web Search</li>
 <li>Frosted Glass</li>
+<li>FTP Server</li>
 <li>G Logo on Spacebar</li>
 <li>Grammar Checker</li>
 <li>Hyperspeed Typing Animation</li>
@@ -228,10 +228,10 @@ title: Google Keyboard
 
 <details><summary><b>Applied patches: 45</b> . 4 build(s)</summary>
 <ul>
-<li>AI Writing Tools</li>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
 <li>Advanced Voice Typing</li>
+<li>AI Writing Tools</li>
 <li>Backup &amp; Restore</li>
 <li>Change emoji size</li>
 <li>Clipboard Custom Character Limit</li>
@@ -242,15 +242,15 @@ title: Google Keyboard
 <li>Developer options</li>
 <li>Dictionaries &amp; Predictions</li>
 <li>Emojis, stickers &amp; GIFs Tab Order</li>
-<li>Enable Inline Autofill Suggestions</li>
-<li>Enable OCR / Scan Text</li>
 <li>Enable accessibility layout</li>
 <li>Enable cursor trackpad mode</li>
+<li>Enable Inline Autofill Suggestions</li>
+<li>Enable OCR / Scan Text</li>
 <li>Enable split keyboard</li>
 <li>English QWERTY Up-Flick Uppercase</li>
-<li>FTP Server</li>
 <li>Floating Web Search</li>
 <li>Frosted Glass</li>
+<li>FTP Server</li>
 <li>G Logo on Spacebar</li>
 <li>Grammar Checker</li>
 <li>Incognito Mode Toggle</li>
@@ -259,6 +259,7 @@ title: Google Keyboard
 <li>Keypress Vibration Intensity Control</li>
 <li>Latin Globe Key Ignore Interval</li>
 <li>Long-Press Editing Shortcuts</li>
+<li>Package Rename</li>
 <li>Quick Insert</li>
 <li>Rounded Keyboard Panel</li>
 <li>Settings Homepage Override</li>
@@ -272,7 +273,6 @@ title: Google Keyboard
 <li>Zhuyin Bottom Row Key Sizes</li>
 <li>Zhuyin Quick Traditional/Simplified Toggle</li>
 <li>Zhuyin Slide Input</li>
-<li>Package Rename</li>
 </ul>
 </details>
 
@@ -285,10 +285,10 @@ title: Google Keyboard
 
 <details><summary><b>Applied patches: 44</b> . 3 build(s)</summary>
 <ul>
-<li>AI Writing Tools</li>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
 <li>Advanced Voice Typing</li>
+<li>AI Writing Tools</li>
 <li>Backup &amp; Restore</li>
 <li>Change emoji size</li>
 <li>Clipboard Custom Character Limit</li>
@@ -299,15 +299,15 @@ title: Google Keyboard
 <li>Developer options</li>
 <li>Dictionaries &amp; Predictions</li>
 <li>Emojis, stickers &amp; GIFs Tab Order</li>
-<li>Enable Inline Autofill Suggestions</li>
-<li>Enable OCR / Scan Text</li>
 <li>Enable accessibility layout</li>
 <li>Enable cursor trackpad mode</li>
+<li>Enable Inline Autofill Suggestions</li>
+<li>Enable OCR / Scan Text</li>
 <li>Enable split keyboard</li>
 <li>English QWERTY Up-Flick Uppercase</li>
-<li>FTP Server</li>
 <li>Floating Web Search</li>
 <li>Frosted Glass</li>
+<li>FTP Server</li>
 <li>G Logo on Spacebar</li>
 <li>Grammar Checker</li>
 <li>Incognito Mode Toggle</li>
@@ -315,6 +315,7 @@ title: Google Keyboard
 <li>Key Shape Selection</li>
 <li>Latin Globe Key Ignore Interval</li>
 <li>Long-Press Editing Shortcuts</li>
+<li>Package Rename</li>
 <li>Quick Insert</li>
 <li>Rounded Keyboard Panel</li>
 <li>Settings Homepage Override</li>
@@ -328,7 +329,6 @@ title: Google Keyboard
 <li>Zhuyin Bottom Row Key Sizes</li>
 <li>Zhuyin Quick Traditional/Simplified Toggle</li>
 <li>Zhuyin Slide Input</li>
-<li>Package Rename</li>
 </ul>
 </details>
 
@@ -340,10 +340,10 @@ title: Google Keyboard
 
 <details><summary><b>Applied patches: 43</b> . 3 build(s)</summary>
 <ul>
-<li>AI Writing Tools</li>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
 <li>Advanced Voice Typing</li>
+<li>AI Writing Tools</li>
 <li>Backup &amp; Restore</li>
 <li>Change emoji size</li>
 <li>Clipboard Custom Character Limit</li>
@@ -353,15 +353,15 @@ title: Google Keyboard
 <li>Custom Theme</li>
 <li>Developer options</li>
 <li>Emojis, stickers &amp; GIFs Tab Order</li>
-<li>Enable Inline Autofill Suggestions</li>
-<li>Enable OCR / Scan Text</li>
 <li>Enable accessibility layout</li>
 <li>Enable cursor trackpad mode</li>
+<li>Enable Inline Autofill Suggestions</li>
+<li>Enable OCR / Scan Text</li>
 <li>Enable split keyboard</li>
 <li>English QWERTY Up-Flick Uppercase</li>
-<li>FTP Server</li>
 <li>Floating Web Search</li>
 <li>Frosted Glass</li>
+<li>FTP Server</li>
 <li>G Logo on Spacebar</li>
 <li>Grammar Checker</li>
 <li>Incognito Mode Toggle</li>
@@ -369,6 +369,7 @@ title: Google Keyboard
 <li>Key Shape Selection</li>
 <li>Latin Globe Key Ignore Interval</li>
 <li>Long-Press Editing Shortcuts</li>
+<li>Package Rename</li>
 <li>Quick Insert</li>
 <li>Rounded Keyboard Panel</li>
 <li>Settings Homepage Override</li>
@@ -382,7 +383,6 @@ title: Google Keyboard
 <li>Zhuyin Bottom Row Key Sizes</li>
 <li>Zhuyin Quick Traditional/Simplified Toggle</li>
 <li>Zhuyin Slide Input</li>
-<li>Package Rename</li>
 </ul>
 </details>
 
@@ -394,10 +394,10 @@ title: Google Keyboard
 
 <details><summary><b>Applied patches: 44</b> . 2 build(s)</summary>
 <ul>
-<li>AI Writing Tools</li>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
 <li>Advanced Voice Typing</li>
+<li>AI Writing Tools</li>
 <li>Backup &amp; Restore</li>
 <li>Change emoji size</li>
 <li>Clipboard Custom Character Limit</li>
@@ -407,15 +407,15 @@ title: Google Keyboard
 <li>Custom Theme</li>
 <li>Developer options</li>
 <li>Emojis, stickers &amp; GIFs Tab Order</li>
-<li>Enable Inline Autofill Suggestions</li>
-<li>Enable OCR / Scan Text</li>
 <li>Enable accessibility layout</li>
 <li>Enable cursor trackpad mode</li>
+<li>Enable Inline Autofill Suggestions</li>
+<li>Enable OCR / Scan Text</li>
 <li>Enable split keyboard</li>
 <li>English QWERTY Up-Flick Uppercase</li>
-<li>FTP Server</li>
 <li>Floating Web Search</li>
 <li>Frosted Glass</li>
+<li>FTP Server</li>
 <li>G Logo on Spacebar</li>
 <li>Grammar Checker</li>
 <li>Hyperspeed Typing Animation</li>
@@ -424,6 +424,7 @@ title: Google Keyboard
 <li>Key Shape Selection</li>
 <li>Latin Globe Key Ignore Interval</li>
 <li>Long-Press Editing Shortcuts</li>
+<li>Package Rename</li>
 <li>Quick Insert</li>
 <li>Rounded Keyboard Panel</li>
 <li>Settings Homepage Override</li>
@@ -437,7 +438,6 @@ title: Google Keyboard
 <li>Zhuyin Bottom Row Key Sizes</li>
 <li>Zhuyin Quick Traditional/Simplified Toggle</li>
 <li>Zhuyin Slide Input</li>
-<li>Package Rename</li>
 </ul>
 </details>
 

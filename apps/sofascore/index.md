@@ -11,8 +11,8 @@ title: Sofascore
 <details><summary><b>Applied patches: 6</b> . 2 build(s)</summary>
 <ul>
 <li>Block marketing notifications</li>
-<li>Disable Facebook SDK</li>
 <li>Disable ads</li>
+<li>Disable Facebook SDK</li>
 <li>Disable rating prompts</li>
 <li>Disable telemetry</li>
 <li>Enable Premium</li>

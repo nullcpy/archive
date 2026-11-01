@@ -179,6 +179,19 @@ details li {
   break-inside: avoid;
 }
 
+/* A scope tag names who lacks the patch. It must not compete with the patch name,
+   so it sits smaller and one step dimmer than the line it belongs to. */
+details li code {
+  font-size: 0.78em;
+  color: var(--text-3);
+}
+
+details .legend {
+  margin: 2px 0 10px;
+  font-size: 0.8rem;
+  color: var(--text-3);
+}
+
 @media (max-width: 640px) {
   .wrap {
     padding: 28px 16px 56px;

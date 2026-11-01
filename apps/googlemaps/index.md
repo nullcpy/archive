@@ -9,9 +9,11 @@ title: Google Maps
 ### Standard
 
 <details><summary><b>Applied patches: 26</b> . 2 build(s)</summary>
+<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
+<li>Add microG-RE support <code>module omit</code></li>
 <li>Any media app</li>
 <li>Avoid Flock cameras</li>
 <li>Better offline maps</li>
@@ -24,6 +26,7 @@ title: Google Maps
 <li>Legacy icon</li>
 <li>Location provider toggle</li>
 <li>Offline saved places</li>
+<li>Power saving mode</li>
 <li>Proxy</li>
 <li>Rectangle shapes</li>
 <li>Remove permissions</li>
@@ -34,9 +37,6 @@ title: Google Maps
 <li>Trim account menu</li>
 <li>Waze alerts</li>
 <li>Zoom controls in navigation</li>
-<li>Power saving mode</li>
-<li>Add microG-RE support</li>
-<li>Module artifacts omit <code>Add microG-RE support</code></li>
 </ul>
 </details>
 
@@ -61,6 +61,7 @@ title: Google Maps
 <li>Legacy icon</li>
 <li>Location provider toggle</li>
 <li>Offline saved places</li>
+<li>Power saving mode</li>
 <li>Proxy</li>
 <li>Rectangle shapes</li>
 <li>Remove permissions</li>
@@ -71,7 +72,6 @@ title: Google Maps
 <li>Trim account menu</li>
 <li>Waze alerts</li>
 <li>Zoom controls in navigation</li>
-<li>Power saving mode</li>
 </ul>
 </details>
 
@@ -84,9 +84,11 @@ title: Google Maps
 | [260382](https://github.com/nullcpy/archive/releases/tag/260382) | 2026-10-26 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-v26.36.04.973607363-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-module-v26.36.04.973607363-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260382/google-maps-bearinmindcat-module-v26.36.04.973607363-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 26</b> . 1 build(s)</summary>
+<p class="legend">No marker means every artifact here carries the patch; a tag names what lacks it.</p>
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
+<li>Add microG support <code>module omit</code></li>
 <li>Any media app</li>
 <li>Avoid Flock cameras</li>
 <li>Better offline maps</li>
@@ -99,6 +101,7 @@ title: Google Maps
 <li>Legacy icon</li>
 <li>Location provider toggle</li>
 <li>Offline saved places</li>
+<li>Power saving mode</li>
 <li>Proxy</li>
 <li>Rectangle shapes</li>
 <li>Remove permissions</li>
@@ -109,9 +112,6 @@ title: Google Maps
 <li>Trim account menu</li>
 <li>Waze alerts</li>
 <li>Zoom controls in navigation</li>
-<li>Power saving mode</li>
-<li>Add microG support</li>
-<li>Module artifacts omit <code>Add microG support</code></li>
 </ul>
 </details>
 
@@ -139,6 +139,7 @@ title: Google Maps
 <li>Legacy icon</li>
 <li>Location provider toggle</li>
 <li>Offline saved places</li>
+<li>Power saving mode</li>
 <li>Proxy</li>
 <li>Rectangle shapes</li>
 <li>Remove permissions</li>
@@ -149,7 +150,6 @@ title: Google Maps
 <li>Trim account menu</li>
 <li>Waze alerts</li>
 <li>Zoom controls in navigation</li>
-<li>Power saving mode</li>
 </ul>
 </details>
 
@@ -169,6 +169,7 @@ title: Google Maps
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
+<li>Add microG-RE support</li>
 <li>Any media app</li>
 <li>Avoid Flock cameras</li>
 <li>Better offline maps</li>
@@ -183,6 +184,7 @@ title: Google Maps
 <li>Legacy icon</li>
 <li>Location provider toggle</li>
 <li>Offline saved places</li>
+<li>Power saving mode</li>
 <li>Proxy</li>
 <li>Rectangle shapes</li>
 <li>Remove permissions</li>
@@ -193,8 +195,6 @@ title: Google Maps
 <li>Trim account menu</li>
 <li>Waze alerts</li>
 <li>Zoom controls in navigation</li>
-<li>Power saving mode</li>
-<li>Add microG-RE support</li>
 </ul>
 </details>
 
@@ -221,6 +221,7 @@ title: Google Maps
 <li>Legacy icon</li>
 <li>Location provider toggle</li>
 <li>Offline saved places</li>
+<li>Power saving mode</li>
 <li>Proxy</li>
 <li>Rectangle shapes</li>
 <li>Remove permissions</li>
@@ -231,7 +232,6 @@ title: Google Maps
 <li>Trim account menu</li>
 <li>Waze alerts</li>
 <li>Zoom controls in navigation</li>
-<li>Power saving mode</li>
 </ul>
 </details>
 
@@ -247,6 +247,7 @@ title: Google Maps
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
+<li>Add microG support</li>
 <li>Any media app</li>
 <li>Avoid Flock cameras</li>
 <li>Better offline maps</li>
@@ -261,6 +262,7 @@ title: Google Maps
 <li>Legacy icon</li>
 <li>Location provider toggle</li>
 <li>Offline saved places</li>
+<li>Power saving mode</li>
 <li>Proxy</li>
 <li>Rectangle shapes</li>
 <li>Remove permissions</li>
@@ -271,8 +273,6 @@ title: Google Maps
 <li>Trim account menu</li>
 <li>Waze alerts</li>
 <li>Zoom controls in navigation</li>
-<li>Power saving mode</li>
-<li>Add microG support</li>
 </ul>
 </details>
 

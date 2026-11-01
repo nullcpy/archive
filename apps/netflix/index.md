@@ -10,10 +10,10 @@ title: Netflix
 
 <details><summary><b>Applied patches: 4</b> . 2 build(s)</summary>
 <ul>
+<li>Clone Netflix</li>
 <li>Disable Netflix CertCheck</li>
 <li>Remove Netflix ads (bundle engine)</li>
 <li>Remove Netflix ads (loader)</li>
-<li>Clone Netflix</li>
 </ul>
 </details>
 
