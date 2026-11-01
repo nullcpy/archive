@@ -4,6 +4,52 @@ title: Pinterest
 
 # Pinterest
 
+## HushPinterest
+
+### Standard
+
+<details><summary><b>Applied patches: 33</b> . 1 build(s)</summary>
+<ul>
+<li>AMOLED black</li>
+<li>Disable analytics</li>
+<li>Disable update nag</li>
+<li>Download board</li>
+<li>Download pins</li>
+<li>Filter feed</li>
+<li>Filter pin menu</li>
+<li>Fix push notifications</li>
+<li>GmsCore support</li>
+<li>Hide ads</li>
+<li>Hide advertising ID</li>
+<li>Hide AI-labeled pins</li>
+<li>Hide closeup buttons</li>
+<li>Hide comments</li>
+<li>Hide header buttons</li>
+<li>Hide navigation buttons</li>
+<li>Hide save toasts</li>
+<li>Hide search history</li>
+<li>Hide shopping and product pins</li>
+<li>Hide survey prompts</li>
+<li>Hide topic suggestions</li>
+<li>HushPinterest settings</li>
+<li>Keep Home feed</li>
+<li>Long-press download</li>
+<li>No screenshot share menu</li>
+<li>Open links in your browser</li>
+<li>Original-quality images</li>
+<li>Quiet email reminders</li>
+<li>Remove ad tracking permissions</li>
+<li>Show posted date</li>
+<li>Spoof signature for Google sign-in</li>
+<li>Strip link tracking</li>
+<li>System share sheet</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260435](https://github.com/nullcpy/archive/releases/tag/260435) | 2026-11-01 | `14.41.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260435/pinterest-hushpinterest-v14.41.0-arm64-v8a.apk) |
+
 ## browzomje
 
 ### Standard
