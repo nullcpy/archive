@@ -72,6 +72,52 @@ jobs:
           git archive FETCH_HEAD manifests | tar -x -C _data
           echo "manifests: $(find _data/manifests -name '*.json' | wc -l)"
 
+      - name: Export the release download counters
+        # Feeds the index's Downloads column. Counted here rather than in the
+        # generator because that script stays offline and deterministic for the trace
+        # harness, exactly like the manifests it reads from a directory. The mirror
+        # never prunes its releases, so a counter can only rise and no history needs
+        # to be kept.
+        #
+        # A failure is allowed to cost the column and nothing else: the file is
+        # written only after every page came through, and the next step passes
+        # --counts only when it exists, so a lost API call leaves the index as it was
+        # instead of publishing a table of blanks.
+        run: |
+          python3 - <<'PY'
+          import json, os, sys, urllib.request
+          headers = {"Accept": "application/vnd.github+json",
+                     "User-Agent": "archive-pages"}
+          token = os.environ.get("GITHUB_TOKEN", "")
+          if token:
+              headers["Authorization"] = "Bearer " + token
+          url = ("https://api.github.com/repos/%s/releases?per_page=100"
+                 % os.environ["GITHUB_REPOSITORY"])
+          counts, page = {}, 1
+          while True:
+              try:
+                  got = json.loads(urllib.request.urlopen(
+                      urllib.request.Request("%s&page=%d" % (url, page),
+                                             headers=headers),
+                      timeout=120).read().decode())
+              except Exception as exc:
+                  print("::warning::release counters unavailable (%s);"
+                        " rendering without the Downloads column" % exc)
+                  sys.exit(0)
+              if not got:
+                  break
+              for rel in got:
+                  files = {a["name"]: a["download_count"]
+                           for a in rel.get("assets") or []}
+                  if files:
+                      counts[str(rel["tag_name"])] = files
+              page += 1
+          with open("_data/counts.json", "w", encoding="utf-8") as fh:
+              json.dump(counts, fh, sort_keys=True)
+          print("counters for %d releases, %d assets"
+                % (len(counts), sum(len(v) for v in counts.values())))
+          PY
+
       - name: Render the pages
         env:
           ARCHIVE_SITE_BASE: https://github.com/${{ github.repository }}/blob/main
@@ -81,8 +127,10 @@ jobs:
           NULLSTORE_URL: https://nullcpy.github.io/nullstore
         run: |
           rm -rf _gen
+          counts=()
+          if [ -s _data/counts.json ]; then counts=(--counts _data/counts.json); fi
           python3 .rvb/.github/scripts/build_archive_pages.py \
-            --manifests _data/manifests --out _gen --cap 50
+            --manifests _data/manifests --out _gen --cap 50 "${counts[@]}"
           # Pages serves index.md at /; without it the site builds and then 404s,
           # which is exactly how it failed once.
           test -f _gen/index.md || { echo "::error::generator wrote no root index.md" >&2; exit 1; }
