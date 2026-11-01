@@ -6,9 +6,9 @@
 
 <details><summary><b>Applied patches: 63</b> . 4 build(s)</summary>
 <ul>
-<li>AMOLED black</li>
 <li>Add Repeat to the message menu</li>
 <li>Allow chat blur on slower phones</li>
+<li>AMOLED black</li>
 <li>Ask before sending a sticker</li>
 <li>Change sticker size</li>
 <li>Disable analytics</li>
@@ -23,15 +23,11 @@
 <li>Faster downloads</li>
 <li>Folders by chat type</li>
 <li>Gallery camera on tap</li>
-<li>Hide Contacts tab</li>
-<li>Hide Premium, gifts and Stars</li>
-<li>Hide Send as button</li>
-<li>Hide Stories</li>
-<li>Hide Telegram Features and Invite Friends</li>
 <li>Hide ads</li>
 <li>Hide blocked users in groups</li>
 <li>Hide channel bar buttons</li>
 <li>Hide contacts on Telegram</li>
+<li>Hide Contacts tab</li>
 <li>Hide folder tab counters</li>
 <li>Hide gallery camera tile</li>
 <li>Hide greeting stickers</li>
@@ -39,10 +35,14 @@
 <li>Hide messages by keyword</li>
 <li>Hide phone number</li>
 <li>Hide popular apps</li>
+<li>Hide Premium, gifts and Stars</li>
 <li>Hide promotional banners</li>
 <li>Hide recommendations</li>
+<li>Hide Send as button</li>
 <li>Hide sender names when forwarding</li>
 <li>Hide sponsored proxy channel</li>
+<li>Hide Stories</li>
+<li>Hide Telegram Features and Invite Friends</li>
 <li>Hide time on stickers</li>
 <li>Hide translate bar</li>
 <li>Holiday look all year</li>
@@ -83,9 +83,9 @@
 
 <details><summary><b>Applied patches: 63</b> . 4 build(s)</summary>
 <ul>
-<li>AMOLED black</li>
 <li>Add Repeat to the message menu</li>
 <li>Allow chat blur on slower phones</li>
+<li>AMOLED black</li>
 <li>Ask before sending a sticker</li>
 <li>Change sticker size</li>
 <li>Disable analytics</li>
@@ -100,15 +100,11 @@
 <li>Faster downloads</li>
 <li>Folders by chat type</li>
 <li>Gallery camera on tap</li>
-<li>Hide Contacts tab</li>
-<li>Hide Premium, gifts and Stars</li>
-<li>Hide Send as button</li>
-<li>Hide Stories</li>
-<li>Hide Telegram Features and Invite Friends</li>
 <li>Hide ads</li>
 <li>Hide blocked users in groups</li>
 <li>Hide channel bar buttons</li>
 <li>Hide contacts on Telegram</li>
+<li>Hide Contacts tab</li>
 <li>Hide folder tab counters</li>
 <li>Hide gallery camera tile</li>
 <li>Hide greeting stickers</li>
@@ -116,10 +112,14 @@
 <li>Hide messages by keyword</li>
 <li>Hide phone number</li>
 <li>Hide popular apps</li>
+<li>Hide Premium, gifts and Stars</li>
 <li>Hide promotional banners</li>
 <li>Hide recommendations</li>
+<li>Hide Send as button</li>
 <li>Hide sender names when forwarding</li>
 <li>Hide sponsored proxy channel</li>
+<li>Hide Stories</li>
+<li>Hide Telegram Features and Invite Friends</li>
 <li>Hide time on stickers</li>
 <li>Hide translate bar</li>
 <li>Holiday look all year</li>

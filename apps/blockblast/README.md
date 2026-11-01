@@ -17,10 +17,10 @@
 <li>Faster game over</li>
 <li>Fresh Classic games</li>
 <li>Hide percent-of-players popups</li>
+<li>iOS generation algorithm</li>
 <li>Menu theme</li>
 <li>Remove startup credits</li>
 <li>Tidy settings menu</li>
-<li>iOS generation algorithm</li>
 </ul>
 </details>
 

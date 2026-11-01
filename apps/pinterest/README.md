@@ -8,26 +8,26 @@
 <ul>
 <li>Choose startup tab</li>
 <li>Copy direct link</li>
+<li>Disable ads</li>
 <li>Disable AppsFlyer tracking</li>
+<li>Disable email confirmation dialog</li>
 <li>Disable Google Engage</li>
 <li>Disable Google Engage worker</li>
-<li>Disable ads</li>
-<li>Disable email confirmation dialog</li>
 <li>Disable third-party trackers</li>
 <li>Download board</li>
 <li>Download images in highest available quality</li>
 <li>Download pin from long press</li>
 <li>Download video</li>
 <li>Filter pin menu actions</li>
-<li>Hide Create nav button</li>
-<li>Hide Notifications nav button</li>
-<li>Hide Search nav button</li>
 <li>Hide ad views</li>
 <li>Hide comments</li>
+<li>Hide Create nav button</li>
 <li>Hide greeting header buttons</li>
+<li>Hide Notifications nav button</li>
 <li>Hide save for later tooltip</li>
 <li>Hide screenshot share menu</li>
 <li>Hide search history</li>
+<li>Hide Search nav button</li>
 <li>Keep Home feed</li>
 <li>Morphe runtime names</li>
 <li>Morphe settings entry</li>

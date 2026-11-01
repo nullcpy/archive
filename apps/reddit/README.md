@@ -16,13 +16,13 @@
 <li>Feed media max height</li>
 <li>Force system font</li>
 <li>Full width feed media</li>
-<li>Hide Ask button</li>
-<li>Hide Trending shelves</li>
 <li>Hide ads</li>
+<li>Hide Ask button</li>
 <li>Hide communities shelf</li>
 <li>Hide media viewer components</li>
 <li>Hide navigation buttons</li>
 <li>Hide sidebar components</li>
+<li>Hide Trending shelves</li>
 <li>Keep feed position</li>
 <li>Media viewer black background</li>
 <li>Media viewer fade</li>
@@ -69,13 +69,13 @@
 <li>Feed media max height</li>
 <li>Force system font</li>
 <li>Full width feed media</li>
-<li>Hide Ask button</li>
-<li>Hide Trending shelves</li>
 <li>Hide ads</li>
+<li>Hide Ask button</li>
 <li>Hide communities shelf</li>
 <li>Hide media viewer components</li>
 <li>Hide navigation buttons</li>
 <li>Hide sidebar components</li>
+<li>Hide Trending shelves</li>
 <li>Keep feed position</li>
 <li>Media viewer black background</li>
 <li>Media viewer fade</li>

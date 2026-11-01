@@ -89,12 +89,12 @@
 <li>Follow diagnostics</li>
 <li>Force show Auto scroll</li>
 <li>Ghost mode</li>
-<li>Hide CAPTCHA popups</li>
 <li>Hide already seen videos</li>
+<li>Hide CAPTCHA popups</li>
 <li>Hide comment popup ads</li>
 <li>Hide comment typing suggestions</li>
-<li>Hide feed LIVE button</li>
 <li>Hide feed follow button</li>
+<li>Hide feed LIVE button</li>
 <li>Hide feed save button</li>
 <li>Hide feed search button</li>
 <li>Hide floating promotions</li>
@@ -110,12 +110,12 @@
 <li>Keep a streak going</li>
 <li>Keep playing in the background</li>
 <li>Keep pulled sounds</li>
-<li>Keep the Favorites tab</li>
 <li>Keep the app language</li>
+<li>Keep the Favorites tab</li>
 <li>Keep the screen's refresh rate</li>
-<li>LIVE controls</li>
 <li>Lift text length limits</li>
 <li>Limit background traffic</li>
+<li>LIVE controls</li>
 <li>Location access governor</li>
 <li>Long-press controls</li>
 <li>Mute feed videos</li>
@@ -134,18 +134,18 @@
 <li>Repost diagnostics</li>
 <li>Resource and battery governor</li>
 <li>Resume videos after scrolling</li>
-<li>SIM spoof</li>
 <li>Sanitize sharing links</li>
 <li>Settings</li>
 <li>Share sheet tools</li>
-<li>Show LIVE search</li>
 <li>Show author region</li>
 <li>Show commenter handle and region</li>
 <li>Show engagement rate</li>
 <li>Show exact counts</li>
 <li>Show follow status</li>
+<li>Show LIVE search</li>
 <li>Show the progress bar</li>
 <li>Show the progress bar thumbnail</li>
+<li>SIM spoof</li>
 <li>Skip content warnings</li>
 <li>Skip passkey sign-in</li>
 <li>Skip the splash ad</li>
@@ -180,19 +180,19 @@
 
 <details><summary><b>Applied patches: 138</b> . 1 build(s)</summary>
 <ul>
-<li>AMOLED dark theme</li>
 <li>Accent color</li>
 <li>Advanced downloads</li>
 <li>Allow Duet and Stitch</li>
 <li>Allow screenshots and Circle to Search</li>
 <li>Always show publish date</li>
 <li>Always upload in HD</li>
+<li>AMOLED dark theme</li>
 <li>App lock</li>
 <li>Automatic video advance</li>
-<li>Block P2P video relay</li>
 <li>Block author button</li>
 <li>Block contact list access</li>
 <li>Block installed app scanning</li>
+<li>Block P2P video relay</li>
 <li>Block popups</li>
 <li>Block suggested video notifications</li>
 <li>Camera and microphone indicator</li>
@@ -227,18 +227,18 @@
 <li>Foldable split comment view</li>
 <li>Follow diagnostics</li>
 <li>Ghost mode</li>
-<li>Hide CAPTCHA popups</li>
-<li>Hide Play Store update offer</li>
 <li>Hide already seen videos</li>
+<li>Hide CAPTCHA popups</li>
 <li>Hide comment popup ads</li>
 <li>Hide comment typing suggestions</li>
-<li>Hide feed LIVE button</li>
 <li>Hide feed follow button</li>
+<li>Hide feed LIVE button</li>
 <li>Hide feed save button</li>
 <li>Hide feed search button</li>
 <li>Hide floating promotions</li>
 <li>Hide inbox items</li>
 <li>Hide inbox stories</li>
+<li>Hide Play Store update offer</li>
 <li>Hide profile shortcuts</li>
 <li>Hide search suggestions</li>
 <li>Hide suggested accounts</li>
@@ -250,13 +250,13 @@
 <li>Keep a streak going</li>
 <li>Keep playing in the background</li>
 <li>Keep pulled sounds</li>
-<li>Keep the Favorites tab</li>
 <li>Keep the app language</li>
+<li>Keep the Favorites tab</li>
 <li>Keep the screen's brightness in the camera</li>
 <li>Keep the screen's refresh rate</li>
-<li>LIVE controls</li>
 <li>Lift text length limits</li>
 <li>Limit background traffic</li>
+<li>LIVE controls</li>
 <li>Load all saved stickers</li>
 <li>Location access governor</li>
 <li>Long-press controls</li>
@@ -276,28 +276,28 @@
 <li>Profile background</li>
 <li>Region spoof</li>
 <li>Remember clear display</li>
-<li>Remove LIVE extras</li>
 <li>Remove avatar rings</li>
 <li>Remove content credential and card scanner assets</li>
 <li>Remove creation tools</li>
+<li>Remove LIVE extras</li>
 <li>Remove voice tools</li>
 <li>Report a newer phone to effects</li>
 <li>Repost diagnostics</li>
 <li>Resource and battery governor</li>
 <li>Resume videos after scrolling</li>
 <li>Run beside the store app</li>
-<li>SIM spoof</li>
 <li>Sanitize sharing links</li>
 <li>Settings</li>
 <li>Share sheet tools</li>
-<li>Show LIVE search</li>
 <li>Show author region</li>
 <li>Show commenter handle and region</li>
 <li>Show engagement rate</li>
 <li>Show exact counts</li>
 <li>Show follow status</li>
+<li>Show LIVE search</li>
 <li>Show the progress bar</li>
 <li>Show the progress bar thumbnail</li>
+<li>SIM spoof</li>
 <li>Skip content warnings</li>
 <li>Skip first-launch setup</li>
 <li>Skip passkey sign-in</li>

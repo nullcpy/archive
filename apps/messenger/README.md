@@ -12,33 +12,33 @@
 <li>Auto reply</li>
 <li>Bold and italic text</li>
 <li>Fix videos that won't send</li>
-<li>Hide AI sticker tools</li>
-<li>Hide Chat Moments</li>
-<li>Hide Facebook shortcuts</li>
-<li>Hide Mark as read</li>
-<li>Hide Meta AI</li>
-<li>Hide Notifications tab</li>
-<li>Hide People You May Know</li>
-<li>Hide People tab</li>
-<li>Hide Reels badge</li>
-<li>Hide Your story when sharing</li>
 <li>Hide ad banners in business chats</li>
+<li>Hide AI sticker tools</li>
 <li>Hide avatar stickers</li>
 <li>Hide business reply suggestions</li>
 <li>Hide business typing suggestions</li>
+<li>Hide Chat Moments</li>
 <li>Hide chat promotions</li>
 <li>Hide event prompts</li>
+<li>Hide Facebook shortcuts</li>
 <li>Hide friend request cards</li>
 <li>Hide growth prompts</li>
 <li>Hide inbox promotions</li>
 <li>Hide inbox tabs</li>
 <li>Hide joined community chats</li>
+<li>Hide Mark as read</li>
+<li>Hide Meta AI</li>
+<li>Hide Notifications tab</li>
+<li>Hide People tab</li>
+<li>Hide People You May Know</li>
 <li>Hide read receipts</li>
+<li>Hide Reels badge</li>
 <li>Hide stories and notes</li>
 <li>Hide tab badges</li>
 <li>Hide the Instants button</li>
 <li>Hide the recent photo card</li>
 <li>Hide typing indicator</li>
+<li>Hide Your story when sharing</li>
 <li>Hold stories at the end</li>
 <li>Ignore the swipe up for disappearing messages</li>
 <li>Install beside Meta apps</li>
@@ -86,32 +86,32 @@
 <li>Auto reply</li>
 <li>Bold and italic text</li>
 <li>Fix videos that won't send</li>
-<li>Hide AI sticker tools</li>
-<li>Hide Chat Moments</li>
-<li>Hide Facebook shortcuts</li>
-<li>Hide Mark as read</li>
-<li>Hide Meta AI</li>
-<li>Hide Notifications tab</li>
-<li>Hide People You May Know</li>
-<li>Hide People tab</li>
-<li>Hide Reels badge</li>
-<li>Hide Your story when sharing</li>
 <li>Hide ad banners in business chats</li>
+<li>Hide AI sticker tools</li>
 <li>Hide avatar stickers</li>
 <li>Hide business reply suggestions</li>
 <li>Hide business typing suggestions</li>
+<li>Hide Chat Moments</li>
 <li>Hide chat promotions</li>
 <li>Hide event prompts</li>
+<li>Hide Facebook shortcuts</li>
 <li>Hide friend request cards</li>
 <li>Hide growth prompts</li>
 <li>Hide inbox promotions</li>
 <li>Hide inbox tabs</li>
 <li>Hide joined community chats</li>
+<li>Hide Mark as read</li>
+<li>Hide Meta AI</li>
+<li>Hide Notifications tab</li>
+<li>Hide People tab</li>
+<li>Hide People You May Know</li>
 <li>Hide read receipts</li>
+<li>Hide Reels badge</li>
 <li>Hide stories and notes</li>
 <li>Hide tab badges</li>
 <li>Hide the recent photo card</li>
 <li>Hide typing indicator</li>
+<li>Hide Your story when sharing</li>
 <li>Hold stories at the end</li>
 <li>Ignore the swipe up for disappearing messages</li>
 <li>Install beside Meta apps</li>

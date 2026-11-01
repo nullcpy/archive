@@ -10,8 +10,8 @@
 <li>Disable double-tap like</li>
 <li>Download media</li>
 <li>Feed filters</li>
-<li>Hide Premium upsells</li>
 <li>Hide ads</li>
+<li>Hide Premium upsells</li>
 <li>Hide promoted jobs</li>
 <li>Hide suggested posts</li>
 <li>Messaging</li>
