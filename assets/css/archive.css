@@ -64,6 +64,20 @@ h1 {
   color: var(--accent);
 }
 
+/* The totals line the index writes under its title. It pulls up into the title's
+   margin so it reads as part of the header, and keeps the prose's gap below. The
+   numbers take the link green rather than --accent, which is too pale to read at
+   this size on the light palette. */
+.stats {
+  margin: -6px 0 20px;
+  font-size: 0.95rem;
+}
+
+.stats b {
+  color: var(--link);
+  font-weight: 700;
+}
+
 h2 {
   font-size: 1.4rem;
   font-weight: 700;
