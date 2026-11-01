@@ -4,51 +4,11 @@ title: TikTok
 
 # TikTok
 
-## kveld9
-
-### Standard
-
-<details><summary><b>Applied patches: 27</b> . 1 build(s)</summary>
-<ul>
-<li>Allow Screenshots</li>
-<li>Always Show Publish Date</li>
-<li>Battery &amp; Resource Saver</li>
-<li>Block P2P Video Relay</li>
-<li>Block Popups &amp; Prompts</li>
-<li>Block Trackers</li>
-<li>Block Trackers (Setup)</li>
-<li>Bypass Mandatory Login</li>
-<li>Clean Share Links</li>
-<li>Comment Customizer</li>
-<li>Custom Share Sheet</li>
-<li>Customize Search</li>
-<li>Declutter Navigation Bar</li>
-<li>Device Privacy Guard</li>
-<li>Disable On-Device AI</li>
-<li>Download Without Watermark</li>
-<li>Enable Profile Banner</li>
-<li>Feed Ads &amp; Content Filter</li>
-<li>Force Auto-Scroll</li>
-<li>Friends &amp; Suggestions Filter</li>
-<li>Hide Inbox Promos &amp; Alerts</li>
-<li>In-App Browser Privacy Guard</li>
-<li>Instant Launch</li>
-<li>Login Compatibility Fix</li>
-<li>Offline Video Limit</li>
-<li>Remove Extra Files</li>
-<li>Show Seekbar</li>
-</ul>
-</details>
-
-| Build | Date | Version | Download |
-|---|---|---|---|
-| [260387](https://github.com/nullcpy/archive/releases/tag/260387) | 2026-10-27 | `47.5.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260387/tiktok-kveld9-v47.5.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260387/tiktok-kveld9-v47.5.3-arm-v7a.apk) |
-
 ## icysymmetra
 
 ### Standard
 
-<details><summary><b>Applied patches: 118</b> . 4 build(s)</summary>
+<details><summary><b>Applied patches: 118</b> . 5 build(s)</summary>
 <ul>
 <li>Advanced downloads</li>
 <li>Allow Duet and Stitch</li>
@@ -173,10 +133,51 @@ title: TikTok
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260437](https://github.com/nullcpy/archive/releases/tag/260437) 🧪 | 2026-11-01 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260437/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260437/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 | [260375](https://github.com/nullcpy/archive/releases/tag/260375) 🧪 | 2026-10-25 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260375/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260375/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 | [260364](https://github.com/nullcpy/archive/releases/tag/260364) 🧪 | 2026-10-24 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260364/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260364/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 | [260360](https://github.com/nullcpy/archive/releases/tag/260360) 🧪 | 2026-10-24 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260360/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260360/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 | [260350](https://github.com/nullcpy/archive/releases/tag/260350) 🧪 | 2026-10-23 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260350/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260350/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
+
+## kveld9
+
+### Standard
+
+<details><summary><b>Applied patches: 27</b> . 1 build(s)</summary>
+<ul>
+<li>Allow Screenshots</li>
+<li>Always Show Publish Date</li>
+<li>Battery &amp; Resource Saver</li>
+<li>Block P2P Video Relay</li>
+<li>Block Popups &amp; Prompts</li>
+<li>Block Trackers</li>
+<li>Block Trackers (Setup)</li>
+<li>Bypass Mandatory Login</li>
+<li>Clean Share Links</li>
+<li>Comment Customizer</li>
+<li>Custom Share Sheet</li>
+<li>Customize Search</li>
+<li>Declutter Navigation Bar</li>
+<li>Device Privacy Guard</li>
+<li>Disable On-Device AI</li>
+<li>Download Without Watermark</li>
+<li>Enable Profile Banner</li>
+<li>Feed Ads &amp; Content Filter</li>
+<li>Force Auto-Scroll</li>
+<li>Friends &amp; Suggestions Filter</li>
+<li>Hide Inbox Promos &amp; Alerts</li>
+<li>In-App Browser Privacy Guard</li>
+<li>Instant Launch</li>
+<li>Login Compatibility Fix</li>
+<li>Offline Video Limit</li>
+<li>Remove Extra Files</li>
+<li>Show Seekbar</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260387](https://github.com/nullcpy/archive/releases/tag/260387) | 2026-10-27 | `47.5.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260387/tiktok-kveld9-v47.5.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260387/tiktok-kveld9-v47.5.3-arm-v7a.apk) |
 
 ## hushfeed
 
