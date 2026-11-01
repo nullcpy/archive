@@ -946,7 +946,7 @@ title: Instagram
 
 | Build | Date | Version | Downloads |
 |---|---|---|---|
-| [260377](https://github.com/nullcpy/archive/releases/tag/260377) | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260377/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
+| [260377](https://github.com/nullcpy/archive/releases/tag/260377) 🧪 | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260377/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
 
 <details><summary><b>Applied patches: 57</b> . 1 build(s)</summary>
 <ul>
@@ -1012,7 +1012,7 @@ title: Instagram
 
 | Build | Date | Version | Downloads |
 |---|---|---|---|
-| [260368](https://github.com/nullcpy/archive/releases/tag/260368) | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
+| [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
 
 ### Clone
 
@@ -1088,7 +1088,7 @@ title: Instagram
 
 | Build | Date | Version | Downloads |
 |---|---|---|---|
-| [260377](https://github.com/nullcpy/archive/releases/tag/260377) | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/instagram-piko-clone-v452.1.0.53.64-arm64-v8a.apk) |
+| [260377](https://github.com/nullcpy/archive/releases/tag/260377) 🧪 | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/instagram-piko-clone-v452.1.0.53.64-arm64-v8a.apk) |
 
 <details><summary><b>Applied patches: 58</b> . 1 build(s)</summary>
 <ul>
@@ -1155,5 +1155,5 @@ title: Instagram
 
 | Build | Date | Version | Downloads |
 |---|---|---|---|
-| [260368](https://github.com/nullcpy/archive/releases/tag/260368) | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-clone-v452.1.0.53.64-arm64-v8a.apk) |
+| [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-clone-v452.1.0.53.64-arm64-v8a.apk) |
 
