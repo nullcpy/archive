@@ -212,30 +212,6 @@
       ],
       "originBuild": "260439",
       "publishedAt": "2026-11-01T20:12:22Z"
-    },
-    "tiktok-bearinmindcat-v7.7.9-all.apk": {
-      "name": "tiktok-bearinmindcat",
-      "version": "7.7.9",
-      "appKey": "tiktok",
-      "appName": "TikTok",
-      "arch": "all",
-      "fileType": "APK",
-      "brandKey": "bearinmindcat",
-      "brandName": "bearinmindcat",
-      "variant": null,
-      "subVariant": null,
-      "packageName": "com.android.soundrecorder",
-      "patchSources": [
-        "bearinmindcat/patches-2.8.3.mpp"
-      ],
-      "changelogs": [
-        "https://github.com/bearinmindcat/morphe-patches/releases/tag/v2.8.3"
-      ],
-      "appliedPatches": [
-        "Enable non-HyperOS ROM support"
-      ],
-      "originBuild": "260439",
-      "publishedAt": "2026-11-01T20:12:22Z"
     }
   }
 }
