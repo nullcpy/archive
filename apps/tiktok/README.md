@@ -437,20 +437,6 @@
 | [260360](https://github.com/nullcpy/archive/releases/tag/260360) 🧪 | 2026-10-24 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260360/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260360/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 | [260350](https://github.com/nullcpy/archive/releases/tag/260350) 🧪 | 2026-10-23 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260350/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260350/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 
-## bearinmindcat
-
-### Standard
-
-<details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
-<ul>
-<li>Enable non-HyperOS ROM support</li>
-</ul>
-</details>
-
-| Build | Date | Version | Download |
-|---|---|---|---|
-| [260439](https://github.com/nullcpy/archive/releases/tag/260439) | 2026-11-01 | `7.7.9` | APK: [all](https://github.com/nullcpy/archive/releases/download/260439/tiktok-bearinmindcat-v7.7.9-all.apk) |
-
 ## kveld9
 
 ### Standard
