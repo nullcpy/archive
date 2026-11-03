@@ -1,5 +1,60 @@
 # Facebook
 
+## andrewliang25
+
+### Standard
+
+<details><summary><b>Applied patches: 17</b> . 1 build(s)</summary>
+<ul>
+<li>[Ad] Block ad telemetry</li>
+<li>[Ad] Block background ad prefetch</li>
+<li>[Ad] Disable Audience Network</li>
+<li>[Feed] Block feed auto refresh</li>
+<li>[Feed] Hide page suggestions and promo cards</li>
+<li>[Feed] Hide post prompts</li>
+<li>[Feed] Hide sponsored posts</li>
+<li>[Fix] Restore screens on re-signed builds</li>
+<li>[General] AMOLED black theme</li>
+<li>[General] Andrew's Patch Setting</li>
+<li>[General] Hide affiliate product links</li>
+<li>[General] Open links in external browser</li>
+<li>[Reels] Download any reel</li>
+<li>[Reels] Hide interest prompts</li>
+<li>[Reels] Hide sponsored reels</li>
+<li>[Stories] Download any story</li>
+<li>[Stories] Hide sponsored stories</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260452](https://github.com/nullcpy/archive/releases/tag/260452) | 2026-11-03 | `577.0.0.50.72` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260452/facebook-andrewliang25-v577.0.0.50.72-arm64-v8a.apk) |
+
+<details><summary><b>Applied patches: 16</b> . 1 build(s)</summary>
+<ul>
+<li>[Ad] Block ad telemetry</li>
+<li>[Ad] Block background ad prefetch</li>
+<li>[Ad] Disable Audience Network</li>
+<li>[Feed] Block feed auto refresh</li>
+<li>[Feed] Hide page suggestions and promo cards</li>
+<li>[Feed] Hide post prompts</li>
+<li>[Feed] Hide sponsored posts</li>
+<li>[Fix] Restore screens on re-signed builds</li>
+<li>[General] AMOLED black theme</li>
+<li>[General] Hide affiliate product links</li>
+<li>[General] Open links in external browser</li>
+<li>[Reels] Download any reel</li>
+<li>[Reels] Hide interest prompts</li>
+<li>[Reels] Hide sponsored reels</li>
+<li>[Stories] Download any story</li>
+<li>[Stories] Hide sponsored stories</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260354](https://github.com/nullcpy/archive/releases/tag/260354) | 2026-10-23 | `577.0.0.50.72` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260354/facebook-andrewliang25-v577.0.0.50.72-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260354/facebook-andrewliang25-v577.0.0.50.72-arm-v7a.apk) |
+
 ## HushFacebook
 
 ### Standard
@@ -1017,33 +1072,4 @@
 |---|---|---|---|
 | [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `580.0.0.51.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/facebook-devanced-v580.0.0.51.74-arm64-v8a.apk) |
 | [260359](https://github.com/nullcpy/archive/releases/tag/260359) | 2026-10-24 | `580.0.0.51.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260359/facebook-devanced-v580.0.0.51.74-arm64-v8a.apk) |
-
-## andrewliang25
-
-### Standard
-
-<details><summary><b>Applied patches: 16</b> . 1 build(s)</summary>
-<ul>
-<li>[Ad] Block ad telemetry</li>
-<li>[Ad] Block background ad prefetch</li>
-<li>[Ad] Disable Audience Network</li>
-<li>[Feed] Block feed auto refresh</li>
-<li>[Feed] Hide page suggestions and promo cards</li>
-<li>[Feed] Hide post prompts</li>
-<li>[Feed] Hide sponsored posts</li>
-<li>[Fix] Restore screens on re-signed builds</li>
-<li>[General] AMOLED black theme</li>
-<li>[General] Hide affiliate product links</li>
-<li>[General] Open links in external browser</li>
-<li>[Reels] Download any reel</li>
-<li>[Reels] Hide interest prompts</li>
-<li>[Reels] Hide sponsored reels</li>
-<li>[Stories] Download any story</li>
-<li>[Stories] Hide sponsored stories</li>
-</ul>
-</details>
-
-| Build | Date | Version | Download |
-|---|---|---|---|
-| [260354](https://github.com/nullcpy/archive/releases/tag/260354) | 2026-10-23 | `577.0.0.50.72` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260354/facebook-andrewliang25-v577.0.0.50.72-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260354/facebook-andrewliang25-v577.0.0.50.72-arm-v7a.apk) |
 
