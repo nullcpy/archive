@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 78</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 78</b> . 2 build(s)</summary>
 <ul>
 <li>Account switcher</li>
 <li>Alert when you're removed</li>
@@ -89,6 +89,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260455](https://github.com/nullcpy/archive/releases/tag/260455) | 2026-11-03 | `351.11-Stable` | APK: [all](https://github.com/nullcpy/archive/releases/download/260455/discord-venus-v351.11-Stable-all.apk) |
 | [260450](https://github.com/nullcpy/archive/releases/tag/260450) | 2026-11-03 | `351.11-Stable` | APK: [all](https://github.com/nullcpy/archive/releases/download/260450/discord-venus-v351.11-Stable-all.apk) |
 
 <details><summary><b>Applied patches: 55</b> . 1 build(s)</summary>
