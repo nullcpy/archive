@@ -27,7 +27,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Cloudflare WARP](https://nullcpy.github.io/archive/apps/cloudflarewarp/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 10 |
 | [Discord](https://nullcpy.github.io/archive/apps/discord/) | <time datetime="2026-11-03T02:19:11Z" data-relative>2026-11-03</time> | 93 |
 | [Disney+](https://nullcpy.github.io/archive/apps/disney/) | <time datetime="2026-10-28T21:22:56Z" data-relative>2026-10-28</time> | 4 |
-| [Facebook](https://nullcpy.github.io/archive/apps/facebook/) | <time datetime="2026-11-01T12:03:18Z" data-relative>2026-11-01</time> | 75 |
+| [Facebook](https://nullcpy.github.io/archive/apps/facebook/) | <time datetime="2026-11-03T07:01:23Z" data-relative>2026-11-03</time> | 75 |
 | [FairEmail](https://nullcpy.github.io/archive/apps/fairemail/) | <time datetime="2026-10-26T11:06:43Z" data-relative>2026-10-26</time> | 6 |
 | [Firsty](https://nullcpy.github.io/archive/apps/firsty/) | <time datetime="2026-10-29T06:46:20Z" data-relative>2026-10-29</time> | 1 |
 | [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | <time datetime="2026-11-03T02:16:12Z" data-relative>2026-11-03</time> | 118 |
