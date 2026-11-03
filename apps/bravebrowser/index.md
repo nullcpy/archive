@@ -11,6 +11,26 @@ title: Brave Browser
 <details><summary><b>Applied patches: 11</b> . 1 build(s)</summary>
 <ul>
 <li>Block Motion Sensors</li>
+<li>Block Popups &amp; Ratings</li>
+<li>Block Telemetry</li>
+<li>Brave Origin</li>
+<li>Clean New Tab</li>
+<li>Close Tab In Group Order</li>
+<li>Keep All Tabs Loaded</li>
+<li>Skip Welcome Screens</li>
+<li>Stop Background Wakeups</li>
+<li>Stop Promo Notifications</li>
+<li>Stop Text Sharing with System</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260451](https://github.com/nullcpy/archive/releases/tag/260451) | 2026-11-03 | `1.98.63` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260451/brave-browser-kveld9-v1.98.63-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260451/brave-browser-kveld9-v1.98.63-arm-v7a.apk) |
+
+<details><summary><b>Applied patches: 11</b> . 1 build(s)</summary>
+<ul>
+<li>Block Motion Sensors</li>
 <li>Block Popups &amp; Rating Requests</li>
 <li>Block Trackers</li>
 <li>Brave Origin</li>
