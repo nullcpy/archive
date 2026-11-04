@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 7</b> . 4 build(s)</summary>
+<details><summary><b>Applied patches: 7</b> . 5 build(s)</summary>
 <ul>
 <li>Disable typing indicator</li>
 <li>Hide Facebook buttons</li>
@@ -18,6 +18,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260465](https://github.com/nullcpy/archive/releases/tag/260465) | 2026-11-04 | `586.0.0.55.92` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260465/messenger-devanced-v586.0.0.55.92-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260465/messenger-devanced-v586.0.0.55.92-arm-v7a.apk) |
 | [260451](https://github.com/nullcpy/archive/releases/tag/260451) | 2026-11-03 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260451/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260451/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
 | [260408](https://github.com/nullcpy/archive/releases/tag/260408) | 2026-10-29 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260408/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260408/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
 | [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260402/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
