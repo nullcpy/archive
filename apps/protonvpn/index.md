@@ -8,7 +8,7 @@ title: Proton VPN
 
 ### Standard
 
-<details><summary><b>Applied patches: 13</b> . 10 build(s)</summary>
+<details><summary><b>Applied patches: 13</b> . 11 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
 <li>Custom accent color</li>
@@ -28,6 +28,7 @@ title: Proton VPN
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260462](https://github.com/nullcpy/archive/releases/tag/260462) | 2026-11-04 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260462/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260462/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
 | [260456](https://github.com/nullcpy/archive/releases/tag/260456) | 2026-11-03 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260456/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260456/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
 | [260444](https://github.com/nullcpy/archive/releases/tag/260444) | 2026-11-02 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260444/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260444/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
 | [260411](https://github.com/nullcpy/archive/releases/tag/260411) | 2026-10-29 | `5.20.98.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260411/proton-vpn-hxreborn-v5.20.98.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260411/proton-vpn-hxreborn-v5.20.98.0-arm-v7a.apk) |
