@@ -4,6 +4,36 @@ title: Facebook
 
 # Facebook
 
+## DeVanced
+
+### Standard
+
+<details><summary><b>Applied patches: 15</b> . 3 build(s)</summary>
+<ul>
+<li>AMOLED dark theme</li>
+<li>Clean Home feed</li>
+<li>De-Vanced Settings</li>
+<li>Disable all ads</li>
+<li>Disable analytics and telemetry</li>
+<li>Disable auto refresh</li>
+<li>Download Media</li>
+<li>Facebook signature compatibility</li>
+<li>Material You theme</li>
+<li>Media quality controls</li>
+<li>Messenger install compatibility</li>
+<li>Open Marketplace on launch</li>
+<li>Optimize Facebook</li>
+<li>Picture-in-picture</li>
+<li>Reels 2x speed</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260465](https://github.com/nullcpy/archive/releases/tag/260465) | 2026-11-04 | `580.0.0.51.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260465/facebook-devanced-v580.0.0.51.74-arm64-v8a.apk) |
+| [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `580.0.0.51.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/facebook-devanced-v580.0.0.51.74-arm64-v8a.apk) |
+| [260359](https://github.com/nullcpy/archive/releases/tag/260359) | 2026-10-24 | `580.0.0.51.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260359/facebook-devanced-v580.0.0.51.74-arm64-v8a.apk) |
+
 ## andrewliang25
 
 ### Standard
@@ -1047,33 +1077,4 @@ title: Facebook
 | Build | Date | Version | Download |
 |---|---|---|---|
 | [260352](https://github.com/nullcpy/archive/releases/tag/260352) | 2026-10-23 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260352/facebook-hushfacebook-material-you-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260352/facebook-hushfacebook-material-you-v584.0.0.51.56-arm-v7a.apk) |
-
-## DeVanced
-
-### Standard
-
-<details><summary><b>Applied patches: 15</b> . 2 build(s)</summary>
-<ul>
-<li>AMOLED dark theme</li>
-<li>Clean Home feed</li>
-<li>De-Vanced Settings</li>
-<li>Disable all ads</li>
-<li>Disable analytics and telemetry</li>
-<li>Disable auto refresh</li>
-<li>Download Media</li>
-<li>Facebook signature compatibility</li>
-<li>Material You theme</li>
-<li>Media quality controls</li>
-<li>Messenger install compatibility</li>
-<li>Open Marketplace on launch</li>
-<li>Optimize Facebook</li>
-<li>Picture-in-picture</li>
-<li>Reels 2x speed</li>
-</ul>
-</details>
-
-| Build | Date | Version | Download |
-|---|---|---|---|
-| [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `580.0.0.51.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/facebook-devanced-v580.0.0.51.74-arm64-v8a.apk) |
-| [260359](https://github.com/nullcpy/archive/releases/tag/260359) | 2026-10-24 | `580.0.0.51.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260359/facebook-devanced-v580.0.0.51.74-arm64-v8a.apk) |
 
