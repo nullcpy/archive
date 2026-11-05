@@ -8,7 +8,7 @@ title: Rumble
 
 ### Standard
 
-<details><summary><b>Applied patches: 38</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 38</b> . 2 build(s)</summary>
 <ul>
 <li>AMOLED black</li>
 <li>Background audio by default</li>
@@ -53,5 +53,6 @@ title: Rumble
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260470](https://github.com/nullcpy/archive/releases/tag/260470) | 2026-11-05 | `3.21.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260470/rumble-lurk-v3.21.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260470/rumble-lurk-v3.21.0-arm-v7a.apk) |
 | [260435](https://github.com/nullcpy/archive/releases/tag/260435) | 2026-11-01 | `3.21.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260435/rumble-lurk-v3.21.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260435/rumble-lurk-v3.21.0-arm-v7a.apk) |
 
