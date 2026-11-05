@@ -8,7 +8,7 @@ title: LinkedIn
 
 ### Standard
 
-<details><summary><b>Applied patches: 11</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 11</b> . 2 build(s)</summary>
 <ul>
 <li>Block tracking</li>
 <li>Disable double-tap like</li>
@@ -26,5 +26,6 @@ title: LinkedIn
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260469](https://github.com/nullcpy/archive/releases/tag/260469) | 2026-11-05 | `4.1.1261` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260469/linkedin-michii-v4.1.1261-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260469/linkedin-michii-v4.1.1261-arm-v7a.apk) |
 | [260401](https://github.com/nullcpy/archive/releases/tag/260401) | 2026-10-28 | `4.1.1261` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260401/linkedin-michii-v4.1.1261-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260401/linkedin-michii-v4.1.1261-arm-v7a.apk) |
 
