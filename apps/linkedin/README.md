@@ -4,6 +4,29 @@
 
 ### Standard
 
+<details><summary><b>Applied patches: 14</b> . 1 build(s)</summary>
+<ul>
+<li>Block tracking</li>
+<li>Bottom bar style</li>
+<li>Copy post text</li>
+<li>Disable double-tap like</li>
+<li>Download media</li>
+<li>Feed filters</li>
+<li>Hide ads</li>
+<li>Hide Premium upsells</li>
+<li>Hide promoted jobs</li>
+<li>Hide suggested posts</li>
+<li>Icon-only post actions</li>
+<li>Messaging</li>
+<li>Open links directly</li>
+<li>Sanitize share links</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260471](https://github.com/nullcpy/archive/releases/tag/260471) | 2026-11-05 | `4.1.1261` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260471/linkedin-michii-v4.1.1261-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260471/linkedin-michii-v4.1.1261-arm-v7a.apk) |
+
 <details><summary><b>Applied patches: 11</b> . 3 build(s)</summary>
 <ul>
 <li>Block tracking</li>
