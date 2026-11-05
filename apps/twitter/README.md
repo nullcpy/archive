@@ -176,7 +176,7 @@
 
 ### NewX
 
-<details><summary><b>Applied patches: 46</b> . 4 build(s)</summary>
+<details><summary><b>Applied patches: 46</b> . 5 build(s)</summary>
 <ul>
 <li>NewX: Crash logs</li>
 <li>NewX: Custom font</li>
@@ -229,6 +229,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260469](https://github.com/nullcpy/archive/releases/tag/260469) | 2026-11-05 | `12.40.1-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260469/twitter-piko-newx-v12.40.1-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260469/twitter-piko-newx-v12.40.1-prod.01-arm-v7a.apk) |
 | [260433](https://github.com/nullcpy/archive/releases/tag/260433) | 2026-11-01 | `12.39.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260433/twitter-piko-newx-v12.39.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260433/twitter-piko-newx-v12.39.0-prod.01-arm-v7a.apk) |
 | [260414](https://github.com/nullcpy/archive/releases/tag/260414) | 2026-10-30 | `12.38.1-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260414/twitter-piko-newx-v12.38.1-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260414/twitter-piko-newx-v12.38.1-prod.01-arm-v7a.apk) |
 | [260410](https://github.com/nullcpy/archive/releases/tag/260410) | 2026-10-29 | `12.38.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260410/twitter-piko-newx-v12.38.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260410/twitter-piko-newx-v12.38.0-prod.01-arm-v7a.apk) |
