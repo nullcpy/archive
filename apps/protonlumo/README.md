@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 4</b> . 4 build(s)</summary>
+<details><summary><b>Applied patches: 4</b> . 5 build(s)</summary>
 <ul>
 <li>Material 3 switches</li>
 <li>Remove tap highlight</li>
@@ -15,6 +15,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260470](https://github.com/nullcpy/archive/releases/tag/260470) | 2026-11-05 | `2.1.5-nogms` | APK: [all](https://github.com/nullcpy/archive/releases/download/260470/proton-lumo-hxreborn-v2.1.5-nogms-all.apk) |
 | [260461](https://github.com/nullcpy/archive/releases/tag/260461) | 2026-11-04 | `2.1.5-nogms` | APK: [all](https://github.com/nullcpy/archive/releases/download/260461/proton-lumo-hxreborn-v2.1.5-nogms-all.apk) |
 | [260456](https://github.com/nullcpy/archive/releases/tag/260456) | 2026-11-03 | `2.1.5-nogms` | APK: [all](https://github.com/nullcpy/archive/releases/download/260456/proton-lumo-hxreborn-v2.1.5-nogms-all.apk) |
 | [260444](https://github.com/nullcpy/archive/releases/tag/260444) | 2026-11-02 | `2.1.5-nogms` | APK: [all](https://github.com/nullcpy/archive/releases/download/260444/proton-lumo-hxreborn-v2.1.5-nogms-all.apk) |
