@@ -4,33 +4,101 @@ title: Messenger
 
 # Messenger
 
-## DeVanced
+## HushMessenger
 
 ### Standard
 
-<details><summary><b>Applied patches: 7</b> . 5 build(s)</summary>
+<details><summary><b>Applied patches: 83</b> . 1 build(s)</summary>
 <ul>
-<li>Disable typing indicator</li>
-<li>Hide Facebook buttons</li>
-<li>Hide inbox ads</li>
-<li>Hide inbox stories and notes tray</li>
-<li>Hide inbox subtabs</li>
-<li>Open links externally</li>
-<li>Remove Meta AI</li>
+<li>Allow chat bubbles</li>
+<li>Allow landscape</li>
+<li>Allow screenshots</li>
+<li>Android Auto messages</li>
+<li>Ask before a call</li>
+<li>Auto reply</li>
+<li>Bold and italic text</li>
+<li>Customize message actions</li>
+<li>Fix videos that won't send</li>
+<li>Hide ad banners in business chats</li>
+<li>Hide AI sticker tools</li>
+<li>Hide avatar stickers</li>
+<li>Hide business reply suggestions</li>
+<li>Hide business typing suggestions</li>
+<li>Hide call buttons</li>
+<li>Hide Chat Moments</li>
+<li>Hide chat promotions</li>
+<li>Hide chosen chats</li>
+<li>Hide event prompts</li>
+<li>Hide Facebook shortcuts</li>
+<li>Hide friend request cards</li>
+<li>Hide growth prompts</li>
+<li>Hide inbox promotions</li>
+<li>Hide inbox tabs</li>
+<li>Hide joined community chats</li>
+<li>Hide Mark as read</li>
+<li>Hide Meta AI</li>
+<li>Hide Notifications tab</li>
+<li>Hide People tab</li>
+<li>Hide People You May Know</li>
+<li>Hide pictures on the Blocked list</li>
+<li>Hide read receipts</li>
+<li>Hide Reels badge</li>
+<li>Hide stories and notes</li>
+<li>Hide tab badges</li>
+<li>Hide the Instants button</li>
+<li>Hide the recent photo card</li>
+<li>Hide typing indicator</li>
+<li>Hide Your story when sharing</li>
+<li>Hold stories at the end</li>
+<li>Ignore the swipe up for disappearing messages</li>
+<li>Install beside Meta apps</li>
+<li>Jump to the first message or a date</li>
+<li>Keep a message log</li>
+<li>Keep chat pop-ups</li>
+<li>Keep emoji search on emoji</li>
+<li>Keep the search bar</li>
+<li>Keep unsent messages</li>
+<li>Mark as read button</li>
+<li>Material You theme</li>
+<li>Notify for restricted chats</li>
+<li>Open settings from menu</li>
+<li>Open web links externally</li>
+<li>Open your gallery app</li>
+<li>Pin more chats</li>
+<li>Preview chats on long press</li>
+<li>Put gallery picks in the chat</li>
+<li>Quiet incoming calls</li>
+<li>Record calls</li>
+<li>Restore old emoji drawer</li>
+<li>Restore screens on re-signed builds</li>
+<li>Save any story</li>
+<li>Save button for voice messages</li>
+<li>Save voice messages you play</li>
+<li>Search saved messages</li>
+<li>Send photos at original quality</li>
+<li>Send videos without re-encoding</li>
+<li>Show People tab</li>
+<li>Slide chats in and out</li>
+<li>Square profile pictures</li>
+<li>Stop ad attribution uploads</li>
+<li>Stop analytics uploads</li>
+<li>Stop app list and device ID sharing</li>
+<li>Stop inbox and ad link logging</li>
+<li>Stop live connection logging</li>
+<li>Stop nearby scans</li>
+<li>Unlock app icons</li>
+<li>Unlock app themes</li>
+<li>Use system emoji</li>
+<li>Use the phone's camera app</li>
+<li>Use your own font</li>
+<li>View stories anonymously</li>
+<li>Your own home header</li>
 </ul>
 </details>
 
 | Build | Date | Version | Download |
 |---|---|---|---|
-| [260465](https://github.com/nullcpy/archive/releases/tag/260465) | 2026-11-04 | `586.0.0.55.92` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260465/messenger-devanced-v586.0.0.55.92-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260465/messenger-devanced-v586.0.0.55.92-arm-v7a.apk) |
-| [260451](https://github.com/nullcpy/archive/releases/tag/260451) | 2026-11-03 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260451/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260451/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
-| [260408](https://github.com/nullcpy/archive/releases/tag/260408) | 2026-10-29 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260408/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260408/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
-| [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260402/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
-| [260359](https://github.com/nullcpy/archive/releases/tag/260359) | 2026-10-24 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260359/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260359/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
-
-## HushMessenger
-
-### Standard
+| [260475](https://github.com/nullcpy/archive/releases/tag/260475) | 2026-11-06 | `586.0.0.55.92` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260475/messenger-hushmessenger-v586.0.0.55.92-arm64-v8a.apk) |
 
 <details><summary><b>Applied patches: 66</b> . 1 build(s)</summary>
 <ul>
@@ -177,6 +245,30 @@ title: Messenger
 | Build | Date | Version | Download |
 |---|---|---|---|
 | [260397](https://github.com/nullcpy/archive/releases/tag/260397) | 2026-10-28 | `584.1.0.61.98` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260397/messenger-hushmessenger-v584.1.0.61.98-arm64-v8a.apk) |
+
+## DeVanced
+
+### Standard
+
+<details><summary><b>Applied patches: 7</b> . 5 build(s)</summary>
+<ul>
+<li>Disable typing indicator</li>
+<li>Hide Facebook buttons</li>
+<li>Hide inbox ads</li>
+<li>Hide inbox stories and notes tray</li>
+<li>Hide inbox subtabs</li>
+<li>Open links externally</li>
+<li>Remove Meta AI</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260465](https://github.com/nullcpy/archive/releases/tag/260465) | 2026-11-04 | `586.0.0.55.92` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260465/messenger-devanced-v586.0.0.55.92-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260465/messenger-devanced-v586.0.0.55.92-arm-v7a.apk) |
+| [260451](https://github.com/nullcpy/archive/releases/tag/260451) | 2026-11-03 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260451/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260451/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
+| [260408](https://github.com/nullcpy/archive/releases/tag/260408) | 2026-10-29 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260408/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260408/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
+| [260402](https://github.com/nullcpy/archive/releases/tag/260402) | 2026-10-28 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260402/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260402/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
+| [260359](https://github.com/nullcpy/archive/releases/tag/260359) | 2026-10-24 | `573.0.0.44.88` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260359/messenger-devanced-v573.0.0.44.88-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260359/messenger-devanced-v573.0.0.44.88-arm-v7a.apk) |
 
 ## rushiranpise
 
