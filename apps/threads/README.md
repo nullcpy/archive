@@ -1,0 +1,37 @@
+# Threads
+
+## HushThreads
+
+### Standard
+
+<details><summary><b>Applied patches: 22</b> . 1 build(s)</summary>
+<ul>
+<li>Block background-return feed refresh</li>
+<li>Change version code</li>
+<li>Disable analytics</li>
+<li>Disable screenshot detection</li>
+<li>Disable swipe to Search</li>
+<li>Disable video autoplay</li>
+<li>Filter comments</li>
+<li>Hide ads</li>
+<li>Hide ghost post bubbles</li>
+<li>Hide suggested users</li>
+<li>Hide the Instagram button</li>
+<li>HushThreads settings</li>
+<li>Max image quality</li>
+<li>Open links in browser</li>
+<li>Pure black dark mode</li>
+<li>Remove share targets</li>
+<li>Remove the advertising ID</li>
+<li>Restore screens on re-signed builds</li>
+<li>Sanitize sharing links</li>
+<li>Save photos and videos</li>
+<li>Show exact post times</li>
+<li>Trust user-added certificates</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260474](https://github.com/nullcpy/archive/releases/tag/260474) | 2026-11-06 | `454.0.0.54.79` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260474/threads-hushthreads-v454.0.0.54.79-arm64-v8a.apk) |
+
