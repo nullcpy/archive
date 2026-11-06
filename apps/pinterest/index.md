@@ -8,7 +8,7 @@ title: Pinterest
 
 ### Standard
 
-<details><summary><b>Applied patches: 35</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 35</b> . 2 build(s)</summary>
 <ul>
 <li>Choose startup tab</li>
 <li>Copy direct link</li>
@@ -50,6 +50,7 @@ title: Pinterest
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260473](https://github.com/nullcpy/archive/releases/tag/260473) | 2026-11-06 | `14.43.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260473/pinterest-browzomje-v14.43.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260473/pinterest-browzomje-v14.43.0-arm-v7a.apk) |
 | [260472](https://github.com/nullcpy/archive/releases/tag/260472) | 2026-11-05 | `14.43.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260472/pinterest-browzomje-v14.43.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260472/pinterest-browzomje-v14.43.0-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 34</b> . 2 build(s)</summary>
