@@ -1,0 +1,24 @@
+# AliExpress
+
+## hxreborn
+
+### Standard
+
+<details><summary><b>Applied patches: 9</b> . 1 build(s)</summary>
+<ul>
+<li>Disable analytics</li>
+<li>Disable update prompts</li>
+<li>Enable image saving</li>
+<li>Fix dark mode</li>
+<li>GmsCore support</li>
+<li>Remove promotional popups</li>
+<li>Remove sponsored items</li>
+<li>Skip splash promotions</li>
+<li>Spoof signature</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260479](https://github.com/nullcpy/archive/releases/tag/260479) | 2026-11-07 | `8.180.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260479/aliexpress-hxreborn-v8.180.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260479/aliexpress-hxreborn-v8.180.1-arm-v7a.apk) |
+
