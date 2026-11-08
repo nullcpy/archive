@@ -8,6 +8,25 @@ title: TeraBox
 
 ### Standard
 
+<details><summary><b>Applied patches: 10</b> . 1 build(s)</summary>
+<ul>
+<li>Fix Google login</li>
+<li>Fix transfers over VPN</li>
+<li>Hide ads</li>
+<li>Hide consent form</li>
+<li>Hide home shortcuts</li>
+<li>Hide promotions</li>
+<li>Hide video recommendations</li>
+<li>Remove recent panel</li>
+<li>Show backup count</li>
+<li>Unlock Premium Plus</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260488](https://github.com/nullcpy/archive/releases/tag/260488) | 2026-11-08 | `4.27.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260488/terabox-hxreborn-v4.27.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260488/terabox-hxreborn-v4.27.5-arm-v7a.apk) |
+
 <details><summary><b>Applied patches: 9</b> . 1 build(s)</summary>
 <ul>
 <li>Fix Google login</li>

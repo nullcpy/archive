@@ -8,7 +8,7 @@ title: Internet Speed Meter Lite
 
 ### Standard
 
-<details><summary><b>Applied patches: 3</b> . 6 build(s)</summary>
+<details><summary><b>Applied patches: 3</b> . 7 build(s)</summary>
 <ul>
 <li>Disable tracking</li>
 <li>Remove ads</li>
@@ -18,6 +18,7 @@ title: Internet Speed Meter Lite
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260488](https://github.com/nullcpy/archive/releases/tag/260488) | 2026-11-08 | `1.7.0-lite` | APK: [all](https://github.com/nullcpy/archive/releases/download/260488/internet-speed-meter-lite-hxreborn-v1.7.0-lite-all.apk) |
 | [260479](https://github.com/nullcpy/archive/releases/tag/260479) | 2026-11-07 | `1.7.0-lite` | APK: [all](https://github.com/nullcpy/archive/releases/download/260479/internet-speed-meter-lite-hxreborn-v1.7.0-lite-all.apk) |
 | [260470](https://github.com/nullcpy/archive/releases/tag/260470) | 2026-11-05 | `1.7.0-lite` | APK: [all](https://github.com/nullcpy/archive/releases/download/260470/internet-speed-meter-lite-hxreborn-v1.7.0-lite-all.apk) |
 | [260462](https://github.com/nullcpy/archive/releases/tag/260462) | 2026-11-04 | `1.7.0-lite` | APK: [all](https://github.com/nullcpy/archive/releases/download/260462/internet-speed-meter-lite-hxreborn-v1.7.0-lite-all.apk) |

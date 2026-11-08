@@ -8,7 +8,7 @@ title: Proton Lumo
 
 ### Standard
 
-<details><summary><b>Applied patches: 4</b> . 6 build(s)</summary>
+<details><summary><b>Applied patches: 4</b> . 7 build(s)</summary>
 <ul>
 <li>Material 3 switches</li>
 <li>Remove tap highlight</li>
@@ -19,6 +19,7 @@ title: Proton Lumo
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260488](https://github.com/nullcpy/archive/releases/tag/260488) | 2026-11-08 | `2.1.5-nogms` | APK: [all](https://github.com/nullcpy/archive/releases/download/260488/proton-lumo-hxreborn-v2.1.5-nogms-all.apk) |
 | [260479](https://github.com/nullcpy/archive/releases/tag/260479) | 2026-11-07 | `2.1.5-nogms` | APK: [all](https://github.com/nullcpy/archive/releases/download/260479/proton-lumo-hxreborn-v2.1.5-nogms-all.apk) |
 | [260470](https://github.com/nullcpy/archive/releases/tag/260470) | 2026-11-05 | `2.1.5-nogms` | APK: [all](https://github.com/nullcpy/archive/releases/download/260470/proton-lumo-hxreborn-v2.1.5-nogms-all.apk) |
 | [260461](https://github.com/nullcpy/archive/releases/tag/260461) | 2026-11-04 | `2.1.5-nogms` | APK: [all](https://github.com/nullcpy/archive/releases/download/260461/proton-lumo-hxreborn-v2.1.5-nogms-all.apk) |
