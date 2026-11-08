@@ -1,27 +1,10 @@
 # Proton Mail
 
-## SatanMerde
-
-### Standard
-
-<details><summary><b>Applied patches: 3</b> . 2 build(s)</summary>
-<ul>
-<li>AMOLED Black Theme - Proton Mail (Experimental)</li>
-<li>Declutter UI &amp; Hide Upsells - Proton Mail (Experimental)</li>
-<li>Enhanced Privacy &amp; Tracker Blocker - Proton Mail (Experimental)</li>
-</ul>
-</details>
-
-| Build | Date | Version | Download |
-|---|---|---|---|
-| [260481](https://github.com/nullcpy/archive/releases/tag/260481) | 2026-11-07 | `7.11.12` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260481/proton-mail-satanmerde-v7.11.12-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260481/proton-mail-satanmerde-v7.11.12-arm-v7a.apk) |
-| [260361](https://github.com/nullcpy/archive/releases/tag/260361) | 2026-10-24 | `7.11.10` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260361/proton-mail-satanmerde-v7.11.10-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260361/proton-mail-satanmerde-v7.11.10-arm-v7a.apk) |
-
 ## hxreborn
 
 ### Standard
 
-<details><summary><b>Applied patches: 11</b> . 9 build(s)</summary>
+<details><summary><b>Applied patches: 11</b> . 10 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
 <li>Custom accent color</li>
@@ -39,6 +22,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260488](https://github.com/nullcpy/archive/releases/tag/260488) | 2026-11-08 | `7.11.12` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260488/proton-mail-hxreborn-v7.11.12-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260488/proton-mail-hxreborn-v7.11.12-arm-v7a.apk) |
 | [260479](https://github.com/nullcpy/archive/releases/tag/260479) | 2026-11-07 | `7.11.12` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260479/proton-mail-hxreborn-v7.11.12-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260479/proton-mail-hxreborn-v7.11.12-arm-v7a.apk) |
 | [260470](https://github.com/nullcpy/archive/releases/tag/260470) | 2026-11-05 | `7.11.12` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260470/proton-mail-hxreborn-v7.11.12-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260470/proton-mail-hxreborn-v7.11.12-arm-v7a.apk) |
 | [260461](https://github.com/nullcpy/archive/releases/tag/260461) | 2026-11-04 | `7.11.12` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260461/proton-mail-hxreborn-v7.11.12-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260461/proton-mail-hxreborn-v7.11.12-arm-v7a.apk) |
@@ -72,6 +56,23 @@
 | [260381](https://github.com/nullcpy/archive/releases/tag/260381) | 2026-10-26 | `7.11.11` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260381/proton-mail-hxreborn-v7.11.11-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260381/proton-mail-hxreborn-v7.11.11-arm-v7a.apk) |
 | [260374](https://github.com/nullcpy/archive/releases/tag/260374) | 2026-10-25 | `7.11.11` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260374/proton-mail-hxreborn-v7.11.11-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260374/proton-mail-hxreborn-v7.11.11-arm-v7a.apk) |
 | [260372](https://github.com/nullcpy/archive/releases/tag/260372) | 2026-10-25 | `7.11.10` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260372/proton-mail-hxreborn-v7.11.10-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260372/proton-mail-hxreborn-v7.11.10-arm-v7a.apk) |
+
+## SatanMerde
+
+### Standard
+
+<details><summary><b>Applied patches: 3</b> . 2 build(s)</summary>
+<ul>
+<li>AMOLED Black Theme - Proton Mail (Experimental)</li>
+<li>Declutter UI &amp; Hide Upsells - Proton Mail (Experimental)</li>
+<li>Enhanced Privacy &amp; Tracker Blocker - Proton Mail (Experimental)</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260481](https://github.com/nullcpy/archive/releases/tag/260481) | 2026-11-07 | `7.11.12` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260481/proton-mail-satanmerde-v7.11.12-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260481/proton-mail-satanmerde-v7.11.12-arm-v7a.apk) |
+| [260361](https://github.com/nullcpy/archive/releases/tag/260361) | 2026-10-24 | `7.11.10` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260361/proton-mail-satanmerde-v7.11.10-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260361/proton-mail-satanmerde-v7.11.10-arm-v7a.apk) |
 
 ## dhrubonai
 
