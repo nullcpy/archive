@@ -117,10 +117,18 @@ jobs:
           import pathlib
           import re
 
-          navigation = re.compile(r'^\[(?:older builds|newer builds)\]\([^\n]+\)$', re.MULTILINE)
+            navigation = re.compile(r'^\[(older builds|newer builds)\]\(([^\n]+)\)$', re.MULTILINE)
           for path in pathlib.Path("_gen/apps").rglob("*.md"):
               text = path.read_text(encoding="utf-8")
-              links = navigation.findall(text)
+              links = [
+                "[%s%s%s](%s)" % (
+                  "← " if label == "older builds" else "",
+                  label,
+                  " →" if label == "newer builds" else "",
+                  url,
+                )
+                for label, url in navigation.findall(text)
+              ]
               if not links:
                   continue
               body = navigation.sub("", text).rstrip()
