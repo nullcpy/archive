@@ -4,8 +4,6 @@ title: YouTube Music
 
 # YouTube Music
 
-[newer builds](https://nullcpy.github.io/archive/apps/youtubemusic/)
-
 ## anddea
 
 ### Standard
@@ -65,4 +63,6 @@ title: YouTube Music
 | [260457](https://github.com/nullcpy/archive/releases/tag/260457) 🧪 | 2026-11-03 | `9.15.51` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260457/youtube-music-anddea-v9.15.51-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260457/youtube-music-anddea-v9.15.51-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260457/youtube-music-anddea-module-v9.15.51-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260457/youtube-music-anddea-module-v9.15.51-arm-v7a.zip) |
 | [260418](https://github.com/nullcpy/archive/releases/tag/260418) 🧪 | 2026-10-30 | `9.15.51` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260418/youtube-music-anddea-v9.15.51-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260418/youtube-music-anddea-v9.15.51-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260418/youtube-music-anddea-module-v9.15.51-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260418/youtube-music-anddea-module-v9.15.51-arm-v7a.zip) |
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `9.15.51` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-v9.15.51-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-v9.15.51-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-module-v9.15.51-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-music-anddea-module-v9.15.51-arm-v7a.zip) |
+
+[newer builds →](https://nullcpy.github.io/archive/apps/youtubemusic/)
 

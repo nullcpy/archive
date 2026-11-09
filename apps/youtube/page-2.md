@@ -4,8 +4,6 @@ title: YouTube
 
 # YouTube
 
-[newer builds](https://nullcpy.github.io/archive/apps/youtube/)
-
 ## Morphe
 
 ### Experimental
@@ -510,4 +508,6 @@ title: YouTube
 | Build | Date | Version | Download |
 |---|---|---|---|
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `21.13.164` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-anddea-v21.13.164-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-anddea-v21.13.164-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/youtube-anddea-module-v21.13.164-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/youtube-anddea-module-v21.13.164-arm-v7a.zip) |
+
+[newer builds →](https://nullcpy.github.io/archive/apps/youtube/)
 
