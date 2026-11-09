@@ -115,24 +115,6 @@ a:hover {
 
 .crumbs {
   margin: 0 0 22px;
-  font-size: 0.9rem;
-}
-
-.crumbs a,
-main>p:last-child a[href*="/apps/"] {
-  display: inline-block;
-  padding: 5px 11px;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: var(--bg-card);
-  color: var(--text-2);
-  font-size: 0.85rem;
-}
-
-.crumbs a:hover,
-main>p:last-child a[href*="/apps/"]:hover {
-  background: var(--bg-chip);
-  text-decoration: none;
 }
 
 table {
