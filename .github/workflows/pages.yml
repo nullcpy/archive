@@ -227,6 +227,12 @@ jobs:
         with:
           path: ./_site
 
+      - name: Keep the newest ten workflow runs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh run list -L 100 --json databaseId -q '.[].databaseId' | tail -n+11 | xargs -P 8 -IID gh api "repos/$GITHUB_REPOSITORY/actions/runs/ID" -X DELETE || :
+
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -238,8 +244,7 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-      - name: Keep the newest ten workflow runs
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh run list -L 100 --json databaseId -q '.[].databaseId' | tail -n+11 | xargs -P 8 -IID gh api "repos/$GITHUB_REPOSITORY/actions/runs/ID" -X DELETE || :
+
+
+
+        
