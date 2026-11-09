@@ -117,7 +117,7 @@ jobs:
           import pathlib
           import re
 
-            navigation = re.compile(r'^\[(older builds|newer builds)\]\(([^\n]+)\)$', re.MULTILINE)
+            navigation = re.compile(r'^\[(?:← )?(older builds|newer builds)(?: →)?\]\(([^\n]+)\)$', re.MULTILINE)
           for path in pathlib.Path("_gen/apps").rglob("*.md"):
               text = path.read_text(encoding="utf-8")
               links = [
