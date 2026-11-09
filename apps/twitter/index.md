@@ -8,7 +8,7 @@ title: Twitter
 
 ### Standard
 
-<details><summary><b>Applied patches: 72</b> . 4 build(s)</summary>
+<details><summary><b>Applied patches: 72</b> . 5 build(s)</summary>
 <ul>
 <li>Add ability to copy media link</li>
 <li>Block redirecting to X Lite</li>
@@ -87,6 +87,7 @@ title: Twitter
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260496](https://github.com/nullcpy/archive/releases/tag/260496) | 2026-11-09 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260496/twitter-piko-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260496/twitter-piko-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260496/twitter-piko-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260496/twitter-piko-module-v12.19.1-release.0-arm-v7a.zip) |
 | [260482](https://github.com/nullcpy/archive/releases/tag/260482) 🧪 | 2026-11-07 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260482/twitter-piko-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260482/twitter-piko-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260482/twitter-piko-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260482/twitter-piko-module-v12.19.1-release.0-arm-v7a.zip) |
 | [260434](https://github.com/nullcpy/archive/releases/tag/260434) 🧪 | 2026-11-01 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260434/twitter-piko-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260434/twitter-piko-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260434/twitter-piko-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260434/twitter-piko-module-v12.19.1-release.0-arm-v7a.zip) |
 | [260377](https://github.com/nullcpy/archive/releases/tag/260377) 🧪 | 2026-10-25 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-module-v12.19.1-release.0-arm-v7a.zip) |
@@ -94,7 +95,7 @@ title: Twitter
 
 ### Material You
 
-<details><summary><b>Applied patches: 74</b> . 4 build(s)</summary>
+<details><summary><b>Applied patches: 74</b> . 5 build(s)</summary>
 <ul>
 <li>Add ability to copy media link</li>
 <li>Block redirecting to X Lite</li>
@@ -175,6 +176,7 @@ title: Twitter
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260496](https://github.com/nullcpy/archive/releases/tag/260496) | 2026-11-09 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260496/twitter-piko-material-you-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260496/twitter-piko-material-you-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260496/twitter-piko-material-you-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260496/twitter-piko-material-you-module-v12.19.1-release.0-arm-v7a.zip) |
 | [260482](https://github.com/nullcpy/archive/releases/tag/260482) 🧪 | 2026-11-07 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260482/twitter-piko-material-you-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260482/twitter-piko-material-you-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260482/twitter-piko-material-you-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260482/twitter-piko-material-you-module-v12.19.1-release.0-arm-v7a.zip) |
 | [260434](https://github.com/nullcpy/archive/releases/tag/260434) 🧪 | 2026-11-01 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260434/twitter-piko-material-you-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260434/twitter-piko-material-you-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260434/twitter-piko-material-you-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260434/twitter-piko-material-you-module-v12.19.1-release.0-arm-v7a.zip) |
 | [260377](https://github.com/nullcpy/archive/releases/tag/260377) 🧪 | 2026-10-25 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-material-you-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-material-you-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-material-you-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260377/twitter-piko-material-you-module-v12.19.1-release.0-arm-v7a.zip) |
