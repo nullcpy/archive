@@ -13,6 +13,7 @@ on:
     - cron: "37 4 * * 1"
 
 permissions:
+  actions: write
   contents: write
   pages: write
   id-token: write
@@ -236,3 +237,16 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  cleanup:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Keep the newest ten workflow runs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for run_id in $(gh run list --workflow pages.yml --limit 100 \
+              --json databaseId --jq '.[10:] | .[].databaseId'); do
+            gh run delete "$run_id"
+          done
