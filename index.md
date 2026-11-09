@@ -4,7 +4,7 @@ title: NullStore Archive
 
 <h1><span class="accent">NullStore</span> Archive</h1>
 
-<p class="stats"><b>84</b> apps · <b>4k</b> downloads</p>
+<p class="stats"><b>85</b> apps · <b>4k</b> downloads</p>
 
 Every build NullForge has published, kept permanently. For the newest versions and for one-tap Obtainium adds, use [NullStore](https://nullcpy.github.io/nullstore).
 
@@ -20,6 +20,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Beta Maniac](https://nullcpy.github.io/archive/apps/betamaniac/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
 | [Block Blast](https://nullcpy.github.io/archive/apps/blockblast/) | <time datetime="2026-11-07T18:05:12Z" data-relative>2026-11-07</time> | 9 |
 | [Bluetooth Keyboard & Mouse](https://nullcpy.github.io/archive/apps/bluetoothkeyboardmouse/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
+| [Boost For Reddit](https://nullcpy.github.io/archive/apps/boostforreddit/) | <time datetime="2026-11-09T07:20:17Z" data-relative>2026-11-09</time> | 0 |
 | [Brave Browser](https://nullcpy.github.io/archive/apps/bravebrowser/) | <time datetime="2026-11-03T04:49:32Z" data-relative>2026-11-03</time> | 16 |
 | [ByAir](https://nullcpy.github.io/archive/apps/byair/) | <time datetime="2026-10-31T17:47:02Z" data-relative>2026-10-31</time> | 2 |
 | [Calm](https://nullcpy.github.io/archive/apps/calm/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
@@ -27,7 +28,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Citymapper](https://nullcpy.github.io/archive/apps/citymapper/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 3 |
 | [Cloudflare WARP](https://nullcpy.github.io/archive/apps/cloudflarewarp/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 10 |
 | [Discord](https://nullcpy.github.io/archive/apps/discord/) | <time datetime="2026-11-05T06:38:34Z" data-relative>2026-11-05</time> | 103 |
-| [Disney+](https://nullcpy.github.io/archive/apps/disney/) | <time datetime="2026-10-28T21:22:56Z" data-relative>2026-10-28</time> | 4 |
+| [Disney+](https://nullcpy.github.io/archive/apps/disney/) | <time datetime="2026-10-28T21:22:56Z" data-relative>2026-10-28</time> | 5 |
 | [Facebook](https://nullcpy.github.io/archive/apps/facebook/) | <time datetime="2026-11-07T18:05:12Z" data-relative>2026-11-07</time> | 97 |
 | [FairEmail](https://nullcpy.github.io/archive/apps/fairemail/) | <time datetime="2026-10-26T11:06:43Z" data-relative>2026-10-26</time> | 6 |
 | [Firsty](https://nullcpy.github.io/archive/apps/firsty/) | <time datetime="2026-10-29T06:46:20Z" data-relative>2026-10-29</time> | 1 |
@@ -69,7 +70,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Reddit](https://nullcpy.github.io/archive/apps/reddit/) | <time datetime="2026-11-08T15:18:45Z" data-relative>2026-11-08</time> | 359 |
 | [Remote for Android TV](https://nullcpy.github.io/archive/apps/remoteforandroidtv/) | <time datetime="2026-11-06T06:35:53Z" data-relative>2026-11-06</time> | 9 |
 | [Rumble](https://nullcpy.github.io/archive/apps/rumble/) | <time datetime="2026-11-05T16:41:37Z" data-relative>2026-11-05</time> | 4 |
-| [Send Files to TV](https://nullcpy.github.io/archive/apps/sendfilestotv/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
+| [Send Files to TV](https://nullcpy.github.io/archive/apps/sendfilestotv/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
 | [Showly](https://nullcpy.github.io/archive/apps/showly/) | <time datetime="2026-11-08T11:51:07Z" data-relative>2026-11-08</time> | 54 |
 | [Sofascore](https://nullcpy.github.io/archive/apps/sofascore/) | <time datetime="2026-11-04T22:08:27Z" data-relative>2026-11-04</time> | 13 |
 | [SoundCloud](https://nullcpy.github.io/archive/apps/soundcloud/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> | 4 |
@@ -78,11 +79,11 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [TeraBox](https://nullcpy.github.io/archive/apps/terabox/) | <time datetime="2026-11-08T11:51:07Z" data-relative>2026-11-08</time> | 73 |
 | [Termius](https://nullcpy.github.io/archive/apps/termius/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
 | [The Weather Channel](https://nullcpy.github.io/archive/apps/theweatherchannel/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
-| [Threads](https://nullcpy.github.io/archive/apps/threads/) | <time datetime="2026-11-09T06:18:30Z" data-relative>2026-11-09</time> | 6 |
+| [Threads](https://nullcpy.github.io/archive/apps/threads/) | <time datetime="2026-11-09T06:18:30Z" data-relative>2026-11-09</time> | 8 |
 | [TickTick](https://nullcpy.github.io/archive/apps/ticktick/) | <time datetime="2026-11-01T12:03:18Z" data-relative>2026-11-01</time> | 2 |
 | [TikTok](https://nullcpy.github.io/archive/apps/tiktok/) | <time datetime="2026-11-08T11:40:04Z" data-relative>2026-11-08</time> | 57 |
 | [TikTok Lite](https://nullcpy.github.io/archive/apps/tiktoklite/) | <time datetime="2026-11-01T20:12:22Z" data-relative>2026-11-01</time> | 1 |
-| [Truecaller](https://nullcpy.github.io/archive/apps/truecaller/) | <time datetime="2026-11-09T06:14:57Z" data-relative>2026-11-09</time> | 116 |
+| [Truecaller](https://nullcpy.github.io/archive/apps/truecaller/) | <time datetime="2026-11-09T06:14:57Z" data-relative>2026-11-09</time> | 122 |
 | [Twitch](https://nullcpy.github.io/archive/apps/twitch/) | <time datetime="2026-11-07T23:41:41Z" data-relative>2026-11-07</time> | 16 |
 | [Twitter](https://nullcpy.github.io/archive/apps/twitter/) | <time datetime="2026-11-08T11:51:07Z" data-relative>2026-11-08</time> | 182 |
 | [Viber](https://nullcpy.github.io/archive/apps/viber/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> | 2 |
