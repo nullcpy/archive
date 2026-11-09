@@ -20,7 +20,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Beta Maniac](https://nullcpy.github.io/archive/apps/betamaniac/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
 | [Block Blast](https://nullcpy.github.io/archive/apps/blockblast/) | <time datetime="2026-11-07T18:05:12Z" data-relative>2026-11-07</time> | 9 |
 | [Bluetooth Keyboard & Mouse](https://nullcpy.github.io/archive/apps/bluetoothkeyboardmouse/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
-| [Boost For Reddit](https://nullcpy.github.io/archive/apps/boostforreddit/) | <time datetime="2026-11-09T07:20:17Z" data-relative>2026-11-09</time> | 0 |
+| [Boost For Reddit](https://nullcpy.github.io/archive/apps/boostforreddit/) | <time datetime="2026-11-09T07:20:17Z" data-relative>2026-11-09</time> | 1 |
 | [Brave Browser](https://nullcpy.github.io/archive/apps/bravebrowser/) | <time datetime="2026-11-03T04:49:32Z" data-relative>2026-11-03</time> | 16 |
 | [ByAir](https://nullcpy.github.io/archive/apps/byair/) | <time datetime="2026-10-31T17:47:02Z" data-relative>2026-10-31</time> | 2 |
 | [Calm](https://nullcpy.github.io/archive/apps/calm/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
