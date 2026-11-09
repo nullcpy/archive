@@ -1,5 +1,35 @@
 # Threads
 
+## chiggi
+
+### Standard
+
+<details><summary><b>Applied patches: 2</b> . 1 build(s)</summary>
+<ul>
+<li>Hide ads</li>
+<li>Remove AD_ID permission</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260493](https://github.com/nullcpy/archive/releases/tag/260493) | 2026-11-09 | `434.0.0.41.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260493/threads-chiggi-v434.0.0.41.74-arm64-v8a.apk) |
+
+### Clone
+
+<details><summary><b>Applied patches: 4</b> . 1 build(s)</summary>
+<ul>
+<li>Change app name</li>
+<li>Change package name</li>
+<li>Hide ads</li>
+<li>Remove AD_ID permission</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260493](https://github.com/nullcpy/archive/releases/tag/260493) | 2026-11-09 | `434.0.0.41.74` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260493/threads-chiggi-clone-v434.0.0.41.74-arm64-v8a.apk) |
+
 ## HushThreads
 
 ### Standard
