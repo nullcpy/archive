@@ -242,6 +242,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          set -euo pipefail
           run_ids=()
           page=1
           while true; do
