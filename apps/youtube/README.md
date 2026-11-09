@@ -1,6 +1,6 @@
 # YouTube
 
-
+[older builds](https://github.com/nullcpy/archive/blob/main/apps/youtube/2.md)
 
 ## Morphe
 
@@ -2046,4 +2046,3 @@
 |---|---|---|---|
 | [260380](https://github.com/nullcpy/archive/releases/tag/260380) 🧪 | 2026-10-26 | `21.43.523` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-v21.43.523-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-v21.43.523-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-module-v21.43.523-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260380/youtube-morphe-experimental-module-v21.43.523-arm-v7a.zip) |
 
-[older builds](https://github.com/nullcpy/archive/blob/main/apps/youtube/2.md)
