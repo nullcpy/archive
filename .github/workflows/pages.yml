@@ -242,22 +242,4 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          set -euo pipefail
-          run_ids=()
-          page=1
-          while true; do
-            page_ids=($(curl --fail --silent --show-error \
-              -H "Accept: application/vnd.github+json" \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              "https://api.github.com/repos/$GITHUB_REPOSITORY/actions/workflows/pages.yml/runs?per_page=100&page=$page" \
-              | jq -r '.workflow_runs[].id'))
-            run_ids+=("${page_ids[@]}")
-            [ "${#page_ids[@]}" -lt 100 ] && break
-            page=$((page + 1))
-          done
-          for run_id in "${run_ids[@]:10}"; do
-            curl --fail --silent --show-error --request DELETE \
-              -H "Accept: application/vnd.github+json" \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              "https://api.github.com/repos/$GITHUB_REPOSITORY/actions/runs/$run_id"
-          done
+          gh run list -L 100 --json databaseId -q '.[].databaseId' | tail -n+11 | xargs -P 8 -IID gh api "repos/$GITHUB_REPOSITORY/actions/runs/ID" -X DELETE || :
