@@ -8,7 +8,7 @@ title: YouTube
 
 ### Standard
 
-<details><summary><b>Applied patches: 113</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 113</b> . 2 build(s)</summary>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -128,6 +128,7 @@ title: YouTube
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260497](https://github.com/nullcpy/archive/releases/tag/260497) 🧪 | 2026-11-09 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260497/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260497/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260497/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260497/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 | [260495](https://github.com/nullcpy/archive/releases/tag/260495) 🧪 | 2026-11-09 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260495/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260495/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260495/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260495/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 113</b> . 1 build(s)</summary>
@@ -1211,7 +1212,7 @@ title: YouTube
 
 ### Experimental
 
-<details><summary><b>Applied patches: 113</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 113</b> . 2 build(s)</summary>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -1331,6 +1332,7 @@ title: YouTube
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260497](https://github.com/nullcpy/archive/releases/tag/260497) 🧪 | 2026-11-09 | `21.45.82` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260497/youtube-morphe-experimental-v21.45.82-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260497/youtube-morphe-experimental-v21.45.82-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260497/youtube-morphe-experimental-module-v21.45.82-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260497/youtube-morphe-experimental-module-v21.45.82-arm-v7a.zip) |
 | [260495](https://github.com/nullcpy/archive/releases/tag/260495) 🧪 | 2026-11-09 | `21.45.82` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260495/youtube-morphe-experimental-v21.45.82-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260495/youtube-morphe-experimental-v21.45.82-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260495/youtube-morphe-experimental-module-v21.45.82-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260495/youtube-morphe-experimental-module-v21.45.82-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 113</b> . 1 build(s)</summary>

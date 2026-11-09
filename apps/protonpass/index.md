@@ -8,6 +8,24 @@ title: Proton Pass
 
 ### Standard
 
+<details><summary><b>Applied patches: 9</b> . 1 build(s)</summary>
+<ul>
+<li>AMOLED dark theme</li>
+<li>Custom accent color</li>
+<li>Floating navigation bar</li>
+<li>Hide layout components</li>
+<li>Hide navigation bar on scroll</li>
+<li>Hide promotional messages</li>
+<li>Hide upgrade promotions</li>
+<li>M3E loading indicator</li>
+<li>Material 3 switches</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260498](https://github.com/nullcpy/archive/releases/tag/260498) | 2026-11-09 | `1.41.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260498/proton-pass-hxreborn-v1.41.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260498/proton-pass-hxreborn-v1.41.5-arm-v7a.apk) |
+
 <details><summary><b>Applied patches: 8</b> . 10 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
