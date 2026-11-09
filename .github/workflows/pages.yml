@@ -238,15 +238,12 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-  cleanup:
-    needs: deploy
-    runs-on: ubuntu-latest
-    steps:
       - name: Keep the newest ten workflow runs
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          for run_id in $(gh run list --workflow pages.yml --limit 100 \
+          for run_id in $(gh run list --repo "$GITHUB_REPOSITORY" \
+              --workflow pages.yml --limit 100 \
               --json databaseId --jq '.[10:] | .[].databaseId'); do
             gh run delete "$run_id"
           done
