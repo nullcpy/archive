@@ -113,22 +113,6 @@ jobs:
           if [ -s _data/counts.json ]; then counts=(--counts _data/counts.json); fi
           python3 .rvb/.github/scripts/build_archive_pages.py \
             --manifests _data/manifests --out _gen --cap 50 "${counts[@]}"
-          python3 - <<'PY'
-          import pathlib
-          import re
-
-          navigation = re.compile(r'^\[((?:← )?older builds|newer builds(?: →)?)\]\(([^\n]+)\)$', re.MULTILINE)
-          for path in pathlib.Path("_gen/apps").rglob("*.md"):
-              text = path.read_text(encoding="utf-8")
-              links = [
-                "[%s](%s)" % (label, url)
-                for label, url in navigation.findall(text)
-              ]
-              if not links:
-                  continue
-              body = navigation.sub("", text).rstrip()
-              path.write_text(body + "\n\n" + " | ".join(links) + "\n", encoding="utf-8")
-          PY
           # Pages serves index.md at /; without it the site builds and then 404s,
           # which is exactly how it failed once.
           test -f _gen/index.md || { echo "::error::generator wrote no root index.md" >&2; exit 1; }
