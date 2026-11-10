@@ -8,6 +8,87 @@ title: Twitter
 
 ### Standard
 
+<details><summary><b>Applied patches: 72</b> . 1 build(s)</summary>
+<ul>
+<li>Add ability to copy media link</li>
+<li>Block redirecting to X Lite</li>
+<li>Block update screen</li>
+<li>Change app icon</li>
+<li>Clear tracking params</li>
+<li>Control video auto scroll</li>
+<li>Custom download folder</li>
+<li>Custom emoji font</li>
+<li>Custom font</li>
+<li>Custom share menu</li>
+<li>Custom sharing domain</li>
+<li>Customise post font size</li>
+<li>Customize default reply sorting</li>
+<li>Customize explore tabs</li>
+<li>Customize Inline action Bar items</li>
+<li>Customize Navigation Bar items</li>
+<li>Customize notification tabs</li>
+<li>Customize profile tabs</li>
+<li>Customize search suggestions</li>
+<li>Customize search tab items</li>
+<li>Customize side bar items</li>
+<li>Customize timeline top bar</li>
+<li>Delete from database</li>
+<li>Disable auto timeline scroll on launch</li>
+<li>Disable chirp font</li>
+<li>Disable Play Store updates</li>
+<li>Download patch</li>
+<li>Enable debug menu for posts</li>
+<li>Enable force HD videos</li>
+<li>Enable PiP mode automatically</li>
+<li>Enable Undo Posts</li>
+<li>Force enable translate</li>
+<li>Handle custom twitter links</li>
+<li>Hide badges from navigation bar icons</li>
+<li>Hide Banner</li>
+<li>Hide bookmark icon in timeline</li>
+<li>Hide community badges</li>
+<li>Hide Community Notes</li>
+<li>Hide FAB</li>
+<li>Hide FAB Menu Buttons</li>
+<li>Hide followed by context</li>
+<li>Hide hidden replies</li>
+<li>Hide immersive player</li>
+<li>Hide Live Threads</li>
+<li>Hide nudge button</li>
+<li>Hide post metrics</li>
+<li>Hide promote button</li>
+<li>Hide recommendation items</li>
+<li>Hide Recommended Users</li>
+<li>Hook feature flag</li>
+<li>Import/Export login token</li>
+<li>Legacy share links</li>
+<li>Log server response</li>
+<li>More information on profile</li>
+<li>Native downloader</li>
+<li>Native reader mode</li>
+<li>Native translator</li>
+<li>No shortened URL</li>
+<li>Pause search suggestions</li>
+<li>Remove Ads</li>
+<li>Remove premium upsell</li>
+<li>Remove search suggestions</li>
+<li>Remove view count</li>
+<li>Restore legacy follower lists</li>
+<li>Round off numbers</li>
+<li>Selectable Text</li>
+<li>Share Tweet as Image</li>
+<li>Show changelogs</li>
+<li>Show poll results</li>
+<li>Show post source label</li>
+<li>Show sensitive media</li>
+<li>Support external downloader</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260502](https://github.com/nullcpy/archive/releases/tag/260502) | 2026-11-10 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260502/twitter-piko-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260502/twitter-piko-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260502/twitter-piko-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260502/twitter-piko-module-v12.19.1-release.0-arm-v7a.zip) |
+
 <details><summary><b>Applied patches: 72</b> . 5 build(s)</summary>
 <ul>
 <li>Add ability to copy media link</li>
@@ -94,6 +175,89 @@ title: Twitter
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-module-v12.19.1-release.0-arm-v7a.zip) |
 
 ### Material You
+
+<details><summary><b>Applied patches: 74</b> . 1 build(s)</summary>
+<ul>
+<li>Add ability to copy media link</li>
+<li>Block redirecting to X Lite</li>
+<li>Block update screen</li>
+<li>Bring back twitter</li>
+<li>Change app icon</li>
+<li>Clear tracking params</li>
+<li>Control video auto scroll</li>
+<li>Custom download folder</li>
+<li>Custom emoji font</li>
+<li>Custom font</li>
+<li>Custom share menu</li>
+<li>Custom sharing domain</li>
+<li>Customise post font size</li>
+<li>Customize default reply sorting</li>
+<li>Customize explore tabs</li>
+<li>Customize Inline action Bar items</li>
+<li>Customize Navigation Bar items</li>
+<li>Customize notification tabs</li>
+<li>Customize profile tabs</li>
+<li>Customize search suggestions</li>
+<li>Customize search tab items</li>
+<li>Customize side bar items</li>
+<li>Customize timeline top bar</li>
+<li>Delete from database</li>
+<li>Disable auto timeline scroll on launch</li>
+<li>Disable chirp font</li>
+<li>Disable Play Store updates</li>
+<li>Download patch</li>
+<li>Dynamic color</li>
+<li>Enable debug menu for posts</li>
+<li>Enable force HD videos</li>
+<li>Enable PiP mode automatically</li>
+<li>Enable Undo Posts</li>
+<li>Force enable translate</li>
+<li>Handle custom twitter links</li>
+<li>Hide badges from navigation bar icons</li>
+<li>Hide Banner</li>
+<li>Hide bookmark icon in timeline</li>
+<li>Hide community badges</li>
+<li>Hide Community Notes</li>
+<li>Hide FAB</li>
+<li>Hide FAB Menu Buttons</li>
+<li>Hide followed by context</li>
+<li>Hide hidden replies</li>
+<li>Hide immersive player</li>
+<li>Hide Live Threads</li>
+<li>Hide nudge button</li>
+<li>Hide post metrics</li>
+<li>Hide promote button</li>
+<li>Hide recommendation items</li>
+<li>Hide Recommended Users</li>
+<li>Hook feature flag</li>
+<li>Import/Export login token</li>
+<li>Legacy share links</li>
+<li>Log server response</li>
+<li>More information on profile</li>
+<li>Native downloader</li>
+<li>Native reader mode</li>
+<li>Native translator</li>
+<li>No shortened URL</li>
+<li>Pause search suggestions</li>
+<li>Remove Ads</li>
+<li>Remove premium upsell</li>
+<li>Remove search suggestions</li>
+<li>Remove view count</li>
+<li>Restore legacy follower lists</li>
+<li>Round off numbers</li>
+<li>Selectable Text</li>
+<li>Share Tweet as Image</li>
+<li>Show changelogs</li>
+<li>Show poll results</li>
+<li>Show post source label</li>
+<li>Show sensitive media</li>
+<li>Support external downloader</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260502](https://github.com/nullcpy/archive/releases/tag/260502) | 2026-11-10 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260502/twitter-piko-material-you-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260502/twitter-piko-material-you-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260502/twitter-piko-material-you-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260502/twitter-piko-material-you-module-v12.19.1-release.0-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 74</b> . 5 build(s)</summary>
 <ul>
