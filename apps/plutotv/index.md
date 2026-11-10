@@ -8,7 +8,7 @@ title: PlutoTV
 
 ### Android TV
 
-<details><summary><b>Applied patches: 3</b> . 6 build(s)</summary>
+<details><summary><b>Applied patches: 3</b> . 7 build(s)</summary>
 <ul>
 <li>Disable auto-updates</li>
 <li>Mask live ad breaks (black screen + mute)</li>
@@ -18,6 +18,7 @@ title: PlutoTV
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260505](https://github.com/nullcpy/archive/releases/tag/260505) | 2026-11-10 | `5.66.0-leanback` | APK: [all](https://github.com/nullcpy/archive/releases/download/260505/plutotv-ajstrick81-android-tv-v5.66.0-leanback-all.apk) |
 | [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `5.66.0-leanback` | APK: [all](https://github.com/nullcpy/archive/releases/download/260504/plutotv-ajstrick81-android-tv-v5.66.0-leanback-all.apk) |
 | [260485](https://github.com/nullcpy/archive/releases/tag/260485) | 2026-11-07 | `5.66.0-leanback` | APK: [all](https://github.com/nullcpy/archive/releases/download/260485/plutotv-ajstrick81-android-tv-v5.66.0-leanback-all.apk) |
 | [260428](https://github.com/nullcpy/archive/releases/tag/260428) | 2026-10-31 | `5.66.0-leanback` | APK: [all](https://github.com/nullcpy/archive/releases/download/260428/plutotv-ajstrick81-android-tv-v5.66.0-leanback-all.apk) |
