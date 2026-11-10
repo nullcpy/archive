@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 1</b> . 13 build(s)</summary>
+<details><summary><b>Applied patches: 1</b> . 14 build(s)</summary>
 <ul>
 <li>Remove app protection</li>
 </ul>
@@ -12,6 +12,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `1.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260504/musicolet-cast-plugin-hxreborn-v1.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260504/musicolet-cast-plugin-hxreborn-v1.9-arm-v7a.apk) |
 | [260498](https://github.com/nullcpy/archive/releases/tag/260498) | 2026-11-09 | `1.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260498/musicolet-cast-plugin-hxreborn-v1.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260498/musicolet-cast-plugin-hxreborn-v1.9-arm-v7a.apk) |
 | [260488](https://github.com/nullcpy/archive/releases/tag/260488) | 2026-11-08 | `1.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260488/musicolet-cast-plugin-hxreborn-v1.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260488/musicolet-cast-plugin-hxreborn-v1.9-arm-v7a.apk) |
 | [260479](https://github.com/nullcpy/archive/releases/tag/260479) | 2026-11-07 | `1.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260479/musicolet-cast-plugin-hxreborn-v1.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260479/musicolet-cast-plugin-hxreborn-v1.9-arm-v7a.apk) |
