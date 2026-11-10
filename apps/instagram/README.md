@@ -4,6 +4,80 @@
 
 ### Standard
 
+<details><summary><b>Applied patches: 65</b> . 1 build(s)</summary>
+<ul>
+<li>Add settings</li>
+<li>Change like animation</li>
+<li>Copy comment</li>
+<li>Custom font</li>
+<li>Custom sharing domain</li>
+<li>Customise story ring size</li>
+<li>Customise story timestamp</li>
+<li>Customize navigation bar</li>
+<li>Disable ads</li>
+<li>Disable comments</li>
+<li>Disable disappearing messages swipe</li>
+<li>Disable discover people</li>
+<li>Disable double tap like</li>
+<li>Disable explore</li>
+<li>Disable highlights</li>
+<li>Disable Play Store updates</li>
+<li>Disable Reels scrolling</li>
+<li>Disable screenshot detection</li>
+<li>Disable stories</li>
+<li>Disable story flipping</li>
+<li>Disable swipe to create</li>
+<li>Disable typing status</li>
+<li>Disable video autoplay</li>
+<li>Download media</li>
+<li>Download voice message</li>
+<li>External downloader</li>
+<li>Filter stories</li>
+<li>Focus Lock</li>
+<li>Friendship status indicator</li>
+<li>Hidden chats</li>
+<li>Hide feed posts</li>
+<li>Hide group creation button on sharesheet</li>
+<li>Hide hidden requests</li>
+<li>Hide like buttons</li>
+<li>Hide notes tray</li>
+<li>Hide Reels follow button</li>
+<li>Hide reshare button</li>
+<li>Hide save buttons</li>
+<li>Hide share button</li>
+<li>Hide stories tray</li>
+<li>Hide story follow button</li>
+<li>Hide suggested content</li>
+<li>Improve image viewing</li>
+<li>Inbox lock</li>
+<li>Limit feed to following profiles</li>
+<li>Loop story</li>
+<li>Make ephemeral media permanent</li>
+<li>Mark as read after reply</li>
+<li>Mark chat as read manually</li>
+<li>More options on post</li>
+<li>More options on profile</li>
+<li>Open links externally</li>
+<li>Recommended flags</li>
+<li>Remove empty bottom space</li>
+<li>Resume Reels after scrolling</li>
+<li>Sanitize share links</li>
+<li>Save deleted messages</li>
+<li>Save Instants</li>
+<li>Save media comment</li>
+<li>Theme</li>
+<li>Unlock developer options</li>
+<li>View DMs anonymously</li>
+<li>View live anonymously</li>
+<li>View stories anonymously</li>
+<li>View story mentions</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260502](https://github.com/nullcpy/archive/releases/tag/260502) | 2026-11-10 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260502/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260502/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
+
 <details><summary><b>Applied patches: 67</b> . 2 build(s)</summary>
 <ul>
 <li>Add settings</li>
@@ -295,6 +369,81 @@
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
 
 ### Clone
+
+<details><summary><b>Applied patches: 66</b> . 1 build(s)</summary>
+<ul>
+<li>Add settings</li>
+<li>Change like animation</li>
+<li>Clone</li>
+<li>Copy comment</li>
+<li>Custom font</li>
+<li>Custom sharing domain</li>
+<li>Customise story ring size</li>
+<li>Customise story timestamp</li>
+<li>Customize navigation bar</li>
+<li>Disable ads</li>
+<li>Disable comments</li>
+<li>Disable disappearing messages swipe</li>
+<li>Disable discover people</li>
+<li>Disable double tap like</li>
+<li>Disable explore</li>
+<li>Disable highlights</li>
+<li>Disable Play Store updates</li>
+<li>Disable Reels scrolling</li>
+<li>Disable screenshot detection</li>
+<li>Disable stories</li>
+<li>Disable story flipping</li>
+<li>Disable swipe to create</li>
+<li>Disable typing status</li>
+<li>Disable video autoplay</li>
+<li>Download media</li>
+<li>Download voice message</li>
+<li>External downloader</li>
+<li>Filter stories</li>
+<li>Focus Lock</li>
+<li>Friendship status indicator</li>
+<li>Hidden chats</li>
+<li>Hide feed posts</li>
+<li>Hide group creation button on sharesheet</li>
+<li>Hide hidden requests</li>
+<li>Hide like buttons</li>
+<li>Hide notes tray</li>
+<li>Hide Reels follow button</li>
+<li>Hide reshare button</li>
+<li>Hide save buttons</li>
+<li>Hide share button</li>
+<li>Hide stories tray</li>
+<li>Hide story follow button</li>
+<li>Hide suggested content</li>
+<li>Improve image viewing</li>
+<li>Inbox lock</li>
+<li>Limit feed to following profiles</li>
+<li>Loop story</li>
+<li>Make ephemeral media permanent</li>
+<li>Mark as read after reply</li>
+<li>Mark chat as read manually</li>
+<li>More options on post</li>
+<li>More options on profile</li>
+<li>Open links externally</li>
+<li>Recommended flags</li>
+<li>Remove empty bottom space</li>
+<li>Resume Reels after scrolling</li>
+<li>Sanitize share links</li>
+<li>Save deleted messages</li>
+<li>Save Instants</li>
+<li>Save media comment</li>
+<li>Theme</li>
+<li>Unlock developer options</li>
+<li>View DMs anonymously</li>
+<li>View live anonymously</li>
+<li>View stories anonymously</li>
+<li>View story mentions</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260502](https://github.com/nullcpy/archive/releases/tag/260502) | 2026-11-10 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260502/instagram-piko-clone-v452.1.0.53.64-arm64-v8a.apk) |
 
 <details><summary><b>Applied patches: 68</b> . 2 build(s)</summary>
 <ul>
