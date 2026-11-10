@@ -8,7 +8,7 @@ title: Showly
 
 ### Standard
 
-<details><summary><b>Applied patches: 2</b> . 16 build(s)</summary>
+<details><summary><b>Applied patches: 2</b> . 17 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
 <li>Unlock premium</li>
@@ -17,6 +17,7 @@ title: Showly
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `3.72.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260504/showly-hxreborn-v3.72.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260504/showly-hxreborn-v3.72.0-arm-v7a.apk) |
 | [260498](https://github.com/nullcpy/archive/releases/tag/260498) | 2026-11-09 | `3.72.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260498/showly-hxreborn-v3.72.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260498/showly-hxreborn-v3.72.0-arm-v7a.apk) |
 | [260488](https://github.com/nullcpy/archive/releases/tag/260488) | 2026-11-08 | `3.72.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260488/showly-hxreborn-v3.72.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260488/showly-hxreborn-v3.72.0-arm-v7a.apk) |
 | [260479](https://github.com/nullcpy/archive/releases/tag/260479) | 2026-11-07 | `3.72.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260479/showly-hxreborn-v3.72.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260479/showly-hxreborn-v3.72.0-arm-v7a.apk) |
