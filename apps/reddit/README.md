@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 30</b> . 5 build(s)</summary>
+<details><summary><b>Applied patches: 30</b> . 6 build(s)</summary>
 <ul>
 <li>App icon</li>
 <li>Copy text</li>
@@ -41,6 +41,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260507](https://github.com/nullcpy/archive/releases/tag/260507) 🧪 | 2026-11-11 | `2026.40.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260507/reddit-morphe-v2026.40.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260507/reddit-morphe-v2026.40.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260507/reddit-morphe-module-v2026.40.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260507/reddit-morphe-module-v2026.40.0-arm-v7a.zip) |
 | [260503](https://github.com/nullcpy/archive/releases/tag/260503) | 2026-11-10 | `2026.40.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260503/reddit-morphe-v2026.40.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260503/reddit-morphe-v2026.40.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260503/reddit-morphe-module-v2026.40.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260503/reddit-morphe-module-v2026.40.0-arm-v7a.zip) |
 | [260501](https://github.com/nullcpy/archive/releases/tag/260501) 🧪 | 2026-11-10 | `2026.40.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260501/reddit-morphe-v2026.40.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260501/reddit-morphe-v2026.40.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260501/reddit-morphe-module-v2026.40.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260501/reddit-morphe-module-v2026.40.0-arm-v7a.zip) |
 | [260495](https://github.com/nullcpy/archive/releases/tag/260495) 🧪 | 2026-11-09 | `2026.40.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260495/reddit-morphe-v2026.40.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260495/reddit-morphe-v2026.40.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260495/reddit-morphe-module-v2026.40.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260495/reddit-morphe-module-v2026.40.0-arm-v7a.zip) |
@@ -107,7 +108,7 @@
 
 ### Experimental
 
-<details><summary><b>Applied patches: 30</b> . 5 build(s)</summary>
+<details><summary><b>Applied patches: 30</b> . 6 build(s)</summary>
 <ul>
 <li>App icon</li>
 <li>Copy text</li>
@@ -144,6 +145,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260507](https://github.com/nullcpy/archive/releases/tag/260507) 🧪 | 2026-11-11 | `2026.45.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260507/reddit-morphe-experimental-v2026.45.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260507/reddit-morphe-experimental-v2026.45.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260507/reddit-morphe-experimental-module-v2026.45.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260507/reddit-morphe-experimental-module-v2026.45.0-arm-v7a.zip) |
 | [260503](https://github.com/nullcpy/archive/releases/tag/260503) | 2026-11-10 | `2026.45.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260503/reddit-morphe-experimental-v2026.45.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260503/reddit-morphe-experimental-v2026.45.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260503/reddit-morphe-experimental-module-v2026.45.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260503/reddit-morphe-experimental-module-v2026.45.0-arm-v7a.zip) |
 | [260501](https://github.com/nullcpy/archive/releases/tag/260501) 🧪 | 2026-11-10 | `2026.45.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260501/reddit-morphe-experimental-v2026.45.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260501/reddit-morphe-experimental-v2026.45.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260501/reddit-morphe-experimental-module-v2026.45.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260501/reddit-morphe-experimental-module-v2026.45.0-arm-v7a.zip) |
 | [260495](https://github.com/nullcpy/archive/releases/tag/260495) 🧪 | 2026-11-09 | `2026.45.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260495/reddit-morphe-experimental-v2026.45.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260495/reddit-morphe-experimental-v2026.45.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260495/reddit-morphe-experimental-module-v2026.45.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260495/reddit-morphe-experimental-module-v2026.45.0-arm-v7a.zip) |
