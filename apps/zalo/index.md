@@ -8,7 +8,7 @@ title: Zalo
 
 ### Standard
 
-<details><summary><b>Applied patches: 24</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 24</b> . 2 build(s)</summary>
 <ul>
 <li>Bypass native startup tamper check</li>
 <li>Bypass Zalo Drive Contacts permission gate</li>
@@ -39,6 +39,7 @@ title: Zalo
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260508](https://github.com/nullcpy/archive/releases/tag/260508) | 2026-11-11 | `26.10.02` | APK: [all](https://github.com/nullcpy/archive/releases/download/260508/zalo-zeldrisho-v26.10.02-all.apk) |
 | [260503](https://github.com/nullcpy/archive/releases/tag/260503) | 2026-11-10 | `26.10.02` | APK: [all](https://github.com/nullcpy/archive/releases/download/260503/zalo-zeldrisho-v26.10.02-all.apk) |
 
 <details><summary><b>Applied patches: 20</b> . 3 build(s)</summary>
@@ -74,7 +75,7 @@ title: Zalo
 
 ### Clone
 
-<details><summary><b>Applied patches: 26</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 26</b> . 2 build(s)</summary>
 <ul>
 <li>Bypass native startup tamper check</li>
 <li>Bypass Zalo Drive Contacts permission gate</li>
@@ -107,5 +108,6 @@ title: Zalo
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260508](https://github.com/nullcpy/archive/releases/tag/260508) | 2026-11-11 | `26.10.02` | APK: [all](https://github.com/nullcpy/archive/releases/download/260508/zalo-zeldrisho-clone-v26.10.02-all.apk) |
 | [260503](https://github.com/nullcpy/archive/releases/tag/260503) | 2026-11-10 | `26.10.02` | APK: [all](https://github.com/nullcpy/archive/releases/download/260503/zalo-zeldrisho-clone-v26.10.02-all.apk) |
 

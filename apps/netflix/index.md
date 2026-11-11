@@ -8,7 +8,7 @@ title: Netflix
 
 ### Android TV
 
-<details><summary><b>Applied patches: 4</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 4</b> . 3 build(s)</summary>
 <ul>
 <li>Clone Netflix</li>
 <li>Disable Netflix CertCheck</li>
@@ -19,6 +19,7 @@ title: Netflix
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260508](https://github.com/nullcpy/archive/releases/tag/260508) | 2026-11-11 | `13.0.1build25028` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260508/netflix-ajstrick81-android-tv-v13.0.1build25028-arm-v7a.apk) |
 | [260428](https://github.com/nullcpy/archive/releases/tag/260428) | 2026-10-31 | `13.0.1build25028` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260428/netflix-ajstrick81-android-tv-v13.0.1build25028-arm-v7a.apk) |
 | [260379](https://github.com/nullcpy/archive/releases/tag/260379) | 2026-10-26 | `13.0.1build25028` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260379/netflix-ajstrick81-android-tv-v13.0.1build25028-arm-v7a.apk) |
 
