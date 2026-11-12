@@ -8,7 +8,7 @@ title: TikTok
 
 ### Standard
 
-<details><summary><b>Applied patches: 118</b> . 6 build(s)</summary>
+<details><summary><b>Applied patches: 118</b> . 7 build(s)</summary>
 <ul>
 <li>Advanced downloads</li>
 <li>Allow Duet and Stitch</li>
@@ -133,6 +133,7 @@ title: TikTok
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260512](https://github.com/nullcpy/archive/releases/tag/260512) 🧪 | 2026-11-12 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260512/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260512/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 | [260510](https://github.com/nullcpy/archive/releases/tag/260510) 🧪 | 2026-11-12 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260510/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260510/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 | [260509](https://github.com/nullcpy/archive/releases/tag/260509) | 2026-11-11 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260509/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260509/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
 | [260506](https://github.com/nullcpy/archive/releases/tag/260506) 🧪 | 2026-11-11 | `47.4.3` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260506/tiktok-icysymmetra-v47.4.3-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260506/tiktok-icysymmetra-v47.4.3-arm-v7a.apk) |
