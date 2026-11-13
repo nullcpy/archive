@@ -8,7 +8,7 @@ title: Google Maps
 
 ### Standard
 
-<details><summary><b>Applied patches: 29</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 29</b> . 2 build(s)</summary>
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
@@ -44,6 +44,7 @@ title: Google Maps
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260519](https://github.com/nullcpy/archive/releases/tag/260519) | 2026-11-13 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260519/google-maps-bearinmindcat-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260519/google-maps-bearinmindcat-v26.36.04.973607363-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260519/google-maps-bearinmindcat-module-v26.36.04.973607363-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260519/google-maps-bearinmindcat-module-v26.36.04.973607363-arm-v7a.zip) |
 | [260479](https://github.com/nullcpy/archive/releases/tag/260479) | 2026-11-07 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260479/google-maps-bearinmindcat-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260479/google-maps-bearinmindcat-v26.36.04.973607363-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260479/google-maps-bearinmindcat-module-v26.36.04.973607363-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260479/google-maps-bearinmindcat-module-v26.36.04.973607363-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 28</b> . 2 build(s)</summary>
@@ -231,7 +232,7 @@ title: Google Maps
 
 ### UnGoogled
 
-<details><summary><b>Applied patches: 30</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 30</b> . 2 build(s)</summary>
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
@@ -268,6 +269,7 @@ title: Google Maps
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260519](https://github.com/nullcpy/archive/releases/tag/260519) | 2026-11-13 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260519/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260519/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm-v7a.apk) |
 | [260479](https://github.com/nullcpy/archive/releases/tag/260479) | 2026-11-07 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260479/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260479/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 29</b> . 2 build(s)</summary>
@@ -390,7 +392,7 @@ title: Google Maps
 
 #### MicroG
 
-<details><summary><b>Applied patches: 31</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 31</b> . 2 build(s)</summary>
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
@@ -428,6 +430,7 @@ title: Google Maps
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260519](https://github.com/nullcpy/archive/releases/tag/260519) | 2026-11-13 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260519/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260519/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm-v7a.apk) |
 | [260479](https://github.com/nullcpy/archive/releases/tag/260479) | 2026-11-07 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260479/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260479/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 30</b> . 2 build(s)</summary>
