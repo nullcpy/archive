@@ -8,6 +8,108 @@ title: Messenger
 
 ### Standard
 
+<details><summary><b>Applied patches: 93</b> . 1 build(s)</summary>
+<ul>
+<li>Allow chat bubbles</li>
+<li>Allow landscape</li>
+<li>Allow screenshots</li>
+<li>Android Auto messages</li>
+<li>Ask before a call</li>
+<li>Auto reply</li>
+<li>Bigger chat preview</li>
+<li>Blur behind menus</li>
+<li>Bold and italic text</li>
+<li>Customize message actions</li>
+<li>Fix videos in chat heads</li>
+<li>Fix videos that won't send</li>
+<li>Floating tab bar</li>
+<li>Hide ad banners in business chats</li>
+<li>Hide AI sticker tools</li>
+<li>Hide avatar stickers</li>
+<li>Hide business reply suggestions</li>
+<li>Hide business typing suggestions</li>
+<li>Hide call buttons</li>
+<li>Hide chat menu items</li>
+<li>Hide Chat Moments</li>
+<li>Hide chat promotions</li>
+<li>Hide chosen chats</li>
+<li>Hide event prompts</li>
+<li>Hide Facebook shortcuts</li>
+<li>Hide friend request cards</li>
+<li>Hide growth prompts</li>
+<li>Hide inbox promotions</li>
+<li>Hide inbox tabs</li>
+<li>Hide joined community chats</li>
+<li>Hide Mark as read</li>
+<li>Hide Meta AI</li>
+<li>Hide Notifications tab</li>
+<li>Hide People tab</li>
+<li>Hide People You May Know</li>
+<li>Hide pictures on the Blocked list</li>
+<li>Hide read receipts</li>
+<li>Hide Reels badge</li>
+<li>Hide stories and notes</li>
+<li>Hide Stories tab</li>
+<li>Hide tab badges</li>
+<li>Hide the Instants button</li>
+<li>Hide the recent photo card</li>
+<li>Hide the tab bar while scrolling</li>
+<li>Hide typing indicator</li>
+<li>Hide Your story when sharing</li>
+<li>Hold stories at the end</li>
+<li>Ignore the swipe up for disappearing messages</li>
+<li>Install beside Meta apps</li>
+<li>Jump to the first message or a date</li>
+<li>Keep a message log</li>
+<li>Keep chat pop-ups</li>
+<li>Keep emoji search on emoji</li>
+<li>Keep the search bar</li>
+<li>Keep unsent messages</li>
+<li>Live captions on calls</li>
+<li>Mark as read button</li>
+<li>Material You theme</li>
+<li>Notify for restricted chats</li>
+<li>Open settings from menu</li>
+<li>Open web links externally</li>
+<li>Open your gallery app</li>
+<li>Pin more chats</li>
+<li>Preview chats on long press</li>
+<li>Put gallery picks in the chat</li>
+<li>Quiet incoming calls</li>
+<li>Record calls</li>
+<li>Restore old emoji drawer</li>
+<li>Restore screens on re-signed builds</li>
+<li>Save any story</li>
+<li>Save button for voice messages</li>
+<li>Save voice messages you play</li>
+<li>Search saved messages</li>
+<li>Send Instants from your gallery</li>
+<li>Send photos at original quality</li>
+<li>Send videos without re-encoding</li>
+<li>Show People tab</li>
+<li>Slide chats in and out</li>
+<li>Special contacts</li>
+<li>Square profile pictures</li>
+<li>Stop ad attribution uploads</li>
+<li>Stop analytics uploads</li>
+<li>Stop app list and device ID sharing</li>
+<li>Stop inbox and ad link logging</li>
+<li>Stop live connection logging</li>
+<li>Stop nearby scans</li>
+<li>Unlock app icons</li>
+<li>Unlock app themes</li>
+<li>Use system emoji</li>
+<li>Use the phone's camera app</li>
+<li>Use your own font</li>
+<li>View stories anonymously</li>
+<li>Your own home header</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260535](https://github.com/nullcpy/archive/releases/tag/260535) | 2026-11-14 | `587.0.0.54.96` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260535/messenger-hushmessenger-v587.0.0.54.96-arm64-v8a.apk) |
+
 <details><summary><b>Applied patches: 83</b> . 1 build(s)</summary>
 <ul>
 <li>Allow chat bubbles</li>
