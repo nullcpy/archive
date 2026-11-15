@@ -8,7 +8,7 @@ title: Web Video Cast
 
 ### Standard
 
-<details><summary><b>Applied patches: 5</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 5</b> . 2 build(s)</summary>
 <ul>
 <li>Bypass PairIP application checks</li>
 <li>Bypass PairIP license check</li>
@@ -20,5 +20,6 @@ title: Web Video Cast
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260544](https://github.com/nullcpy/archive/releases/tag/260544) | 2026-11-15 | `6.1.0` | APK: [all](https://github.com/nullcpy/archive/releases/download/260544/web-video-cast-mwbra130-v6.1.0-all.apk) |
 | [260453](https://github.com/nullcpy/archive/releases/tag/260453) | 2026-11-03 | `6.1.0` | APK: [all](https://github.com/nullcpy/archive/releases/download/260453/web-video-cast-mwbra130-v6.1.0-all.apk) |
 
