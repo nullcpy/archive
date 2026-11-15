@@ -8,6 +8,32 @@ title: Proton VPN
 
 ### Standard
 
+<details><summary><b>Applied patches: 14</b> . 4 build(s)</summary>
+<ul>
+<li>AMOLED dark theme</li>
+<li>Custom accent color</li>
+<li>Disable telemetry</li>
+<li>Floating navigation bar</li>
+<li>Hide upgrade promotions</li>
+<li>Material 3 switches</li>
+<li>Remove server change delay</li>
+<li>Show free server locations</li>
+<li>Unlock connection preferences</li>
+<li>Unlock custom DNS</li>
+<li>Unlock LAN connections</li>
+<li>Unlock NetShield</li>
+<li>Unlock profiles</li>
+<li>Unlock split tunneling</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260540](https://github.com/nullcpy/archive/releases/tag/260540) | 2026-11-15 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260540/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260540/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
+| [260511](https://github.com/nullcpy/archive/releases/tag/260511) | 2026-11-12 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260511/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260511/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
+| [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260504/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260504/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
+| [260498](https://github.com/nullcpy/archive/releases/tag/260498) | 2026-11-09 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260498/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260498/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
+
 <details><summary><b>Applied patches: 15</b> . 2 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
@@ -32,31 +58,6 @@ title: Proton VPN
 |---|---|---|---|
 | [260531](https://github.com/nullcpy/archive/releases/tag/260531) | 2026-11-14 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260531/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260531/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
 | [260529](https://github.com/nullcpy/archive/releases/tag/260529) | 2026-11-14 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260529/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260529/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
-
-<details><summary><b>Applied patches: 14</b> . 3 build(s)</summary>
-<ul>
-<li>AMOLED dark theme</li>
-<li>Custom accent color</li>
-<li>Disable telemetry</li>
-<li>Floating navigation bar</li>
-<li>Hide upgrade promotions</li>
-<li>Material 3 switches</li>
-<li>Remove server change delay</li>
-<li>Show free server locations</li>
-<li>Unlock connection preferences</li>
-<li>Unlock custom DNS</li>
-<li>Unlock LAN connections</li>
-<li>Unlock NetShield</li>
-<li>Unlock profiles</li>
-<li>Unlock split tunneling</li>
-</ul>
-</details>
-
-| Build | Date | Version | Download |
-|---|---|---|---|
-| [260511](https://github.com/nullcpy/archive/releases/tag/260511) | 2026-11-12 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260511/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260511/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
-| [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260504/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260504/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
-| [260498](https://github.com/nullcpy/archive/releases/tag/260498) | 2026-11-09 | `5.21.9.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260498/proton-vpn-hxreborn-v5.21.9.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260498/proton-vpn-hxreborn-v5.21.9.0-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 13</b> . 14 build(s)</summary>
 <ul>
