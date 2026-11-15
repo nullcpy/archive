@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 31</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 31</b> . 3 build(s)</summary>
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
@@ -42,6 +42,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260543](https://github.com/nullcpy/archive/releases/tag/260543) | 2026-11-15 | `26.44.06.1006895251` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260543/google-maps-bearinmindcat-v26.44.06.1006895251-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260543/google-maps-bearinmindcat-v26.44.06.1006895251-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260543/google-maps-bearinmindcat-module-v26.44.06.1006895251-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260543/google-maps-bearinmindcat-module-v26.44.06.1006895251-arm-v7a.zip) |
 | [260537](https://github.com/nullcpy/archive/releases/tag/260537) | 2026-11-15 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260537/google-maps-bearinmindcat-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260537/google-maps-bearinmindcat-v26.36.04.973607363-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260537/google-maps-bearinmindcat-module-v26.36.04.973607363-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260537/google-maps-bearinmindcat-module-v26.36.04.973607363-arm-v7a.zip) |
 | [260529](https://github.com/nullcpy/archive/releases/tag/260529) | 2026-11-14 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260529/google-maps-bearinmindcat-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260529/google-maps-bearinmindcat-v26.36.04.973607363-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260529/google-maps-bearinmindcat-module-v26.36.04.973607363-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260529/google-maps-bearinmindcat-module-v26.36.04.973607363-arm-v7a.zip) |
 
@@ -269,7 +270,7 @@
 
 ### UnGoogled
 
-<details><summary><b>Applied patches: 32</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 32</b> . 3 build(s)</summary>
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
@@ -308,6 +309,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260543](https://github.com/nullcpy/archive/releases/tag/260543) | 2026-11-15 | `26.44.06.1006895251` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260543/google-maps-bearinmindcat-ungoogled-v26.44.06.1006895251-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260543/google-maps-bearinmindcat-ungoogled-v26.44.06.1006895251-arm-v7a.apk) |
 | [260537](https://github.com/nullcpy/archive/releases/tag/260537) | 2026-11-15 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260537/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260537/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm-v7a.apk) |
 | [260529](https://github.com/nullcpy/archive/releases/tag/260529) | 2026-11-14 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260529/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260529/google-maps-bearinmindcat-ungoogled-v26.36.04.973607363-arm-v7a.apk) |
 
@@ -471,7 +473,7 @@
 
 #### MicroG
 
-<details><summary><b>Applied patches: 33</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 33</b> . 3 build(s)</summary>
 <ul>
 <li>120 refresh rate</li>
 <li>Account sheet cleanup</li>
@@ -511,6 +513,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260543](https://github.com/nullcpy/archive/releases/tag/260543) | 2026-11-15 | `26.44.06.1006895251` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260543/google-maps-bearinmindcat-ungoogled-microg-v26.44.06.1006895251-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260543/google-maps-bearinmindcat-ungoogled-microg-v26.44.06.1006895251-arm-v7a.apk) |
 | [260537](https://github.com/nullcpy/archive/releases/tag/260537) | 2026-11-15 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260537/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260537/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm-v7a.apk) |
 | [260529](https://github.com/nullcpy/archive/releases/tag/260529) | 2026-11-14 | `26.36.04.973607363` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260529/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260529/google-maps-bearinmindcat-ungoogled-microg-v26.36.04.973607363-arm-v7a.apk) |
 
