@@ -36,9 +36,9 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [FairEmail](https://nullcpy.github.io/archive/apps/fairemail/) | <time datetime="2026-10-26T11:06:43Z" data-relative>2026-10-26</time> | 6 |
 | [Firsty](https://nullcpy.github.io/archive/apps/firsty/) | <time datetime="2026-10-29T06:46:20Z" data-relative>2026-10-29</time> | 1 |
 | [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | <time datetime="2026-11-14T23:54:41Z" data-relative>2026-11-14</time> | 183 |
-| [Google Maps](https://nullcpy.github.io/archive/apps/googlemaps/) | <time datetime="2026-11-15T00:04:14Z" data-relative>2026-11-15</time> | 302 |
+| [Google Maps](https://nullcpy.github.io/archive/apps/googlemaps/) | <time datetime="2026-11-15T15:50:49Z" data-relative>2026-11-15</time> | 302 |
 | [Google Phone](https://nullcpy.github.io/archive/apps/googlephone/) | <time datetime="2026-11-01T14:43:11Z" data-relative>2026-11-01</time> | 5 |
-| [Google Photos](https://nullcpy.github.io/archive/apps/googlephotos/) | <time datetime="2026-11-07T11:46:09Z" data-relative>2026-11-07</time> | 191 |
+| [Google Photos](https://nullcpy.github.io/archive/apps/googlephotos/) | <time datetime="2026-11-15T15:42:14Z" data-relative>2026-11-15</time> | 191 |
 | [Google Recorder](https://nullcpy.github.io/archive/apps/googlerecorder/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> | 7 |
 | [HBO Max](https://nullcpy.github.io/archive/apps/hbomax/) | <time datetime="2026-11-10T21:57:43Z" data-relative>2026-11-10</time> | 12 |
 | [Hermit](https://nullcpy.github.io/archive/apps/hermit/) | <time datetime="2026-11-14T16:54:27Z" data-relative>2026-11-14</time> | 2 |
@@ -50,7 +50,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Letterboxd](https://nullcpy.github.io/archive/apps/letterboxd/) | <time datetime="2026-11-14T06:29:13Z" data-relative>2026-11-14</time> | 8 |
 | [LinkedIn](https://nullcpy.github.io/archive/apps/linkedin/) | <time datetime="2026-11-05T20:27:17Z" data-relative>2026-11-05</time> | 13 |
 | [MacroDroid](https://nullcpy.github.io/archive/apps/macrodroid/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
-| [Messenger](https://nullcpy.github.io/archive/apps/messenger/) | <time datetime="2026-11-14T20:59:10Z" data-relative>2026-11-14</time> | 38 |
+| [Messenger](https://nullcpy.github.io/archive/apps/messenger/) | <time datetime="2026-11-14T20:59:10Z" data-relative>2026-11-14</time> | 39 |
 | [Microsoft Edge](https://nullcpy.github.io/archive/apps/microsoftedge/) | <time datetime="2026-11-14T06:29:13Z" data-relative>2026-11-14</time> | 4 |
 | [Microsoft Lens](https://nullcpy.github.io/archive/apps/microsoftlens/) | <time datetime="2026-11-03T04:49:32Z" data-relative>2026-11-03</time> | 7 |
 | [Microsoft Word](https://nullcpy.github.io/archive/apps/microsoftword/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 24 |
@@ -103,7 +103,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Twitter](https://nullcpy.github.io/archive/apps/twitter/) | <time datetime="2026-11-10T13:28:17Z" data-relative>2026-11-10</time> | 208 |
 | [Viber](https://nullcpy.github.io/archive/apps/viber/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> | 2 |
 | [ViX](https://nullcpy.github.io/archive/apps/vix/) | <time datetime="2026-11-10T21:57:43Z" data-relative>2026-11-10</time> | 5 |
-| [VPNify](https://nullcpy.github.io/archive/apps/vpnify/) | <time datetime="2026-11-15T13:38:55Z" data-relative>2026-11-15</time> | 1 |
+| [VPNify](https://nullcpy.github.io/archive/apps/vpnify/) | <time datetime="2026-11-15T13:38:55Z" data-relative>2026-11-15</time> | 3 |
 | [Web Video Cast](https://nullcpy.github.io/archive/apps/webvideocast/) | <time datetime="2026-11-03T07:39:27Z" data-relative>2026-11-03</time> | 1 |
 | [WhatsApp](https://nullcpy.github.io/archive/apps/whatsapp/) | <time datetime="2026-11-13T13:01:11Z" data-relative>2026-11-13</time> | 6 |
 | [Windscribe VPN](https://nullcpy.github.io/archive/apps/windscribevpn/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |

@@ -8,6 +8,20 @@ title: Google Photos
 
 ### Standard
 
+<details><summary><b>Applied patches: 5</b> . 1 build(s)</summary>
+<ul>
+<li>AMOLED dark theme</li>
+<li>DCIM &amp; backup control</li>
+<li>Flag manager &amp; Toolkit</li>
+<li>Media engine &amp; AI fixes</li>
+<li>Spoof features</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260542](https://github.com/nullcpy/archive/releases/tag/260542) 🧪 | 2026-11-15 | `7.99.0.1007655401` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260542/google-photos-akashsriram-v7.99.0.1007655401-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260542/google-photos-akashsriram-v7.99.0.1007655401-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260542/google-photos-akashsriram-module-v7.99.0.1007655401-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260542/google-photos-akashsriram-module-v7.99.0.1007655401-arm-v7a.zip) |
+
 <details><summary><b>Applied patches: 6</b> . 13 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
@@ -36,6 +50,21 @@ title: Google Photos
 | [260378](https://github.com/nullcpy/archive/releases/tag/260378) | 2026-10-25 | `7.98.0.1001971222` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260378/google-photos-akashsriram-v7.98.0.1001971222-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260378/google-photos-akashsriram-v7.98.0.1001971222-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260378/google-photos-akashsriram-module-v7.98.0.1001971222-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260378/google-photos-akashsriram-module-v7.98.0.1001971222-arm-v7a.zip) |
 
 ### Unclone
+
+<details><summary><b>Applied patches: 6</b> . 1 build(s)</summary>
+<ul>
+<li>AMOLED dark theme</li>
+<li>DCIM &amp; backup control</li>
+<li>Flag manager &amp; Toolkit</li>
+<li>Media engine &amp; AI fixes</li>
+<li>Official package name</li>
+<li>Spoof features</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260542](https://github.com/nullcpy/archive/releases/tag/260542) 🧪 | 2026-11-15 | `8.0.0.1011730683` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260542/google-photos-akashsriram-unclone-v8.0.0.1011730683-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260542/google-photos-akashsriram-unclone-v8.0.0.1011730683-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 7</b> . 13 build(s)</summary>
 <ul>
