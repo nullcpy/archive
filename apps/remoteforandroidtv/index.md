@@ -8,7 +8,7 @@ title: Remote for Android TV
 
 ### Standard
 
-<details><summary><b>Applied patches: 1</b> . 5 build(s)</summary>
+<details><summary><b>Applied patches: 1</b> . 6 build(s)</summary>
 <ul>
 <li>Remote ATV ad-free</li>
 </ul>
@@ -16,6 +16,7 @@ title: Remote for Android TV
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260546](https://github.com/nullcpy/archive/releases/tag/260546) | 2026-11-16 | `6.1.0` | APK: [all](https://github.com/nullcpy/archive/releases/download/260546/remote-for-android-tv-xbadfellax-v6.1.0-all.apk) |
 | [260515](https://github.com/nullcpy/archive/releases/tag/260515) | 2026-11-12 | `6.1.0` | APK: [all](https://github.com/nullcpy/archive/releases/download/260515/remote-for-android-tv-xbadfellax-v6.1.0-all.apk) |
 | [260513](https://github.com/nullcpy/archive/releases/tag/260513) | 2026-11-12 | `6.1.0` | APK: [all](https://github.com/nullcpy/archive/releases/download/260513/remote-for-android-tv-xbadfellax-v6.1.0-all.apk) |
 | [260474](https://github.com/nullcpy/archive/releases/tag/260474) | 2026-11-06 | `6.1.0` | APK: [all](https://github.com/nullcpy/archive/releases/download/260474/remote-for-android-tv-xbadfellax-v6.1.0-all.apk) |
