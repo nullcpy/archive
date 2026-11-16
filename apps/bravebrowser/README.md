@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 11</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 11</b> . 2 build(s)</summary>
 <ul>
 <li>Block Motion Sensors</li>
 <li>Block Popups &amp; Ratings</li>
@@ -22,6 +22,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260546](https://github.com/nullcpy/archive/releases/tag/260546) | 2026-11-16 | `1.99.57` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260546/brave-browser-kveld9-v1.99.57-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260546/brave-browser-kveld9-v1.99.57-arm-v7a.apk) |
 | [260451](https://github.com/nullcpy/archive/releases/tag/260451) | 2026-11-03 | `1.98.63` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260451/brave-browser-kveld9-v1.98.63-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260451/brave-browser-kveld9-v1.98.63-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 11</b> . 1 build(s)</summary>
