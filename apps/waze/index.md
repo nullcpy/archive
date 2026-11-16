@@ -8,7 +8,7 @@ title: Waze
 
 ### Standard
 
-<details><summary><b>Applied patches: 27</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 27</b> . 2 build(s)</summary>
 <ul>
 <li>Alert distances</li>
 <li>All moods</li>
@@ -42,5 +42,6 @@ title: Waze
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260548](https://github.com/nullcpy/archive/releases/tag/260548) | 2026-11-16 | `5.27.5.0` | APK: [all](https://github.com/nullcpy/archive/releases/download/260548/waze-bearinmindcat-v5.27.5.0-all.apk) |
 | [260546](https://github.com/nullcpy/archive/releases/tag/260546) | 2026-11-16 | `5.27.5.0` | APK: [all](https://github.com/nullcpy/archive/releases/download/260546/waze-bearinmindcat-v5.27.5.0-all.apk) |
 
