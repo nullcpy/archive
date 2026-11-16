@@ -4,6 +4,27 @@
 
 ### Standard
 
+<details><summary><b>Applied patches: 12</b> . 1 build(s)</summary>
+<ul>
+<li>Block marketing notifications</li>
+<li>Clean shared links</li>
+<li>Disable ads</li>
+<li>Disable Facebook SDK</li>
+<li>Disable rating prompts</li>
+<li>Disable screenshot prompt</li>
+<li>Disable telemetry</li>
+<li>Disable update prompts</li>
+<li>Enable Premium</li>
+<li>Hide promo pop-ups</li>
+<li>Patch settings</li>
+<li>Spoiler-free mode</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260552](https://github.com/nullcpy/archive/releases/tag/260552) | 2026-11-16 | `26.11.03` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260552/sofascore-heval99-v26.11.03-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260552/sofascore-heval99-v26.11.03-arm-v7a.apk) |
+
 <details><summary><b>Applied patches: 10</b> . 1 build(s)</summary>
 <ul>
 <li>Block marketing notifications</li>
