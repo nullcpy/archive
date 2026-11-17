@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 66</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 66</b> . 2 build(s)</summary>
 <ul>
 <li>Add settings</li>
 <li>Change like animation</li>
@@ -77,6 +77,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260560](https://github.com/nullcpy/archive/releases/tag/260560) 🧪 | 2026-11-17 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260560/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260560/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
 | [260555](https://github.com/nullcpy/archive/releases/tag/260555) 🧪 | 2026-11-17 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260555/instagram-piko-v452.1.0.53.64-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260555/instagram-piko-module-v452.1.0.53.64-arm64-v8a.zip) |
 
 <details><summary><b>Applied patches: 65</b> . 2 build(s)</summary>
@@ -446,7 +447,7 @@
 
 ### Clone
 
-<details><summary><b>Applied patches: 67</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 67</b> . 2 build(s)</summary>
 <ul>
 <li>Add settings</li>
 <li>Change like animation</li>
@@ -520,6 +521,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260560](https://github.com/nullcpy/archive/releases/tag/260560) 🧪 | 2026-11-17 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260560/instagram-piko-clone-v452.1.0.53.64-arm64-v8a.apk) |
 | [260555](https://github.com/nullcpy/archive/releases/tag/260555) 🧪 | 2026-11-17 | `452.1.0.53.64` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260555/instagram-piko-clone-v452.1.0.53.64-arm64-v8a.apk) |
 
 <details><summary><b>Applied patches: 66</b> . 2 build(s)</summary>
