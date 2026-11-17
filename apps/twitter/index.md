@@ -8,6 +8,61 @@ title: Twitter
 
 ### Standard
 
+<details><summary><b>Applied patches: 46</b> . 1 build(s)</summary>
+<ul>
+<li>NewX: Crash logs</li>
+<li>NewX: Custom font</li>
+<li>NewX: Custom sharing domain</li>
+<li>NewX: Customize drawer items</li>
+<li>NewX: Customize inline actions</li>
+<li>NewX: Customize media menu items</li>
+<li>NewX: Customize navigation bar</li>
+<li>NewX: Customize post menu items</li>
+<li>NewX: Customize profile tabs</li>
+<li>NewX: Customize timeline tabs</li>
+<li>NewX: Disable automatic timeline refresh</li>
+<li>NewX: Disable blur effects</li>
+<li>NewX: Disable video player scrolling</li>
+<li>NewX: Enable quality-of-life feature flags</li>
+<li>NewX: Feature switch overrides</li>
+<li>NewX: Filter For You by topic</li>
+<li>NewX: Filter posts by keyword</li>
+<li>NewX: Gallery profile Photos tab</li>
+<li>NewX: Hide AI-generated posts</li>
+<li>NewX: Hide compose button</li>
+<li>NewX: Hide Discover more</li>
+<li>NewX: Hide new posts pill</li>
+<li>NewX: Hide post author actions</li>
+<li>NewX: Hide post reply bar</li>
+<li>NewX: Hide posts by verified account type</li>
+<li>NewX: Hide premium upsell</li>
+<li>NewX: Hide Spaces bar</li>
+<li>NewX: Hide timeline tabs bar</li>
+<li>NewX: Hide who to follow</li>
+<li>NewX: Inline download button</li>
+<li>NewX: Open canonical URLs</li>
+<li>NewX: Permanent share links</li>
+<li>NewX: Redirect downloads to chosen folder</li>
+<li>NewX: Remove ads</li>
+<li>NewX: Remove share tracking parameters</li>
+<li>NewX: Restore pinned home tab</li>
+<li>NewX: Restore timeline position</li>
+<li>NewX: Set default media tab</li>
+<li>NewX: Set default profile post sorting</li>
+<li>NewX: Set default reply sorting</li>
+<li>NewX: Show poll results</li>
+<li>NewX: Show sensitive media</li>
+<li>NewX: Theme</li>
+<li>NewX: Translator</li>
+<li>NewX: Unlock color customization</li>
+<li>NewX: Unlock downloads</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260553](https://github.com/nullcpy/archive/releases/tag/260553) 🧪 | 2026-11-17 | `12.43.0-prod.01` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260553/twitter-piko-v12.43.0-prod.01-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260553/twitter-piko-v12.43.0-prod.01-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260553/twitter-piko-module-v12.43.0-prod.01-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260553/twitter-piko-module-v12.43.0-prod.01-arm-v7a.zip) |
+
 <details><summary><b>Applied patches: 72</b> . 1 build(s)</summary>
 <ul>
 <li>Add ability to copy media link</li>
@@ -175,6 +230,18 @@ title: Twitter
 | [260368](https://github.com/nullcpy/archive/releases/tag/260368) 🧪 | 2026-10-25 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260368/twitter-piko-module-v12.19.1-release.0-arm-v7a.zip) |
 
 ### Material You
+
+<details><summary><b>Applied patches: 3</b> . 1 build(s)</summary>
+<ul>
+<li>Bring back twitter</li>
+<li>Disable Play Store updates</li>
+<li>Dynamic color</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260553](https://github.com/nullcpy/archive/releases/tag/260553) 🧪 | 2026-11-17 | `12.19.1-release.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260553/twitter-piko-material-you-v12.19.1-release.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260553/twitter-piko-material-you-v12.19.1-release.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260553/twitter-piko-material-you-module-v12.19.1-release.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260553/twitter-piko-material-you-module-v12.19.1-release.0-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 74</b> . 1 build(s)</summary>
 <ul>
