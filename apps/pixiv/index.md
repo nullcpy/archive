@@ -8,7 +8,7 @@ title: pixiv
 
 ### Standard
 
-<details><summary><b>Applied patches: 12</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 12</b> . 2 build(s)</summary>
 <ul>
 <li>Pixiv Adblocker</li>
 <li>Pixiv AI Work Flagger</li>
@@ -27,6 +27,7 @@ title: pixiv
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260559](https://github.com/nullcpy/archive/releases/tag/260559) | 2026-11-17 | `6.203.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260559/pixiv-piracola-v6.203.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260559/pixiv-piracola-v6.203.0-arm-v7a.apk) |
 | [260521](https://github.com/nullcpy/archive/releases/tag/260521) | 2026-11-13 | `6.203.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260521/pixiv-piracola-v6.203.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260521/pixiv-piracola-v6.203.0-arm-v7a.apk) |
 
 ## DeVanced

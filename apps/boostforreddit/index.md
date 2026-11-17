@@ -8,7 +8,7 @@ title: Boost For Reddit
 
 ### Standard
 
-<details><summary><b>Applied patches: 36</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 36</b> . 2 build(s)</summary>
 <ul>
 <li>Add archive links to context menu</li>
 <li>Add Boost Search bottom navigation</li>
@@ -51,6 +51,7 @@ title: Boost For Reddit
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260559](https://github.com/nullcpy/archive/releases/tag/260559) | 2026-11-17 | `1.14.4` | APK: [all](https://github.com/nullcpy/archive/releases/download/260559/boost-for-reddit-wchill-v1.14.4-all.apk) |
 | [260554](https://github.com/nullcpy/archive/releases/tag/260554) | 2026-11-17 | `1.14.4` | APK: [all](https://github.com/nullcpy/archive/releases/download/260554/boost-for-reddit-wchill-v1.14.4-all.apk) |
 
 <details><summary><b>Applied patches: 38</b> . 1 build(s)</summary>
