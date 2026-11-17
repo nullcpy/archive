@@ -55,6 +55,20 @@ title: Google Photos
 
 ### Unclone
 
+<details><summary><b>Applied patches: 5</b> . 1 build(s)</summary>
+<ul>
+<li>AMOLED dark theme</li>
+<li>DCIM &amp; backup control</li>
+<li>Flag manager &amp; Toolkit</li>
+<li>Media engine &amp; AI fixes</li>
+<li>Spoof features</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260556](https://github.com/nullcpy/archive/releases/tag/260556) | 2026-11-17 | `7.99.0.1007655401` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260556/google-photos-akashsriram-unclone-v7.99.0.1007655401-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260556/google-photos-akashsriram-unclone-v7.99.0.1007655401-arm-v7a.apk) |
+
 <details><summary><b>Applied patches: 6</b> . 1 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
