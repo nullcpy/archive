@@ -8,7 +8,7 @@ title: Musicolet
 
 ### Standard
 
-<details><summary><b>Applied patches: 1</b> . 15 build(s)</summary>
+<details><summary><b>Applied patches: 1</b> . 16 build(s)</summary>
 <ul>
 <li>Unlock premium</li>
 </ul>
@@ -16,6 +16,7 @@ title: Musicolet
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260566](https://github.com/nullcpy/archive/releases/tag/260566) | 2026-11-18 | `6.14.1build540` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260566/musicolet-hxreborn-v6.14.1build540-arm64-v8a.apk) |
 | [260557](https://github.com/nullcpy/archive/releases/tag/260557) | 2026-11-17 | `6.14.1build540` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260557/musicolet-hxreborn-v6.14.1build540-arm64-v8a.apk) |
 | [260548](https://github.com/nullcpy/archive/releases/tag/260548) | 2026-11-16 | `6.14.1build540` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260548/musicolet-hxreborn-v6.14.1build540-arm64-v8a.apk) |
 | [260540](https://github.com/nullcpy/archive/releases/tag/260540) | 2026-11-15 | `6.14.1build540` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260540/musicolet-hxreborn-v6.14.1build540-arm64-v8a.apk) |
