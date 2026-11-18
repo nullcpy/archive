@@ -8,6 +8,36 @@ title: Truecaller
 
 ### Standard
 
+<details><summary><b>Applied patches: 21</b> . 1 build(s)</summary>
+<ul>
+<li>Disable ads</li>
+<li>Disable auto-launch</li>
+<li>Disable contact upload</li>
+<li>Disable nags</li>
+<li>Disable telemetry</li>
+<li>Disable update prompts</li>
+<li>Enable Premium</li>
+<li>GmsCore support <code>module omit</code></li>
+<li>Hide Blocking tab</li>
+<li>Hide family button</li>
+<li>Hide Premium tab</li>
+<li>Hide promotions</li>
+<li>Hide Scam feed</li>
+<li>Hide surveys</li>
+<li>Hide Wear OS settings</li>
+<li>Patch settings</li>
+<li>Privacy defaults</li>
+<li>Show caller number in call log</li>
+<li>Spoof signature</li>
+<li>Turn off Ad Campaign Analytics</li>
+<li>Use SMS for verification codes</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260569](https://github.com/nullcpy/archive/releases/tag/260569) 🧪 | 2026-11-18 | `26.45.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260569/truecaller-heval99-v26.45.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260569/truecaller-heval99-v26.45.5-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260569/truecaller-heval99-module-v26.45.5-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260569/truecaller-heval99-module-v26.45.5-arm-v7a.zip) |
+
 <details><summary><b>Applied patches: 20</b> . 11 build(s)</summary>
 <ul>
 <li>Disable ads</li>
