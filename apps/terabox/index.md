@@ -8,7 +8,7 @@ title: TeraBox
 
 ### Standard
 
-<details><summary><b>Applied patches: 10</b> . 10 build(s)</summary>
+<details><summary><b>Applied patches: 10</b> . 11 build(s)</summary>
 <ul>
 <li>Fix Google login</li>
 <li>Fix transfers over VPN</li>
@@ -25,6 +25,7 @@ title: TeraBox
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260574](https://github.com/nullcpy/archive/releases/tag/260574) | 2026-11-19 | `4.28.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260574/terabox-hxreborn-v4.28.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260574/terabox-hxreborn-v4.28.5-arm-v7a.apk) |
 | [260566](https://github.com/nullcpy/archive/releases/tag/260566) | 2026-11-18 | `4.27.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260566/terabox-hxreborn-v4.27.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260566/terabox-hxreborn-v4.27.5-arm-v7a.apk) |
 | [260557](https://github.com/nullcpy/archive/releases/tag/260557) | 2026-11-17 | `4.27.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260557/terabox-hxreborn-v4.27.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260557/terabox-hxreborn-v4.27.5-arm-v7a.apk) |
 | [260548](https://github.com/nullcpy/archive/releases/tag/260548) | 2026-11-16 | `4.27.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260548/terabox-hxreborn-v4.27.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260548/terabox-hxreborn-v4.27.5-arm-v7a.apk) |

@@ -8,7 +8,7 @@ title: Pinterest
 
 ### Standard
 
-<details><summary><b>Applied patches: 36</b> . 3 build(s)</summary>
+<details><summary><b>Applied patches: 36</b> . 4 build(s)</summary>
 <ul>
 <li>Choose startup tab</li>
 <li>Copy direct link</li>
@@ -51,6 +51,7 @@ title: Pinterest
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260574](https://github.com/nullcpy/archive/releases/tag/260574) | 2026-11-19 | `14.44.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260574/pinterest-browzomje-v14.44.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260574/pinterest-browzomje-v14.44.0-arm-v7a.apk) |
 | [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `14.44.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260571/pinterest-browzomje-v14.44.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260571/pinterest-browzomje-v14.44.0-arm-v7a.apk) |
 | [260562](https://github.com/nullcpy/archive/releases/tag/260562) | 2026-11-18 | `14.44.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260562/pinterest-browzomje-v14.44.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260562/pinterest-browzomje-v14.44.0-arm-v7a.apk) |
 | [260527](https://github.com/nullcpy/archive/releases/tag/260527) | 2026-11-14 | `14.44.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260527/pinterest-browzomje-v14.44.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260527/pinterest-browzomje-v14.44.0-arm-v7a.apk) |
