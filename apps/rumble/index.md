@@ -8,7 +8,7 @@ title: Rumble
 
 ### Standard
 
-<details><summary><b>Applied patches: 40</b> . 3 build(s)</summary>
+<details><summary><b>Applied patches: 40</b> . 4 build(s)</summary>
 <ul>
 <li>AMOLED black</li>
 <li>Anonymous chat</li>
@@ -55,6 +55,7 @@ title: Rumble
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260577](https://github.com/nullcpy/archive/releases/tag/260577) | 2026-11-19 | `3.22.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260577/rumble-lurk-v3.22.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260577/rumble-lurk-v3.22.0-arm-v7a.apk) |
 | [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `3.22.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260571/rumble-lurk-v3.22.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260571/rumble-lurk-v3.22.0-arm-v7a.apk) |
 | [260570](https://github.com/nullcpy/archive/releases/tag/260570) | 2026-11-18 | `3.22.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260570/rumble-lurk-v3.22.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260570/rumble-lurk-v3.22.0-arm-v7a.apk) |
 | [260545](https://github.com/nullcpy/archive/releases/tag/260545) | 2026-11-16 | `3.21.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260545/rumble-lurk-v3.21.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260545/rumble-lurk-v3.21.0-arm-v7a.apk) |
