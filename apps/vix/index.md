@@ -8,7 +8,7 @@ title: ViX
 
 ### Android TV
 
-<details><summary><b>Applied patches: 2</b> . 4 build(s)</summary>
+<details><summary><b>Applied patches: 2</b> . 5 build(s)</summary>
 <ul>
 <li>Override certificate pinning</li>
 <li>Skip ads</li>
@@ -17,6 +17,7 @@ title: ViX
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `4.52.0_tv` | APK: [all](https://github.com/nullcpy/archive/releases/download/260571/vix-ajstrick81-android-tv-v4.52.0_tv-all.apk) |
 | [260552](https://github.com/nullcpy/archive/releases/tag/260552) | 2026-11-16 | `4.52.0_tv` | APK: [all](https://github.com/nullcpy/archive/releases/download/260552/vix-ajstrick81-android-tv-v4.52.0_tv-all.apk) |
 | [260505](https://github.com/nullcpy/archive/releases/tag/260505) | 2026-11-10 | `4.52.0_tv` | APK: [all](https://github.com/nullcpy/archive/releases/download/260505/vix-ajstrick81-android-tv-v4.52.0_tv-all.apk) |
 | [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `4.52.0_tv` | APK: [all](https://github.com/nullcpy/archive/releases/download/260504/vix-ajstrick81-android-tv-v4.52.0_tv-all.apk) |
