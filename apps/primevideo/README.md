@@ -4,7 +4,7 @@
 
 ### Android TV
 
-<details><summary><b>Applied patches: 5</b> . 10 build(s)</summary>
+<details><summary><b>Applied patches: 5</b> . 11 build(s)</summary>
 <ul>
 <li>Bundle native ad-strip hook</li>
 <li>Disable auto-updates</li>
@@ -16,6 +16,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `6.23.23+v15.5.0.70-armv7a` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260571/prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk) |
 | [260552](https://github.com/nullcpy/archive/releases/tag/260552) | 2026-11-16 | `6.23.23+v15.5.0.70-armv7a` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260552/prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk) |
 | [260505](https://github.com/nullcpy/archive/releases/tag/260505) | 2026-11-10 | `6.23.23+v15.5.0.70-armv7a` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260505/prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk) |
 | [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `6.23.23+v15.5.0.70-armv7a` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260504/prime-video-ajstrick81-android-tv-v6.23.23+v15.5.0.70-armv7a-arm-v7a.apk) |
@@ -29,7 +30,7 @@
 
 #### Clone
 
-<details><summary><b>Applied patches: 6</b> . 10 build(s)</summary>
+<details><summary><b>Applied patches: 6</b> . 11 build(s)</summary>
 <ul>
 <li>Bundle native ad-strip hook</li>
 <li>Clone Prime Video</li>
@@ -42,6 +43,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `6.24.13+v16.0.1.93-allAbis` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260571/prime-video-ajstrick81-android-tv-clone-v6.24.13+v16.0.1.93-allAbis-arm-v7a.apk) |
 | [260552](https://github.com/nullcpy/archive/releases/tag/260552) | 2026-11-16 | `6.24.13+v16.0.1.93-allAbis` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260552/prime-video-ajstrick81-android-tv-clone-v6.24.13+v16.0.1.93-allAbis-arm-v7a.apk) |
 | [260505](https://github.com/nullcpy/archive/releases/tag/260505) | 2026-11-10 | `6.24.13+v16.0.1.93-allAbis` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260505/prime-video-ajstrick81-android-tv-clone-v6.24.13+v16.0.1.93-allAbis-arm-v7a.apk) |
 | [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `6.24.13+v16.0.1.93-allAbis` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260504/prime-video-ajstrick81-android-tv-clone-v6.24.13+v16.0.1.93-allAbis-arm-v7a.apk) |

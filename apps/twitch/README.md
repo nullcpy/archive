@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 45</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 45</b> . 3 build(s)</summary>
 <ul>
 <li>AMOLED black</li>
 <li>Anonymous chat</li>
@@ -56,6 +56,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `32.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260571/twitch-lurk-v32.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260571/twitch-lurk-v32.1.0-arm-v7a.apk) |
 | [260570](https://github.com/nullcpy/archive/releases/tag/260570) | 2026-11-18 | `32.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260570/twitch-lurk-v32.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260570/twitch-lurk-v32.1.0-arm-v7a.apk) |
 | [260545](https://github.com/nullcpy/archive/releases/tag/260545) | 2026-11-16 | `31.8.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260545/twitch-lurk-v31.8.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260545/twitch-lurk-v31.8.0-arm-v7a.apk) |
 
@@ -116,7 +117,7 @@
 
 ### Android TV
 
-<details><summary><b>Applied patches: 1</b> . 8 build(s)</summary>
+<details><summary><b>Applied patches: 1</b> . 9 build(s)</summary>
 <ul>
 <li>Block TV ads</li>
 </ul>
@@ -124,6 +125,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260571/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260552](https://github.com/nullcpy/archive/releases/tag/260552) | 2026-11-16 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260552/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260505](https://github.com/nullcpy/archive/releases/tag/260505) | 2026-11-10 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260505/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260504/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
