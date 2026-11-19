@@ -8,7 +8,7 @@ title: Google Photos
 
 ### Standard
 
-<details><summary><b>Applied patches: 6</b> . 18 build(s)</summary>
+<details><summary><b>Applied patches: 6</b> . 19 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
 <li>DCIM &amp; backup control</li>
@@ -21,6 +21,7 @@ title: Google Photos
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260572](https://github.com/nullcpy/archive/releases/tag/260572) 🧪 | 2026-11-19 | `8.2.0.1023899193` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260572/google-photos-akashsriram-v8.2.0.1023899193-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260572/google-photos-akashsriram-v8.2.0.1023899193-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260572/google-photos-akashsriram-module-v8.2.0.1023899193-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260572/google-photos-akashsriram-module-v8.2.0.1023899193-arm-v7a.zip) |
 | [260567](https://github.com/nullcpy/archive/releases/tag/260567) 🧪 | 2026-11-18 | `8.2.0.1023899193` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260567/google-photos-akashsriram-v8.2.0.1023899193-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260567/google-photos-akashsriram-v8.2.0.1023899193-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260567/google-photos-akashsriram-module-v8.2.0.1023899193-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260567/google-photos-akashsriram-module-v8.2.0.1023899193-arm-v7a.zip) |
 | [260565](https://github.com/nullcpy/archive/releases/tag/260565) 🧪 | 2026-11-18 | `8.1.0.1020990585` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260565/google-photos-akashsriram-v8.1.0.1020990585-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260565/google-photos-akashsriram-v8.1.0.1020990585-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260565/google-photos-akashsriram-module-v8.1.0.1020990585-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260565/google-photos-akashsriram-module-v8.1.0.1020990585-arm-v7a.zip) |
 | [260549](https://github.com/nullcpy/archive/releases/tag/260549) 🧪 | 2026-11-16 | `8.0.0.1011730683` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260549/google-photos-akashsriram-v8.0.0.1011730683-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260549/google-photos-akashsriram-v8.0.0.1011730683-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260549/google-photos-akashsriram-module-v8.0.0.1011730683-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260549/google-photos-akashsriram-module-v8.0.0.1011730683-arm-v7a.zip) |
@@ -57,7 +58,7 @@ title: Google Photos
 
 ### Unclone
 
-<details><summary><b>Applied patches: 6</b> . 4 build(s)</summary>
+<details><summary><b>Applied patches: 6</b> . 5 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
 <li>DCIM &amp; backup control</li>
@@ -70,6 +71,7 @@ title: Google Photos
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260572](https://github.com/nullcpy/archive/releases/tag/260572) 🧪 | 2026-11-19 | `8.2.0.1023899193` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260572/google-photos-akashsriram-unclone-v8.2.0.1023899193-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260572/google-photos-akashsriram-unclone-v8.2.0.1023899193-arm-v7a.apk) |
 | [260568](https://github.com/nullcpy/archive/releases/tag/260568) | 2026-11-18 | `8.0.0.1011730683` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260568/google-photos-akashsriram-unclone-v8.0.0.1011730683-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260568/google-photos-akashsriram-unclone-v8.0.0.1011730683-arm-v7a.apk) |
 | [260567](https://github.com/nullcpy/archive/releases/tag/260567) 🧪 | 2026-11-18 | `8.2.0.1023899193` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260567/google-photos-akashsriram-unclone-v8.2.0.1023899193-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260567/google-photos-akashsriram-unclone-v8.2.0.1023899193-arm-v7a.apk) |
 | [260565](https://github.com/nullcpy/archive/releases/tag/260565) 🧪 | 2026-11-18 | `7.99.0.1007655401` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260565/google-photos-akashsriram-unclone-v7.99.0.1007655401-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260565/google-photos-akashsriram-unclone-v7.99.0.1007655401-arm-v7a.apk) |
