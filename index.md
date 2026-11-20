@@ -49,10 +49,10 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Hermit](https://nullcpy.github.io/archive/apps/hermit/) | <time datetime="2026-11-15T19:20:49Z" data-relative>2026-11-15</time> | 4 |
 | [IMDb](https://nullcpy.github.io/archive/apps/imdb/) | <time datetime="2026-10-25T15:56:22Z" data-relative>2026-10-25</time> | 3 |
 | [Inshorts](https://nullcpy.github.io/archive/apps/inshorts/) | <time datetime="2026-11-14T12:17:27Z" data-relative>2026-11-14</time> | 2 |
-| [Instagram](https://nullcpy.github.io/archive/apps/instagram/) | <time datetime="2026-11-19T21:12:56Z" data-relative>2026-11-19</time> | 221 |
+| [Instagram](https://nullcpy.github.io/archive/apps/instagram/) | <time datetime="2026-11-19T21:12:56Z" data-relative>2026-11-19</time> | 228 |
 | [Internet Speed Meter Lite](https://nullcpy.github.io/archive/apps/internetspeedmeterlite/) | <time datetime="2026-11-19T14:42:27Z" data-relative>2026-11-19</time> | 18 |
 | [JioHotstar](https://nullcpy.github.io/archive/apps/jiohotstar/) | <time datetime="2026-11-17T11:40:20Z" data-relative>2026-11-17</time> | 2 |
-| [Kick](https://nullcpy.github.io/archive/apps/kick/) | <time datetime="2026-11-19T21:18:12Z" data-relative>2026-11-19</time> | 20 |
+| [Kick](https://nullcpy.github.io/archive/apps/kick/) | <time datetime="2026-11-19T21:18:12Z" data-relative>2026-11-19</time> | 24 |
 | [Letterboxd](https://nullcpy.github.io/archive/apps/letterboxd/) | <time datetime="2026-11-14T06:29:13Z" data-relative>2026-11-14</time> | 8 |
 | [LinkedIn](https://nullcpy.github.io/archive/apps/linkedin/) | <time datetime="2026-11-05T20:27:17Z" data-relative>2026-11-05</time> | 13 |
 | [MacroDroid](https://nullcpy.github.io/archive/apps/macrodroid/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
@@ -85,7 +85,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Reddit](https://nullcpy.github.io/archive/apps/reddit/) | <time datetime="2026-11-19T14:14:46Z" data-relative>2026-11-19</time> | 511 |
 | [Remote for Android TV](https://nullcpy.github.io/archive/apps/remoteforandroidtv/) | <time datetime="2026-11-16T06:23:33Z" data-relative>2026-11-16</time> | 19 |
 | [Ridmik Keyboard](https://nullcpy.github.io/archive/apps/ridmikkeyboard/) | <time datetime="2026-11-19T14:42:27Z" data-relative>2026-11-19</time> | 3 |
-| [Rumble](https://nullcpy.github.io/archive/apps/rumble/) | <time datetime="2026-11-19T21:18:12Z" data-relative>2026-11-19</time> | 10 |
+| [Rumble](https://nullcpy.github.io/archive/apps/rumble/) | <time datetime="2026-11-19T21:18:12Z" data-relative>2026-11-19</time> | 12 |
 | [Send Files to TV](https://nullcpy.github.io/archive/apps/sendfilestotv/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
 | [Showly](https://nullcpy.github.io/archive/apps/showly/) | <time datetime="2026-11-19T14:42:27Z" data-relative>2026-11-19</time> | 74 |
 | [Sofascore](https://nullcpy.github.io/archive/apps/sofascore/) | <time datetime="2026-11-16T22:55:48Z" data-relative>2026-11-16</time> | 17 |
@@ -108,8 +108,8 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [trakt.TV](https://nullcpy.github.io/archive/apps/trakttv/) | <time datetime="2026-11-17T18:00:48Z" data-relative>2026-11-17</time> | 6 |
 | [Truecaller](https://nullcpy.github.io/archive/apps/truecaller/) | <time datetime="2026-11-18T21:03:26Z" data-relative>2026-11-18</time> | 168 |
 | [Tubi](https://nullcpy.github.io/archive/apps/tubi/) | <time datetime="2026-11-16T22:55:48Z" data-relative>2026-11-16</time> | 1 |
-| [Twitch](https://nullcpy.github.io/archive/apps/twitch/) | <time datetime="2026-11-19T21:18:12Z" data-relative>2026-11-19</time> | 29 |
-| [Twitter](https://nullcpy.github.io/archive/apps/twitter/) | <time datetime="2026-11-19T21:12:56Z" data-relative>2026-11-19</time> | 233 |
+| [Twitch](https://nullcpy.github.io/archive/apps/twitch/) | <time datetime="2026-11-19T21:18:12Z" data-relative>2026-11-19</time> | 31 |
+| [Twitter](https://nullcpy.github.io/archive/apps/twitter/) | <time datetime="2026-11-19T21:12:56Z" data-relative>2026-11-19</time> | 241 |
 | [Viber](https://nullcpy.github.io/archive/apps/viber/) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> | 2 |
 | [ViX](https://nullcpy.github.io/archive/apps/vix/) | <time datetime="2026-11-19T01:58:28Z" data-relative>2026-11-19</time> | 7 |
 | [VPNify](https://nullcpy.github.io/archive/apps/vpnify/) | <time datetime="2026-11-15T13:38:55Z" data-relative>2026-11-15</time> | 6 |
@@ -121,4 +121,4 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Xiaomi Screen Recorder](https://nullcpy.github.io/archive/apps/xiaomiscreenrecorder/) | <time datetime="2026-11-03T04:49:32Z" data-relative>2026-11-03</time> | 1 |
 | [YouTube](https://nullcpy.github.io/archive/apps/youtube/) | <time datetime="2026-11-19T14:14:46Z" data-relative>2026-11-19</time> | 1.1k |
 | [YouTube Music](https://nullcpy.github.io/archive/apps/youtubemusic/) | <time datetime="2026-11-19T14:14:46Z" data-relative>2026-11-19</time> | 798 |
-| [Zalo](https://nullcpy.github.io/archive/apps/zalo/) | <time datetime="2026-11-18T17:23:39Z" data-relative>2026-11-18</time> | 13 |
+| [Zalo](https://nullcpy.github.io/archive/apps/zalo/) | <time datetime="2026-11-20T07:07:43Z" data-relative>2026-11-20</time> | 13 |
