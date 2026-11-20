@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 9</b> . 12 build(s)</summary>
+<details><summary><b>Applied patches: 9</b> . 13 build(s)</summary>
 <ul>
 <li>Disable analytics</li>
 <li>Disable update prompts</li>
@@ -20,6 +20,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260581](https://github.com/nullcpy/archive/releases/tag/260581) | 2026-11-20 | `8.180.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260581/aliexpress-hxreborn-v8.180.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260581/aliexpress-hxreborn-v8.180.1-arm-v7a.apk) |
 | [260574](https://github.com/nullcpy/archive/releases/tag/260574) | 2026-11-19 | `8.180.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260574/aliexpress-hxreborn-v8.180.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260574/aliexpress-hxreborn-v8.180.1-arm-v7a.apk) |
 | [260566](https://github.com/nullcpy/archive/releases/tag/260566) | 2026-11-18 | `8.180.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260566/aliexpress-hxreborn-v8.180.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260566/aliexpress-hxreborn-v8.180.1-arm-v7a.apk) |
 | [260557](https://github.com/nullcpy/archive/releases/tag/260557) | 2026-11-17 | `8.180.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260557/aliexpress-hxreborn-v8.180.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260557/aliexpress-hxreborn-v8.180.1-arm-v7a.apk) |

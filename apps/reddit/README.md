@@ -4,6 +4,56 @@
 
 ### Standard
 
+<details><summary><b>Applied patches: 41</b> . 1 build(s)</summary>
+<ul>
+<li>App icon</li>
+<li>Copy text</li>
+<li>Custom font</li>
+<li>Customize post layout</li>
+<li>Disable modern home</li>
+<li>Disable screenshot popup</li>
+<li>Download location</li>
+<li>Feed auto-scroll</li>
+<li>Feed media max height</li>
+<li>Flair filters</li>
+<li>Force system font</li>
+<li>Full width feed media</li>
+<li>Hide ads</li>
+<li>Hide Ask button</li>
+<li>Hide communities shelf</li>
+<li>Hide home tabs</li>
+<li>Hide interactive posts</li>
+<li>Hide media viewer components</li>
+<li>Hide navigation buttons</li>
+<li>Hide post buttons</li>
+<li>Hide sidebar components</li>
+<li>Hide Trending shelves</li>
+<li>Hide Videos for you shelf</li>
+<li>High quality avatars</li>
+<li>Keep feed position</li>
+<li>Keyword filters</li>
+<li>Media viewer black background</li>
+<li>Media viewer fade</li>
+<li>Open links directly</li>
+<li>Open links externally</li>
+<li>Open system share sheet</li>
+<li>Post side panel</li>
+<li>Redgifs audio</li>
+<li>Remember collapsed comments</li>
+<li>Remove subreddit dialog</li>
+<li>Sanitize sharing links</li>
+<li>Share post content</li>
+<li>Show flairs in home feed</li>
+<li>Spoof signature</li>
+<li>Start as guest</li>
+<li>Tablet grid feed</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260580](https://github.com/nullcpy/archive/releases/tag/260580) 🧪 | 2026-11-20 | `2026.40.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260580/reddit-morphe-v2026.40.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260580/reddit-morphe-v2026.40.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260580/reddit-morphe-module-v2026.40.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260580/reddit-morphe-module-v2026.40.0-arm-v7a.zip) |
+
 <details><summary><b>Applied patches: 38</b> . 1 build(s)</summary>
 <ul>
 <li>App icon</li>
@@ -205,6 +255,56 @@
 | [260350](https://github.com/nullcpy/archive/releases/tag/260350) 🧪 | 2026-10-23 | `2026.24.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260350/reddit-morphe-v2026.24.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260350/reddit-morphe-v2026.24.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260350/reddit-morphe-module-v2026.24.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260350/reddit-morphe-module-v2026.24.0-arm-v7a.zip) |
 
 ### Experimental
+
+<details><summary><b>Applied patches: 41</b> . 1 build(s)</summary>
+<ul>
+<li>App icon</li>
+<li>Copy text</li>
+<li>Custom font</li>
+<li>Customize post layout</li>
+<li>Disable modern home</li>
+<li>Disable screenshot popup</li>
+<li>Download location</li>
+<li>Feed auto-scroll</li>
+<li>Feed media max height</li>
+<li>Flair filters</li>
+<li>Force system font</li>
+<li>Full width feed media</li>
+<li>Hide ads</li>
+<li>Hide Ask button</li>
+<li>Hide communities shelf</li>
+<li>Hide home tabs</li>
+<li>Hide interactive posts</li>
+<li>Hide media viewer components</li>
+<li>Hide navigation buttons</li>
+<li>Hide post buttons</li>
+<li>Hide sidebar components</li>
+<li>Hide Trending shelves</li>
+<li>Hide Videos for you shelf</li>
+<li>High quality avatars</li>
+<li>Keep feed position</li>
+<li>Keyword filters</li>
+<li>Media viewer black background</li>
+<li>Media viewer fade</li>
+<li>Open links directly</li>
+<li>Open links externally</li>
+<li>Open system share sheet</li>
+<li>Post side panel</li>
+<li>Redgifs audio</li>
+<li>Remember collapsed comments</li>
+<li>Remove subreddit dialog</li>
+<li>Sanitize sharing links</li>
+<li>Share post content</li>
+<li>Show flairs in home feed</li>
+<li>Spoof signature</li>
+<li>Start as guest</li>
+<li>Tablet grid feed</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260580](https://github.com/nullcpy/archive/releases/tag/260580) 🧪 | 2026-11-20 | `2026.47.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260580/reddit-morphe-experimental-v2026.47.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260580/reddit-morphe-experimental-v2026.47.0-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260580/reddit-morphe-experimental-module-v2026.47.0-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260580/reddit-morphe-experimental-module-v2026.47.0-arm-v7a.zip) |
 
 <details><summary><b>Applied patches: 38</b> . 1 build(s)</summary>
 <ul>
