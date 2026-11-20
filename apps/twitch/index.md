@@ -8,6 +8,63 @@ title: Twitch
 
 ### Standard
 
+<details><summary><b>Applied patches: 48</b> . 1 build(s)</summary>
+<ul>
+<li>AMOLED black</li>
+<li>Anonymous chat</li>
+<li>Auto-claim channel points</li>
+<li>Auto-claim Drops</li>
+<li>Avoid stitched ads</li>
+<li>Background audio</li>
+<li>Block client ads</li>
+<li>Block cookie notice</li>
+<li>Block display ads</li>
+<li>Block update prompts</li>
+<li>Chat appearance</li>
+<li>Chat keywords</li>
+<li>Chat overlay</li>
+<li>Chat timestamps</li>
+<li>Clean share links</li>
+<li>Clip download</li>
+<li>Compact chat</li>
+<li>Default startup tab</li>
+<li>Disable analytics</li>
+<li>Disable autoplay</li>
+<li>Don't save searches</li>
+<li>Emote and badge info</li>
+<li>Fill screen</li>
+<li>Fix notifications</li>
+<li>Fix stuck start screen</li>
+<li>Fix web page errors</li>
+<li>Force ExoPlayer</li>
+<li>Force landscape</li>
+<li>Hide content label</li>
+<li>Highlight first-time chatters</li>
+<li>Keep Drops banner</li>
+<li>Latency badge</li>
+<li>Lurk icon</li>
+<li>Mute stitched ads</li>
+<li>Navigation bar position</li>
+<li>Normal latency</li>
+<li>Player gestures</li>
+<li>Refresh stream</li>
+<li>Remove tracking permissions</li>
+<li>Show deleted messages</li>
+<li>Show exact counts</li>
+<li>Sleep timer</li>
+<li>Tablet layout</li>
+<li>Third-party badges</li>
+<li>Third-party emotes</li>
+<li>Use native player</li>
+<li>VOD chapters</li>
+<li>Watch without signing in</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260582](https://github.com/nullcpy/archive/releases/tag/260582) | 2026-11-20 | `32.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260582/twitch-lurk-v32.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260582/twitch-lurk-v32.1.0-arm-v7a.apk) |
+
 <details><summary><b>Applied patches: 47</b> . 1 build(s)</summary>
 <ul>
 <li>AMOLED black</li>
@@ -232,7 +289,7 @@ title: Twitch
 
 ### Android TV
 
-<details><summary><b>Applied patches: 1</b> . 9 build(s)</summary>
+<details><summary><b>Applied patches: 1</b> . 10 build(s)</summary>
 <ul>
 <li>Block TV ads</li>
 </ul>
@@ -240,6 +297,7 @@ title: Twitch
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260582](https://github.com/nullcpy/archive/releases/tag/260582) | 2026-11-20 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260582/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260571/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260552](https://github.com/nullcpy/archive/releases/tag/260552) | 2026-11-16 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260552/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260505](https://github.com/nullcpy/archive/releases/tag/260505) | 2026-11-10 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260505/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |

@@ -8,7 +8,7 @@ title: HBO Max
 
 ### Android TV
 
-<details><summary><b>Applied patches: 2</b> . 9 build(s)</summary>
+<details><summary><b>Applied patches: 2</b> . 10 build(s)</summary>
 <ul>
 <li>HBO Max - Disable Ads</li>
 <li>HBO Max - Prefer Ad-Free Stream</li>
@@ -17,6 +17,7 @@ title: HBO Max
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260582](https://github.com/nullcpy/archive/releases/tag/260582) | 2026-11-20 | `7.9.0.61` | APK: [all](https://github.com/nullcpy/archive/releases/download/260582/hbo-max-ajstrick81-android-tv-v7.9.0.61-all.apk) |
 | [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `7.9.0.61` | APK: [all](https://github.com/nullcpy/archive/releases/download/260571/hbo-max-ajstrick81-android-tv-v7.9.0.61-all.apk) |
 | [260552](https://github.com/nullcpy/archive/releases/tag/260552) | 2026-11-16 | `7.9.0.61` | APK: [all](https://github.com/nullcpy/archive/releases/download/260552/hbo-max-ajstrick81-android-tv-v7.9.0.61-all.apk) |
 | [260505](https://github.com/nullcpy/archive/releases/tag/260505) | 2026-11-10 | `7.9.0.61` | APK: [all](https://github.com/nullcpy/archive/releases/download/260505/hbo-max-ajstrick81-android-tv-v7.9.0.61-all.apk) |
