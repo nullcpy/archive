@@ -8,6 +8,62 @@ title: Twitch
 
 ### Standard
 
+<details><summary><b>Applied patches: 47</b> . 1 build(s)</summary>
+<ul>
+<li>AMOLED black</li>
+<li>Anonymous chat</li>
+<li>Auto-claim channel points</li>
+<li>Auto-claim Drops</li>
+<li>Avoid stitched ads</li>
+<li>Background audio</li>
+<li>Block client ads</li>
+<li>Block cookie notice</li>
+<li>Block display ads</li>
+<li>Block update prompts</li>
+<li>Chat appearance</li>
+<li>Chat keywords</li>
+<li>Chat overlay</li>
+<li>Chat timestamps</li>
+<li>Clean share links</li>
+<li>Clip download</li>
+<li>Compact chat</li>
+<li>Default startup tab</li>
+<li>Disable analytics</li>
+<li>Disable autoplay</li>
+<li>Don't save searches</li>
+<li>Emote and badge info</li>
+<li>Fill screen</li>
+<li>Fix notifications</li>
+<li>Fix stuck start screen</li>
+<li>Force ExoPlayer</li>
+<li>Force landscape</li>
+<li>Hide content label</li>
+<li>Highlight first-time chatters</li>
+<li>Keep Drops banner</li>
+<li>Latency badge</li>
+<li>Lurk icon</li>
+<li>Mute stitched ads</li>
+<li>Navigation bar position</li>
+<li>Normal latency</li>
+<li>Player gestures</li>
+<li>Refresh stream</li>
+<li>Remove tracking permissions</li>
+<li>Show deleted messages</li>
+<li>Show exact counts</li>
+<li>Sleep timer</li>
+<li>Tablet layout</li>
+<li>Third-party badges</li>
+<li>Third-party emotes</li>
+<li>Use native player</li>
+<li>VOD chapters</li>
+<li>Watch without signing in</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260581](https://github.com/nullcpy/archive/releases/tag/260581) | 2026-11-20 | `32.1.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260581/twitch-lurk-v32.1.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260581/twitch-lurk-v32.1.0-arm-v7a.apk) |
+
 <details><summary><b>Applied patches: 46</b> . 1 build(s)</summary>
 <ul>
 <li>AMOLED black</li>

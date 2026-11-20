@@ -8,7 +8,7 @@ title: Kick
 
 ### Standard
 
-<details><summary><b>Applied patches: 36</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 36</b> . 2 build(s)</summary>
 <ul>
 <li>AMOLED black</li>
 <li>Anonymous chat</li>
@@ -51,6 +51,7 @@ title: Kick
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260581](https://github.com/nullcpy/archive/releases/tag/260581) | 2026-11-20 | `40.35.4` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260581/kick-lurk-v40.35.4-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260581/kick-lurk-v40.35.4-arm-v7a.apk) |
 | [260577](https://github.com/nullcpy/archive/releases/tag/260577) | 2026-11-19 | `40.35.4` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260577/kick-lurk-v40.35.4-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260577/kick-lurk-v40.35.4-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 35</b> . 3 build(s)</summary>

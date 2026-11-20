@@ -8,7 +8,7 @@ title: YouTube
 
 ### Standard
 
-<details><summary><b>Applied patches: 120</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 120</b> . 3 build(s)</summary>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -135,6 +135,7 @@ title: YouTube
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260580](https://github.com/nullcpy/archive/releases/tag/260580) 🧪 | 2026-11-20 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260580/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260580/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260580/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260580/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 | [260573](https://github.com/nullcpy/archive/releases/tag/260573) 🧪 | 2026-11-19 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260573/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260573/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260573/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260573/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 | [260565](https://github.com/nullcpy/archive/releases/tag/260565) 🧪 | 2026-11-18 | `21.30.216` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260565/youtube-morphe-v21.30.216-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260565/youtube-morphe-v21.30.216-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260565/youtube-morphe-module-v21.30.216-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260565/youtube-morphe-module-v21.30.216-arm-v7a.zip) |
 
@@ -1725,7 +1726,7 @@ title: YouTube
 
 ### Experimental
 
-<details><summary><b>Applied patches: 120</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 120</b> . 3 build(s)</summary>
 <ul>
 <li>Add to queue</li>
 <li>AI channel filter</li>
@@ -1852,6 +1853,7 @@ title: YouTube
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260580](https://github.com/nullcpy/archive/releases/tag/260580) 🧪 | 2026-11-20 | `21.46.522` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260580/youtube-morphe-experimental-v21.46.522-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260580/youtube-morphe-experimental-v21.46.522-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260580/youtube-morphe-experimental-module-v21.46.522-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260580/youtube-morphe-experimental-module-v21.46.522-arm-v7a.zip) |
 | [260573](https://github.com/nullcpy/archive/releases/tag/260573) 🧪 | 2026-11-19 | `21.46.522` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260573/youtube-morphe-experimental-v21.46.522-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260573/youtube-morphe-experimental-v21.46.522-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260573/youtube-morphe-experimental-module-v21.46.522-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260573/youtube-morphe-experimental-module-v21.46.522-arm-v7a.zip) |
 | [260565](https://github.com/nullcpy/archive/releases/tag/260565) 🧪 | 2026-11-18 | `21.46.522` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260565/youtube-morphe-experimental-v21.46.522-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260565/youtube-morphe-experimental-v21.46.522-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260565/youtube-morphe-experimental-module-v21.46.522-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260565/youtube-morphe-experimental-module-v21.46.522-arm-v7a.zip) |
 
@@ -1982,135 +1984,6 @@ title: YouTube
 | [260558](https://github.com/nullcpy/archive/releases/tag/260558) 🧪 | 2026-11-17 | `21.46.522` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260558/youtube-morphe-experimental-v21.46.522-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260558/youtube-morphe-experimental-v21.46.522-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260558/youtube-morphe-experimental-module-v21.46.522-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260558/youtube-morphe-experimental-module-v21.46.522-arm-v7a.zip) |
 | [260551](https://github.com/nullcpy/archive/releases/tag/260551) | 2026-11-16 | `21.45.82` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260551/youtube-morphe-experimental-v21.45.82-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260551/youtube-morphe-experimental-v21.45.82-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260551/youtube-morphe-experimental-module-v21.45.82-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260551/youtube-morphe-experimental-module-v21.45.82-arm-v7a.zip) |
 | [260549](https://github.com/nullcpy/archive/releases/tag/260549) 🧪 | 2026-11-16 | `21.45.82` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260549/youtube-morphe-experimental-v21.45.82-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260549/youtube-morphe-experimental-v21.45.82-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260549/youtube-morphe-experimental-module-v21.45.82-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260549/youtube-morphe-experimental-module-v21.45.82-arm-v7a.zip) |
-
-<details><summary><b>Applied patches: 117</b> . 4 build(s)</summary>
-<ul>
-<li>Add to queue</li>
-<li>AI channel filter</li>
-<li>Ambient mode</li>
-<li>App refresh rate</li>
-<li>Ask flyout menu</li>
-<li>Autoplay control</li>
-<li>Bypass image region restrictions</li>
-<li>Bypass link redirects</li>
-<li>Captions</li>
-<li>Change form factor</li>
-<li>Change header</li>
-<li>Change picture-in-picture actions</li>
-<li>Change start page</li>
-<li>Channel search</li>
-<li>Channel whitelist</li>
-<li>Check watch history domain name resolution</li>
-<li>Copy text</li>
-<li>Copy video link</li>
-<li>Custom branding</li>
-<li>Custom font</li>
-<li>Custom player overlay opacity</li>
-<li>DeArrow</li>
-<li>Disable auto feed refresh</li>
-<li>Disable continue watching prompt</li>
-<li>Disable double tap actions</li>
-<li>Disable DRC audio</li>
-<li>Disable fullscreen gestures</li>
-<li>Disable haptic feedback</li>
-<li>Disable layout updates</li>
-<li>Disable player popup panels</li>
-<li>Disable playlist autoplay</li>
-<li>Disable QUIC protocol</li>
-<li>Disable rolling number animations</li>
-<li>Disable scrolling speed limit</li>
-<li>Disable Shorts resuming on startup</li>
-<li>Disable sign in to TV popup</li>
-<li>Disable video codecs</li>
-<li>Double tap to seek</li>
-<li>Download post images</li>
-<li>Downloads</li>
-<li>Enable debugging</li>
-<li>Exit fullscreen mode</li>
-<li>Feed card layout</li>
-<li>Feed video actions</li>
-<li>Feed view count</li>
-<li>Force animations</li>
-<li>Force fullscreen landscape</li>
-<li>Force original audio</li>
-<li>Fullscreen playlist panel</li>
-<li>Fullscreen video scale</li>
-<li>GmsCore support <code>module omit</code></li>
-<li>Hide ads</li>
-<li>Hide autoplay preview</li>
-<li>Hide end screen cards</li>
-<li>Hide end screen suggested video</li>
-<li>Hide info cards</li>
-<li>Hide layout components</li>
-<li>Hide player flyout menu components</li>
-<li>Hide player overlay buttons</li>
-<li>Hide related video overlay</li>
-<li>Hide related videos</li>
-<li>Hide Shorts components</li>
-<li>Hide status bar</li>
-<li>Hide timestamp</li>
-<li>Hide video action buttons</li>
-<li>Loop count</li>
-<li>Loop video</li>
-<li>Media notification controls</li>
-<li>Miniplayer</li>
-<li>Mute button</li>
-<li>Navigation bar</li>
-<li>Niconico comments</li>
-<li>On-the-go player</li>
-<li>Open channel of live avatar</li>
-<li>Open links externally</li>
-<li>Open Shorts in regular player</li>
-<li>Open system share sheet</li>
-<li>Open videos fullscreen</li>
-<li>Override YouTube Music buttons</li>
-<li>Picture-in-picture button</li>
-<li>Play all</li>
-<li>Playback buffer</li>
-<li>Playback in feeds</li>
-<li>Playback speed</li>
-<li>Player icon style</li>
-<li>Playlist button</li>
-<li>Playlist improvements</li>
-<li>PoToken provider</li>
-<li>Reload video</li>
-<li>Remember live stream playback position</li>
-<li>Remove background playback restrictions</li>
-<li>Remove viewer discretion dialog</li>
-<li>Restore original titles</li>
-<li>Return YouTube Dislike</li>
-<li>Sanitize sharing links</li>
-<li>Save to Watch later</li>
-<li>Search comments</li>
-<li>Seekbar</li>
-<li>Series tracking</li>
-<li>Settings menu filter</li>
-<li>Shorts autoplay</li>
-<li>Shorts icon style</li>
-<li>Skip live Shorts</li>
-<li>Skip silence</li>
-<li>Snackbar</li>
-<li>SponsorBlock</li>
-<li>Spoof app version</li>
-<li>Spoof device dimensions</li>
-<li>Spoof video streams</li>
-<li>Swipe controls</li>
-<li>Theme</li>
-<li>Translate live chat</li>
-<li>Translate posts</li>
-<li>Video delay</li>
-<li>Video quality</li>
-<li>Voice over translation</li>
-<li>Wide search bar</li>
-</ul>
-</details>
-
-| Build | Date | Version | Download |
-|---|---|---|---|
-| [260547](https://github.com/nullcpy/archive/releases/tag/260547) 🧪 | 2026-11-16 | `21.45.82` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260547/youtube-morphe-experimental-v21.45.82-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260547/youtube-morphe-experimental-v21.45.82-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260547/youtube-morphe-experimental-module-v21.45.82-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260547/youtube-morphe-experimental-module-v21.45.82-arm-v7a.zip) |
-| [260539](https://github.com/nullcpy/archive/releases/tag/260539) 🧪 | 2026-11-15 | `21.45.82` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260539/youtube-morphe-experimental-v21.45.82-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260539/youtube-morphe-experimental-v21.45.82-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260539/youtube-morphe-experimental-module-v21.45.82-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260539/youtube-morphe-experimental-module-v21.45.82-arm-v7a.zip) |
-| [260530](https://github.com/nullcpy/archive/releases/tag/260530) 🧪 | 2026-11-14 | `21.45.82` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260530/youtube-morphe-experimental-v21.45.82-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260530/youtube-morphe-experimental-v21.45.82-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260530/youtube-morphe-experimental-module-v21.45.82-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260530/youtube-morphe-experimental-module-v21.45.82-arm-v7a.zip) |
-| [260522](https://github.com/nullcpy/archive/releases/tag/260522) 🧪 | 2026-11-13 | `21.45.82` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260522/youtube-morphe-experimental-v21.45.82-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260522/youtube-morphe-experimental-v21.45.82-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260522/youtube-morphe-experimental-module-v21.45.82-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260522/youtube-morphe-experimental-module-v21.45.82-arm-v7a.zip) |
 
 [← older builds](https://nullcpy.github.io/archive/apps/youtube/page-2.html)
 

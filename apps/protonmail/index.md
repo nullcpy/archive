@@ -8,7 +8,7 @@ title: Proton Mail
 
 ### Standard
 
-<details><summary><b>Applied patches: 11</b> . 20 build(s)</summary>
+<details><summary><b>Applied patches: 11</b> . 21 build(s)</summary>
 <ul>
 <li>AMOLED dark theme</li>
 <li>Custom accent color</li>
@@ -26,6 +26,7 @@ title: Proton Mail
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260581](https://github.com/nullcpy/archive/releases/tag/260581) | 2026-11-20 | `7.12.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260581/proton-mail-hxreborn-v7.12.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260581/proton-mail-hxreborn-v7.12.1-arm-v7a.apk) |
 | [260574](https://github.com/nullcpy/archive/releases/tag/260574) | 2026-11-19 | `7.12.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260574/proton-mail-hxreborn-v7.12.1-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260574/proton-mail-hxreborn-v7.12.1-arm-v7a.apk) |
 | [260566](https://github.com/nullcpy/archive/releases/tag/260566) | 2026-11-18 | `7.11.12` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260566/proton-mail-hxreborn-v7.11.12-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260566/proton-mail-hxreborn-v7.11.12-arm-v7a.apk) |
 | [260557](https://github.com/nullcpy/archive/releases/tag/260557) | 2026-11-17 | `7.11.12` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260557/proton-mail-hxreborn-v7.11.12-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260557/proton-mail-hxreborn-v7.11.12-arm-v7a.apk) |
