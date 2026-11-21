@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 4</b> . 5 build(s)</summary>
+<details><summary><b>Applied patches: 4</b> . 6 build(s)</summary>
 <ul>
 <li>Enable guest sign-in</li>
 <li>GmsCore support</li>
@@ -15,6 +15,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260587](https://github.com/nullcpy/archive/releases/tag/260587) | 2026-11-21 | `1.28.1` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260587/albo-save-organize-hxreborn-v1.28.1-arm64-v8a.apk) |
 | [260581](https://github.com/nullcpy/archive/releases/tag/260581) | 2026-11-20 | `1.25.6` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260581/albo-save-organize-hxreborn-v1.25.6-arm64-v8a.apk) |
 | [260574](https://github.com/nullcpy/archive/releases/tag/260574) | 2026-11-19 | `1.25.6` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260574/albo-save-organize-hxreborn-v1.25.6-arm64-v8a.apk) |
 | [260566](https://github.com/nullcpy/archive/releases/tag/260566) | 2026-11-18 | `1.25.6` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260566/albo-save-organize-hxreborn-v1.25.6-arm64-v8a.apk) |
