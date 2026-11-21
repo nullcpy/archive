@@ -1,6 +1,6 @@
 <h1><span class="accent">NullStore</span> Archive</h1>
 
-<p class="stats"><b>112</b> apps · <b>5.8k</b> downloads</p>
+<p class="stats"><b>112</b> apps · <b>5.9k</b> downloads</p>
 
 Every build NullForge has published, kept permanently. For the newest versions and for one-tap Obtainium adds, use [NullStore](https://nullcpy.github.io/nullstore).
 
@@ -15,9 +15,9 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Amazon India](https://github.com/nullcpy/archive/blob/main/apps/amazonindia/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
 | [Amazon Shopping](https://github.com/nullcpy/archive/blob/main/apps/amazonshopping/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
 | [atvTools](https://github.com/nullcpy/archive/blob/main/apps/atvtools/README.md) | <time datetime="2026-11-16T09:59:28Z" data-relative>2026-11-16</time> | 3 |
-| [Automate](https://github.com/nullcpy/archive/blob/main/apps/automate/README.md) | <time datetime="2026-11-14T12:17:27Z" data-relative>2026-11-14</time> | 5 |
-| [Autosync](https://github.com/nullcpy/archive/blob/main/apps/autosync/README.md) | <time datetime="2026-11-14T12:17:27Z" data-relative>2026-11-14</time> | 1 |
-| [Backdrops](https://github.com/nullcpy/archive/blob/main/apps/backdrops/README.md) | <time datetime="2026-11-14T12:17:27Z" data-relative>2026-11-14</time> | 2 |
+| [Automate](https://github.com/nullcpy/archive/blob/main/apps/automate/README.md) | <time datetime="2026-11-21T13:09:30Z" data-relative>2026-11-21</time> | 5 |
+| [Autosync](https://github.com/nullcpy/archive/blob/main/apps/autosync/README.md) | <time datetime="2026-11-21T13:09:30Z" data-relative>2026-11-21</time> | 1 |
+| [Backdrops](https://github.com/nullcpy/archive/blob/main/apps/backdrops/README.md) | <time datetime="2026-11-21T13:09:30Z" data-relative>2026-11-21</time> | 2 |
 | [Beta Maniac](https://github.com/nullcpy/archive/blob/main/apps/betamaniac/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
 | [Block Blast](https://github.com/nullcpy/archive/blob/main/apps/blockblast/README.md) | <time datetime="2026-11-07T18:05:12Z" data-relative>2026-11-07</time> | 9 |
 | [Bluetooth Keyboard & Mouse](https://github.com/nullcpy/archive/blob/main/apps/bluetoothkeyboardmouse/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
@@ -32,11 +32,11 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Discord](https://github.com/nullcpy/archive/blob/main/apps/discord/README.md) | <time datetime="2026-11-15T19:20:49Z" data-relative>2026-11-15</time> | 115 |
 | [Disney+](https://github.com/nullcpy/archive/blob/main/apps/disney/README.md) | <time datetime="2026-10-28T21:22:56Z" data-relative>2026-10-28</time> | 5 |
 | [Duolingo](https://github.com/nullcpy/archive/blob/main/apps/duolingo/README.md) | <time datetime="2026-11-17T18:00:48Z" data-relative>2026-11-17</time> | 2 |
-| [Facebook](https://github.com/nullcpy/archive/blob/main/apps/facebook/README.md) | <time datetime="2026-11-18T02:38:06Z" data-relative>2026-11-18</time> | 126 |
+| [Facebook](https://github.com/nullcpy/archive/blob/main/apps/facebook/README.md) | <time datetime="2026-11-21T13:09:30Z" data-relative>2026-11-21</time> | 126 |
 | [FairEmail](https://github.com/nullcpy/archive/blob/main/apps/fairemail/README.md) | <time datetime="2026-11-16T22:55:48Z" data-relative>2026-11-16</time> | 8 |
 | [Firsty](https://github.com/nullcpy/archive/blob/main/apps/firsty/README.md) | <time datetime="2026-10-29T06:46:20Z" data-relative>2026-10-29</time> | 1 |
 | [FolderSync](https://github.com/nullcpy/archive/blob/main/apps/foldersync/README.md) | <time datetime="2026-11-17T18:00:48Z" data-relative>2026-11-17</time> | 2 |
-| [Google Keyboard](https://github.com/nullcpy/archive/blob/main/apps/googlekeyboard/README.md) | <time datetime="2026-11-21T01:32:58Z" data-relative>2026-11-21</time> | 192 |
+| [Google Keyboard](https://github.com/nullcpy/archive/blob/main/apps/googlekeyboard/README.md) | <time datetime="2026-11-21T01:32:58Z" data-relative>2026-11-21</time> | 205 |
 | [Google Maps](https://github.com/nullcpy/archive/blob/main/apps/googlemaps/README.md) | <time datetime="2026-11-16T09:59:28Z" data-relative>2026-11-16</time> | 336 |
 | [Google Phone](https://github.com/nullcpy/archive/blob/main/apps/googlephone/README.md) | <time datetime="2026-11-01T14:43:11Z" data-relative>2026-11-01</time> | 5 |
 | [Google Photos](https://github.com/nullcpy/archive/blob/main/apps/googlephotos/README.md) | <time datetime="2026-11-19T14:42:27Z" data-relative>2026-11-19</time> | 247 |
@@ -44,8 +44,8 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [HBO Max](https://github.com/nullcpy/archive/blob/main/apps/hbomax/README.md) | <time datetime="2026-11-20T20:54:55Z" data-relative>2026-11-20</time> | 16 |
 | [Hermit](https://github.com/nullcpy/archive/blob/main/apps/hermit/README.md) | <time datetime="2026-11-15T19:20:49Z" data-relative>2026-11-15</time> | 4 |
 | [IMDb](https://github.com/nullcpy/archive/blob/main/apps/imdb/README.md) | <time datetime="2026-10-25T15:56:22Z" data-relative>2026-10-25</time> | 3 |
-| [Inshorts](https://github.com/nullcpy/archive/blob/main/apps/inshorts/README.md) | <time datetime="2026-11-14T12:17:27Z" data-relative>2026-11-14</time> | 2 |
-| [Instagram](https://github.com/nullcpy/archive/blob/main/apps/instagram/README.md) | <time datetime="2026-11-21T01:32:58Z" data-relative>2026-11-21</time> | 238 |
+| [Inshorts](https://github.com/nullcpy/archive/blob/main/apps/inshorts/README.md) | <time datetime="2026-11-21T13:09:30Z" data-relative>2026-11-21</time> | 2 |
+| [Instagram](https://github.com/nullcpy/archive/blob/main/apps/instagram/README.md) | <time datetime="2026-11-21T01:32:58Z" data-relative>2026-11-21</time> | 250 |
 | [Internet Speed Meter Lite](https://github.com/nullcpy/archive/blob/main/apps/internetspeedmeterlite/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 19 |
 | [JioHotstar](https://github.com/nullcpy/archive/blob/main/apps/jiohotstar/README.md) | <time datetime="2026-11-17T11:40:20Z" data-relative>2026-11-17</time> | 2 |
 | [Kick](https://github.com/nullcpy/archive/blob/main/apps/kick/README.md) | <time datetime="2026-11-20T20:54:55Z" data-relative>2026-11-20</time> | 28 |
@@ -66,35 +66,35 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Peacock](https://github.com/nullcpy/archive/blob/main/apps/peacock/README.md) | <time datetime="2026-11-20T20:54:55Z" data-relative>2026-11-20</time> | 14 |
 | [Photomath](https://github.com/nullcpy/archive/blob/main/apps/photomath/README.md) | <time datetime="2026-11-04T20:25:05Z" data-relative>2026-11-04</time> | 25 |
 | [PicsArt](https://github.com/nullcpy/archive/blob/main/apps/picsart/README.md) | <time datetime="2026-11-18T13:58:09Z" data-relative>2026-11-18</time> | 3 |
-| [Pinterest](https://github.com/nullcpy/archive/blob/main/apps/pinterest/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 32 |
+| [Pinterest](https://github.com/nullcpy/archive/blob/main/apps/pinterest/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 34 |
 | [pixiv](https://github.com/nullcpy/archive/blob/main/apps/pixiv/README.md) | <time datetime="2026-11-17T18:00:48Z" data-relative>2026-11-17</time> | 9 |
 | [PlutoTV](https://github.com/nullcpy/archive/blob/main/apps/plutotv/README.md) | <time datetime="2026-11-20T20:54:55Z" data-relative>2026-11-20</time> | 15 |
 | [Pocket Casts](https://github.com/nullcpy/archive/blob/main/apps/pocketcasts/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
 | [Pocket Whip](https://github.com/nullcpy/archive/blob/main/apps/pocketwhip/README.md) | <time datetime="2026-11-16T09:59:28Z" data-relative>2026-11-16</time> | 7 |
 | [Prime Video](https://github.com/nullcpy/archive/blob/main/apps/primevideo/README.md) | <time datetime="2026-11-20T20:54:55Z" data-relative>2026-11-20</time> | 35 |
 | [Projectivy Launcher](https://github.com/nullcpy/archive/blob/main/apps/projectivylauncher/README.md) | <time datetime="2026-11-17T18:00:48Z" data-relative>2026-11-17</time> | 1 |
-| [Proton Lumo](https://github.com/nullcpy/archive/blob/main/apps/protonlumo/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 18 |
-| [Proton Mail](https://github.com/nullcpy/archive/blob/main/apps/protonmail/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 95 |
-| [Proton Pass](https://github.com/nullcpy/archive/blob/main/apps/protonpass/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 85 |
-| [Proton VPN](https://github.com/nullcpy/archive/blob/main/apps/protonvpn/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 179 |
+| [Proton Lumo](https://github.com/nullcpy/archive/blob/main/apps/protonlumo/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 19 |
+| [Proton Mail](https://github.com/nullcpy/archive/blob/main/apps/protonmail/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 98 |
+| [Proton Pass](https://github.com/nullcpy/archive/blob/main/apps/protonpass/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 88 |
+| [Proton VPN](https://github.com/nullcpy/archive/blob/main/apps/protonvpn/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 182 |
 | [RAR](https://github.com/nullcpy/archive/blob/main/apps/rar/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
 | [Reddit](https://github.com/nullcpy/archive/blob/main/apps/reddit/README.md) | <time datetime="2026-11-20T17:15:11Z" data-relative>2026-11-20</time> | 521 |
 | [Remote for Android TV](https://github.com/nullcpy/archive/blob/main/apps/remoteforandroidtv/README.md) | <time datetime="2026-11-16T06:23:33Z" data-relative>2026-11-16</time> | 19 |
 | [Ridmik Keyboard](https://github.com/nullcpy/archive/blob/main/apps/ridmikkeyboard/README.md) | <time datetime="2026-11-19T14:42:27Z" data-relative>2026-11-19</time> | 3 |
 | [Rumble](https://github.com/nullcpy/archive/blob/main/apps/rumble/README.md) | <time datetime="2026-11-20T20:54:55Z" data-relative>2026-11-20</time> | 16 |
 | [Send Files to TV](https://github.com/nullcpy/archive/blob/main/apps/sendfilestotv/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
-| [Showly](https://github.com/nullcpy/archive/blob/main/apps/showly/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 77 |
+| [Showly](https://github.com/nullcpy/archive/blob/main/apps/showly/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 78 |
 | [Sofascore](https://github.com/nullcpy/archive/blob/main/apps/sofascore/README.md) | <time datetime="2026-11-16T22:55:48Z" data-relative>2026-11-16</time> | 17 |
 | [Sony Music](https://github.com/nullcpy/archive/blob/main/apps/sonymusic/README.md) | <time datetime="2026-11-16T09:59:28Z" data-relative>2026-11-16</time> | 7 |
-| [SoundCloud](https://github.com/nullcpy/archive/blob/main/apps/soundcloud/README.md) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> | 4 |
-| [Speedtest](https://github.com/nullcpy/archive/blob/main/apps/speedtest/README.md) | <time datetime="2026-11-14T12:17:27Z" data-relative>2026-11-14</time> | 2 |
+| [SoundCloud](https://github.com/nullcpy/archive/blob/main/apps/soundcloud/README.md) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> | 6 |
+| [Speedtest](https://github.com/nullcpy/archive/blob/main/apps/speedtest/README.md) | <time datetime="2026-11-21T13:09:30Z" data-relative>2026-11-21</time> | 2 |
 | [Spotify](https://github.com/nullcpy/archive/blob/main/apps/spotify/README.md) | <time datetime="2026-11-14T16:54:27Z" data-relative>2026-11-14</time> | 14 |
 | [Strava](https://github.com/nullcpy/archive/blob/main/apps/strava/README.md) | <time datetime="2026-11-04T20:25:05Z" data-relative>2026-11-04</time> | 21 |
 | [Swamp Attack](https://github.com/nullcpy/archive/blob/main/apps/swampattack/README.md) | <time datetime="2026-11-14T16:54:27Z" data-relative>2026-11-14</time> | 3 |
 | [Swamp Attack 2](https://github.com/nullcpy/archive/blob/main/apps/swampattack2/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 3 |
 | [Swift Backup](https://github.com/nullcpy/archive/blob/main/apps/swiftbackup/README.md) | <time datetime="2026-11-14T12:17:27Z" data-relative>2026-11-14</time> | 8 |
 | [Telegram](https://github.com/nullcpy/archive/blob/main/apps/telegram/README.md) | <time datetime="2026-11-17T23:43:25Z" data-relative>2026-11-17</time> | 54 |
-| [TeraBox](https://github.com/nullcpy/archive/blob/main/apps/terabox/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 100 |
+| [TeraBox](https://github.com/nullcpy/archive/blob/main/apps/terabox/README.md) | <time datetime="2026-11-20T17:31:19Z" data-relative>2026-11-20</time> | 103 |
 | [Termius](https://github.com/nullcpy/archive/blob/main/apps/termius/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
 | [The Weather Channel](https://github.com/nullcpy/archive/blob/main/apps/theweatherchannel/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
 | [Threads](https://github.com/nullcpy/archive/blob/main/apps/threads/README.md) | <time datetime="2026-11-13T20:20:53Z" data-relative>2026-11-13</time> | 14 |
@@ -105,10 +105,10 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Truecaller](https://github.com/nullcpy/archive/blob/main/apps/truecaller/README.md) | <time datetime="2026-11-18T21:03:26Z" data-relative>2026-11-18</time> | 170 |
 | [Tubi](https://github.com/nullcpy/archive/blob/main/apps/tubi/README.md) | <time datetime="2026-11-16T22:55:48Z" data-relative>2026-11-16</time> | 1 |
 | [Twitch](https://github.com/nullcpy/archive/blob/main/apps/twitch/README.md) | <time datetime="2026-11-20T20:54:55Z" data-relative>2026-11-20</time> | 36 |
-| [Twitter](https://github.com/nullcpy/archive/blob/main/apps/twitter/README.md) | <time datetime="2026-11-21T01:32:58Z" data-relative>2026-11-21</time> | 252 |
+| [Twitter](https://github.com/nullcpy/archive/blob/main/apps/twitter/README.md) | <time datetime="2026-11-21T01:32:58Z" data-relative>2026-11-21</time> | 264 |
 | [Viber](https://github.com/nullcpy/archive/blob/main/apps/viber/README.md) | <time datetime="2026-10-24T09:35:38Z" data-relative>2026-10-24</time> | 2 |
 | [ViX](https://github.com/nullcpy/archive/blob/main/apps/vix/README.md) | <time datetime="2026-11-20T20:54:55Z" data-relative>2026-11-20</time> | 8 |
-| [VPNify](https://github.com/nullcpy/archive/blob/main/apps/vpnify/README.md) | <time datetime="2026-11-15T13:38:55Z" data-relative>2026-11-15</time> | 6 |
+| [VPNify](https://github.com/nullcpy/archive/blob/main/apps/vpnify/README.md) | <time datetime="2026-11-21T13:09:30Z" data-relative>2026-11-21</time> | 6 |
 | [Waze](https://github.com/nullcpy/archive/blob/main/apps/waze/README.md) | <time datetime="2026-11-16T09:59:28Z" data-relative>2026-11-16</time> | 5 |
 | [Web Video Cast](https://github.com/nullcpy/archive/blob/main/apps/webvideocast/README.md) | <time datetime="2026-11-15T19:20:49Z" data-relative>2026-11-15</time> | 2 |
 | [WhatsApp](https://github.com/nullcpy/archive/blob/main/apps/whatsapp/README.md) | <time datetime="2026-11-19T17:23:47Z" data-relative>2026-11-19</time> | 9 |
@@ -116,5 +116,5 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Xiaomi Recorder](https://github.com/nullcpy/archive/blob/main/apps/xiaomirecorder/README.md) | <time datetime="2026-11-16T09:59:28Z" data-relative>2026-11-16</time> | 4 |
 | [Xiaomi Screen Recorder](https://github.com/nullcpy/archive/blob/main/apps/xiaomiscreenrecorder/README.md) | <time datetime="2026-11-03T04:49:32Z" data-relative>2026-11-03</time> | 1 |
 | [YouTube](https://github.com/nullcpy/archive/blob/main/apps/youtube/README.md) | <time datetime="2026-11-20T17:15:11Z" data-relative>2026-11-20</time> | 1.1k |
-| [YouTube Music](https://github.com/nullcpy/archive/blob/main/apps/youtubemusic/README.md) | <time datetime="2026-11-20T17:15:11Z" data-relative>2026-11-20</time> | 818 |
-| [Zalo](https://github.com/nullcpy/archive/blob/main/apps/zalo/README.md) | <time datetime="2026-11-20T07:07:43Z" data-relative>2026-11-20</time> | 16 |
+| [YouTube Music](https://github.com/nullcpy/archive/blob/main/apps/youtubemusic/README.md) | <time datetime="2026-11-20T17:15:11Z" data-relative>2026-11-20</time> | 819 |
+| [Zalo](https://github.com/nullcpy/archive/blob/main/apps/zalo/README.md) | <time datetime="2026-11-20T07:07:43Z" data-relative>2026-11-20</time> | 18 |
