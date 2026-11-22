@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 12</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 12</b> . 3 build(s)</summary>
 <ul>
 <li>Block marketing notifications</li>
 <li>Clean shared links</li>
@@ -23,6 +23,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260595](https://github.com/nullcpy/archive/releases/tag/260595) | 2026-11-22 | `26.11.09` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260595/sofascore-heval99-v26.11.09-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260595/sofascore-heval99-v26.11.09-arm-v7a.apk) |
 | [260592](https://github.com/nullcpy/archive/releases/tag/260592) | 2026-11-22 | `26.11.09` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260592/sofascore-heval99-v26.11.09-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260592/sofascore-heval99-v26.11.09-arm-v7a.apk) |
 | [260552](https://github.com/nullcpy/archive/releases/tag/260552) | 2026-11-16 | `26.11.03` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260552/sofascore-heval99-v26.11.03-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260552/sofascore-heval99-v26.11.03-arm-v7a.apk) |
 
