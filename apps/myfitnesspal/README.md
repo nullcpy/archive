@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 2</b> . 6 build(s)</summary>
+<details><summary><b>Applied patches: 2</b> . 7 build(s)</summary>
 <ul>
 <li>Disable Datadog telemetry</li>
 <li>Enable Premium+</li>
@@ -13,6 +13,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260592](https://github.com/nullcpy/archive/releases/tag/260592) | 2026-11-22 | `26.46.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260592/myfitnesspal-heval99-v26.46.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260592/myfitnesspal-heval99-v26.46.0-arm-v7a.apk) |
 | [260552](https://github.com/nullcpy/archive/releases/tag/260552) | 2026-11-16 | `26.45.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260552/myfitnesspal-heval99-v26.45.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260552/myfitnesspal-heval99-v26.45.0-arm-v7a.apk) |
 | [260516](https://github.com/nullcpy/archive/releases/tag/260516) | 2026-11-12 | `26.45.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260516/myfitnesspal-heval99-v26.45.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260516/myfitnesspal-heval99-v26.45.0-arm-v7a.apk) |
 | [260466](https://github.com/nullcpy/archive/releases/tag/260466) | 2026-11-04 | `26.44.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260466/myfitnesspal-heval99-v26.44.0-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260466/myfitnesspal-heval99-v26.44.0-arm-v7a.apk) |
