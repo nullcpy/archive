@@ -41,7 +41,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [FairEmail](https://nullcpy.github.io/archive/apps/fairemail/) | <time datetime="2026-11-16T22:55:48Z" data-relative>2026-11-16</time> | 8 |
 | [Firsty](https://nullcpy.github.io/archive/apps/firsty/) | <time datetime="2026-10-29T06:46:20Z" data-relative>2026-10-29</time> | 1 |
 | [FolderSync](https://nullcpy.github.io/archive/apps/foldersync/) | <time datetime="2026-11-17T18:00:48Z" data-relative>2026-11-17</time> | 2 |
-| [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | <time datetime="2026-11-22T06:40:13Z" data-relative>2026-11-22</time> | 206 |
+| [Google Keyboard](https://nullcpy.github.io/archive/apps/googlekeyboard/) | <time datetime="2026-11-22T06:40:13Z" data-relative>2026-11-22</time> | 208 |
 | [Google Maps](https://nullcpy.github.io/archive/apps/googlemaps/) | <time datetime="2026-11-16T09:59:28Z" data-relative>2026-11-16</time> | 336 |
 | [Google Phone](https://nullcpy.github.io/archive/apps/googlephone/) | <time datetime="2026-11-01T14:43:11Z" data-relative>2026-11-01</time> | 5 |
 | [Google Photos](https://nullcpy.github.io/archive/apps/googlephotos/) | <time datetime="2026-11-19T14:42:27Z" data-relative>2026-11-19</time> | 248 |
@@ -54,7 +54,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Internet Speed Meter Lite](https://nullcpy.github.io/archive/apps/internetspeedmeterlite/) | <time datetime="2026-11-21T16:18:23Z" data-relative>2026-11-21</time> | 20 |
 | [JioHotstar](https://nullcpy.github.io/archive/apps/jiohotstar/) | <time datetime="2026-11-17T11:40:20Z" data-relative>2026-11-17</time> | 2 |
 | [Kick](https://nullcpy.github.io/archive/apps/kick/) | <time datetime="2026-11-20T20:54:55Z" data-relative>2026-11-20</time> | 28 |
-| [Letterboxd](https://nullcpy.github.io/archive/apps/letterboxd/) | <time datetime="2026-11-22T06:40:13Z" data-relative>2026-11-22</time> | 8 |
+| [Letterboxd](https://nullcpy.github.io/archive/apps/letterboxd/) | <time datetime="2026-11-22T06:40:13Z" data-relative>2026-11-22</time> | 10 |
 | [LinkedIn](https://nullcpy.github.io/archive/apps/linkedin/) | <time datetime="2026-11-05T20:27:17Z" data-relative>2026-11-05</time> | 13 |
 | [MacroDroid](https://nullcpy.github.io/archive/apps/macrodroid/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 6 |
 | [Messenger](https://nullcpy.github.io/archive/apps/messenger/) | <time datetime="2026-11-14T20:59:10Z" data-relative>2026-11-14</time> | 41 |
@@ -64,7 +64,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [Musicolet](https://nullcpy.github.io/archive/apps/musicolet/) | <time datetime="2026-11-21T16:18:23Z" data-relative>2026-11-21</time> | 50 |
 | [Musicolet Cast Plugin](https://nullcpy.github.io/archive/apps/musicoletcastplugin/) | <time datetime="2026-11-21T16:18:23Z" data-relative>2026-11-21</time> | 69 |
 | [MyFitnessPal](https://nullcpy.github.io/archive/apps/myfitnesspal/) | <time datetime="2026-11-16T22:55:48Z" data-relative>2026-11-16</time> | 23 |
-| [Netflix](https://nullcpy.github.io/archive/apps/netflix/) | <time datetime="2026-11-16T22:55:48Z" data-relative>2026-11-16</time> | 19 |
+| [Netflix](https://nullcpy.github.io/archive/apps/netflix/) | <time datetime="2026-11-16T22:55:48Z" data-relative>2026-11-16</time> | 20 |
 | [Ninja VPN](https://nullcpy.github.io/archive/apps/ninjavpn/) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 9 |
 | [Nova Launcher](https://nullcpy.github.io/archive/apps/novalauncher/) | <time datetime="2026-11-18T04:13:06Z" data-relative>2026-11-18</time> | 4 |
 | [Offline Games](https://nullcpy.github.io/archive/apps/offlinegames/) | <time datetime="2026-10-26T21:13:33Z" data-relative>2026-10-26</time> | 8 |

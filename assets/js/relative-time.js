@@ -45,8 +45,12 @@
         if (days === 1) {
             return "yesterday";
         }
-        if (days < 30) {
+        if (days < 7) {
             return days + " days ago";
+        }
+        var weeks = Math.floor(days / 7);
+        if (days < 30) {
+            return weeks === 1 ? "1 week ago" : weeks + " weeks ago";
         }
         var months = (today.getFullYear() - target.getFullYear()) * 12
             + (today.getMonth() - target.getMonth());
