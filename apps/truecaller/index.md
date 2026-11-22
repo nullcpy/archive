@@ -8,7 +8,7 @@ title: Truecaller
 
 ### Standard
 
-<details><summary><b>Applied patches: 23</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 23</b> . 3 build(s)</summary>
 <ul>
 <li>Disable ads</li>
 <li>Disable auto-launch</li>
@@ -38,6 +38,7 @@ title: Truecaller
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260595](https://github.com/nullcpy/archive/releases/tag/260595) | 2026-11-22 | `26.45.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260595/truecaller-heval99-v26.45.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260595/truecaller-heval99-v26.45.5-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260595/truecaller-heval99-module-v26.45.5-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260595/truecaller-heval99-module-v26.45.5-arm-v7a.zip) |
 | [260594](https://github.com/nullcpy/archive/releases/tag/260594) | 2026-11-22 | `26.45.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260594/truecaller-heval99-v26.45.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260594/truecaller-heval99-v26.45.5-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260594/truecaller-heval99-module-v26.45.5-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260594/truecaller-heval99-module-v26.45.5-arm-v7a.zip) |
 | [260593](https://github.com/nullcpy/archive/releases/tag/260593) 🧪 | 2026-11-22 | `26.45.5` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260593/truecaller-heval99-v26.45.5-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260593/truecaller-heval99-v26.45.5-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260593/truecaller-heval99-module-v26.45.5-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260593/truecaller-heval99-module-v26.45.5-arm-v7a.zip) |
 
