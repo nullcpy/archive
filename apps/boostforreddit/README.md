@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 42</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 42</b> . 2 build(s)</summary>
 <ul>
 <li>Add archive links to context menu</li>
 <li>Add Boost Search bottom navigation</li>
@@ -53,6 +53,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260599](https://github.com/nullcpy/archive/releases/tag/260599) | 2026-11-23 | `1.14.4` | APK: [all](https://github.com/nullcpy/archive/releases/download/260599/boost-for-reddit-wchill-v1.14.4-all.apk) |
 | [260588](https://github.com/nullcpy/archive/releases/tag/260588) | 2026-11-22 | `1.14.4` | APK: [all](https://github.com/nullcpy/archive/releases/download/260588/boost-for-reddit-wchill-v1.14.4-all.apk) |
 
 <details><summary><b>Applied patches: 36</b> . 2 build(s)</summary>
