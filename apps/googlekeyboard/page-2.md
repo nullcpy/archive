@@ -1,0 +1,66 @@
+---
+title: Google Keyboard
+---
+
+# Google Keyboard
+
+## jasonwu1994
+
+### Clone
+
+<details><summary><b>Applied patches: 44</b> . 2 build(s)</summary>
+<ul>
+<li>Access Points menu style</li>
+<li>Add Gboard Signature Bypass</li>
+<li>Advanced Voice Typing</li>
+<li>AI Writing Tools</li>
+<li>Backup &amp; Restore</li>
+<li>Change emoji size</li>
+<li>Clipboard Custom Character Limit</li>
+<li>Clipboard Enhancements</li>
+<li>Close Proactive Suggestions</li>
+<li>Custom Symbols</li>
+<li>Custom Theme</li>
+<li>Developer options</li>
+<li>Emojis, stickers &amp; GIFs Tab Order</li>
+<li>Enable accessibility layout</li>
+<li>Enable cursor trackpad mode</li>
+<li>Enable Inline Autofill Suggestions</li>
+<li>Enable OCR / Scan Text</li>
+<li>Enable split keyboard</li>
+<li>English QWERTY Up-Flick Uppercase</li>
+<li>Floating Web Search</li>
+<li>Frosted Glass</li>
+<li>FTP Server</li>
+<li>G Logo on Spacebar</li>
+<li>Grammar Checker</li>
+<li>Hyperspeed Typing Animation</li>
+<li>Incognito Mode Toggle</li>
+<li>Inline Suggestions</li>
+<li>Key Shape Selection</li>
+<li>Latin Globe Key Ignore Interval</li>
+<li>Long-Press Editing Shortcuts</li>
+<li>Package Rename</li>
+<li>Quick Insert</li>
+<li>Rounded Keyboard Panel</li>
+<li>Settings Homepage Override</li>
+<li>Simple Calculator</li>
+<li>Swipe Down to Dismiss Keyboard</li>
+<li>Swipeable Custom Top Row</li>
+<li>Toolbar Editing Buttons</li>
+<li>Top Toolbar Item Count</li>
+<li>Use Bluetooth Microphone</li>
+<li>Web Clipboard</li>
+<li>Zhuyin Bottom Row Key Sizes</li>
+<li>Zhuyin Quick Traditional/Simplified Toggle</li>
+<li>Zhuyin Slide Input</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260358](https://github.com/nullcpy/archive/releases/tag/260358) 🧪 | 2026-10-24 | `18.5.3.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260358/google-keyboard-jasonwu1994-clone-v18.5.3.993608717-release-arm64-v8a-arm64-v8a.apk) |
+| [260357](https://github.com/nullcpy/archive/releases/tag/260357) 🧪 | 2026-10-24 | `18.5.3.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260357/google-keyboard-jasonwu1994-clone-v18.5.3.993608717-release-arm64-v8a-arm64-v8a.apk) |
+
+[newer builds →](https://nullcpy.github.io/archive/apps/googlekeyboard/)
+
