@@ -8,13 +8,14 @@ title: Discord
 
 ### Standard
 
-<details><summary><b>Applied patches: 0</b> . 10 build(s)</summary>
+<details><summary><b>Applied patches: 0</b> . 11 build(s)</summary>
 <ul>
 </ul>
 </details>
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260602](https://github.com/nullcpy/archive/releases/tag/260602) | 2026-11-24 | `355.10-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260602/discord-revenge-v355.10-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260602/discord-revenge-v355.10-Stable-arm-v7a.apk) |
 | [260544](https://github.com/nullcpy/archive/releases/tag/260544) | 2026-11-15 | `354.12-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260544/discord-revenge-v354.12-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260544/discord-revenge-v354.12-Stable-arm-v7a.apk) |
 | [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `353.11-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260504/discord-revenge-v353.11-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260504/discord-revenge-v353.11-Stable-arm-v7a.apk) |
 | [260467](https://github.com/nullcpy/archive/releases/tag/260467) | 2026-11-05 | `352.17-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260467/discord-revenge-v352.17-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260467/discord-revenge-v352.17-Stable-arm-v7a.apk) |
@@ -30,13 +31,14 @@ title: Discord
 
 ### Standard
 
-<details><summary><b>Applied patches: 0</b> . 10 build(s)</summary>
+<details><summary><b>Applied patches: 0</b> . 11 build(s)</summary>
 <ul>
 </ul>
 </details>
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260602](https://github.com/nullcpy/archive/releases/tag/260602) | 2026-11-24 | `355.10-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260602/discord-rain-v355.10-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260602/discord-rain-v355.10-Stable-arm-v7a.apk) |
 | [260544](https://github.com/nullcpy/archive/releases/tag/260544) | 2026-11-15 | `354.12-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260544/discord-rain-v354.12-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260544/discord-rain-v354.12-Stable-arm-v7a.apk) |
 | [260504](https://github.com/nullcpy/archive/releases/tag/260504) | 2026-11-10 | `353.11-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260504/discord-rain-v353.11-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260504/discord-rain-v353.11-Stable-arm-v7a.apk) |
 | [260467](https://github.com/nullcpy/archive/releases/tag/260467) | 2026-11-05 | `352.17-Stable` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260467/discord-rain-v352.17-Stable-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260467/discord-rain-v352.17-Stable-arm-v7a.apk) |
