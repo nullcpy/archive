@@ -8,7 +8,7 @@ title: Google Keyboard
 
 ### Standard
 
-<details><summary><b>Applied patches: 45</b> . 5 build(s)</summary>
+<details><summary><b>Applied patches: 45</b> . 6 build(s)</summary>
 <ul>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
@@ -60,6 +60,7 @@ title: Google Keyboard
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260603](https://github.com/nullcpy/archive/releases/tag/260603) 🧪 | 2026-11-24 | `18.5.4.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260603/google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260603/google-keyboard-jasonwu1994-module-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.zip) |
 | [260600](https://github.com/nullcpy/archive/releases/tag/260600) 🧪 | 2026-11-23 | `18.5.4.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260600/google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260600/google-keyboard-jasonwu1994-module-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.zip) |
 | [260598](https://github.com/nullcpy/archive/releases/tag/260598) 🧪 | 2026-11-23 | `18.5.4.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260598/google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260598/google-keyboard-jasonwu1994-module-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.zip) |
 | [260588](https://github.com/nullcpy/archive/releases/tag/260588) | 2026-11-22 | `18.5.4.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260588/google-keyboard-jasonwu1994-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260588/google-keyboard-jasonwu1994-module-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.zip) |
@@ -291,7 +292,7 @@ title: Google Keyboard
 
 ### Clone
 
-<details><summary><b>Applied patches: 46</b> . 5 build(s)</summary>
+<details><summary><b>Applied patches: 46</b> . 6 build(s)</summary>
 <ul>
 <li>Access Points menu style</li>
 <li>Add Gboard Signature Bypass</li>
@@ -344,6 +345,7 @@ title: Google Keyboard
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260603](https://github.com/nullcpy/archive/releases/tag/260603) 🧪 | 2026-11-24 | `18.5.4.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260603/google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk) |
 | [260600](https://github.com/nullcpy/archive/releases/tag/260600) 🧪 | 2026-11-23 | `18.5.4.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260600/google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk) |
 | [260598](https://github.com/nullcpy/archive/releases/tag/260598) 🧪 | 2026-11-23 | `18.5.4.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260598/google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk) |
 | [260588](https://github.com/nullcpy/archive/releases/tag/260588) | 2026-11-22 | `18.5.4.993608717-release-arm64-v8a` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260588/google-keyboard-jasonwu1994-clone-v18.5.4.993608717-release-arm64-v8a-arm64-v8a.apk) |
