@@ -18,5 +18,17 @@ title: SoundCloud
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260618](https://github.com/nullcpy/archive/releases/tag/260618) | 2026-11-25 | `2026.09.09-release` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260618/soundcloud-kondratjev-v2026.09.09-release-arm64-v8a.apk) |
+
+<details><summary><b>Applied patches: 3</b> . 1 build(s)</summary>
+<ul>
+<li>Disable analytics</li>
+<li>Disable consent popup</li>
+<li>Enable SoundCloud Go</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
 | [260359](https://github.com/nullcpy/archive/releases/tag/260359) | 2026-10-24 | `2026.09.09-release` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260359/soundcloud-kondratjev-v2026.09.09-release-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260359/soundcloud-kondratjev-v2026.09.09-release-arm-v7a.apk) |
 
