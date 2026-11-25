@@ -4,6 +4,139 @@
 
 ### Standard
 
+<details><summary><b>Applied patches: 124</b> . 1 build(s)</summary>
+<ul>
+<li>Accent color</li>
+<li>Allow screenshots</li>
+<li>AMOLED black theme</li>
+<li>Ask before a like</li>
+<li>Badge and logo colors</li>
+<li>Block ad telemetry</li>
+<li>Block background ad prefetch</li>
+<li>Block background-return feed refresh</li>
+<li>Block Instant Games ads</li>
+<li>Block promotional notifications</li>
+<li>Block screenshot detection</li>
+<li>Chat background</li>
+<li>Clean up Facebook's chat list</li>
+<li>Clean up Reels</li>
+<li>Clean up the story viewer</li>
+<li>Comment sheet options</li>
+<li>Default comment order</li>
+<li>Default playback quality</li>
+<li>Disable Audience Network</li>
+<li>Don't save search history</li>
+<li>Don't send reel watch history</li>
+<li>Double tap to skip</li>
+<li>Download any photo</li>
+<li>Download any reel</li>
+<li>Download any story</li>
+<li>Download any video</li>
+<li>Fold long text</li>
+<li>Following feed on Home</li>
+<li>Force dark mode</li>
+<li>Frame step</li>
+<li>Hide affiliate product links</li>
+<li>Hide AI-detected posts</li>
+<li>Hide carrier data banners</li>
+<li>Hide Menu promotions</li>
+<li>Hide Meta AI comment summaries</li>
+<li>Hide Meta AI in search</li>
+<li>Hide Meta AI questions under posts</li>
+<li>Hide Meta upsells</li>
+<li>Hide post prompts</li>
+<li>Hide posts by words</li>
+<li>Hide profile notes</li>
+<li>Hide profile pictures</li>
+<li>Hide read receipts</li>
+<li>Hide reel interest prompts</li>
+<li>Hide Reels in the feed</li>
+<li>Hide seen posts</li>
+<li>Hide sponsored Marketplace listings</li>
+<li>Hide sponsored posts</li>
+<li>Hide sponsored profile posts</li>
+<li>Hide sponsored reels</li>
+<li>Hide sponsored search results</li>
+<li>Hide sponsored stories</li>
+<li>Hide Stories tray</li>
+<li>Hide story rings</li>
+<li>Hide suggested and promoted posts</li>
+<li>Hide suggested stories</li>
+<li>Hide tab badges</li>
+<li>Hide tabs</li>
+<li>Hide the Feeds header</li>
+<li>Hide the Get Messenger card</li>
+<li>Hide the Reels tab</li>
+<li>Hide the Reels tab dot</li>
+<li>Hide typing indicator</li>
+<li>Hold a reel for 2x</li>
+<li>Hold back analytics uploads</li>
+<li>Home header text</li>
+<li>Hushfacebook in the Menu</li>
+<li>Hushfacebook settings</li>
+<li>Install beside Meta's apps</li>
+<li>Keep feed videos muted</li>
+<li>Keep playing in the background</li>
+<li>Keep post dates</li>
+<li>Keep the progress bar</li>
+<li>Keep the reel speed</li>
+<li>Local profile counts</li>
+<li>Longer music on photo stories</li>
+<li>Marketplace only</li>
+<li>Newest reels first</li>
+<li>Open comments at full height</li>
+<li>Open comments with a gesture</li>
+<li>Open in Facebook from the share menu</li>
+<li>Open links in external browser</li>
+<li>Open Messenger from the top bar</li>
+<li>Open on a chosen tab</li>
+<li>Photo carousel</li>
+<li>Picture-in-picture</li>
+<li>Pinch to zoom</li>
+<li>Post action buttons</li>
+<li>Post menu items</li>
+<li>Remove the gap above Marketplace listings</li>
+<li>Restore screens on re-signed builds</li>
+<li>Resume long videos</li>
+<li>Round stories tray</li>
+<li>Sanitize sharing links</li>
+<li>Saved button in search</li>
+<li>Search date range</li>
+<li>Search posts tab</li>
+<li>See who shared</li>
+<li>Send chat photos and videos at original quality</li>
+<li>Share sheet items</li>
+<li>Share to Facebook chats</li>
+<li>Show full post text</li>
+<li>Show View profile on Marketplace sellers</li>
+<li>Skip location prompts</li>
+<li>Skip silent parts</li>
+<li>Start on x86 devices</li>
+<li>Stop Story auto-advance</li>
+<li>Stop update prompts</li>
+<li>Story viewer taps</li>
+<li>Tab bar at the bottom</li>
+<li>Tag suggestions only after @</li>
+<li>Tap shows the controls</li>
+<li>Tap to play</li>
+<li>Translate posts</li>
+<li>Turn off auto-translation</li>
+<li>Turn off double tap to like</li>
+<li>Turn off haptics</li>
+<li>Turn off HDR brightness</li>
+<li>Turn off screen transitions</li>
+<li>Upload Stories in HD</li>
+<li>Use the phone's emoji</li>
+<li>Use the system font</li>
+<li>Video buffer</li>
+<li>View stories anonymously</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260613](https://github.com/nullcpy/archive/releases/tag/260613) | 2026-11-25 | `588.0.0.42.55` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260613/facebook-hushfacebook-v588.0.0.42.55-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260613/facebook-hushfacebook-v588.0.0.42.55-arm-v7a.apk) |
+
 <details><summary><b>Applied patches: 123</b> . 1 build(s)</summary>
 <ul>
 <li>Accent color</li>
@@ -958,6 +1091,139 @@
 | [260352](https://github.com/nullcpy/archive/releases/tag/260352) | 2026-10-23 | `584.0.0.51.56` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260352/facebook-hushfacebook-v584.0.0.51.56-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260352/facebook-hushfacebook-v584.0.0.51.56-arm-v7a.apk) |
 
 ### Material You
+
+<details><summary><b>Applied patches: 124</b> . 1 build(s)</summary>
+<ul>
+<li>Accent color</li>
+<li>Allow screenshots</li>
+<li>Ask before a like</li>
+<li>Badge and logo colors</li>
+<li>Block ad telemetry</li>
+<li>Block background ad prefetch</li>
+<li>Block background-return feed refresh</li>
+<li>Block Instant Games ads</li>
+<li>Block promotional notifications</li>
+<li>Block screenshot detection</li>
+<li>Chat background</li>
+<li>Clean up Facebook's chat list</li>
+<li>Clean up Reels</li>
+<li>Clean up the story viewer</li>
+<li>Comment sheet options</li>
+<li>Default comment order</li>
+<li>Default playback quality</li>
+<li>Disable Audience Network</li>
+<li>Don't save search history</li>
+<li>Don't send reel watch history</li>
+<li>Double tap to skip</li>
+<li>Download any photo</li>
+<li>Download any reel</li>
+<li>Download any story</li>
+<li>Download any video</li>
+<li>Fold long text</li>
+<li>Following feed on Home</li>
+<li>Force dark mode</li>
+<li>Frame step</li>
+<li>Hide affiliate product links</li>
+<li>Hide AI-detected posts</li>
+<li>Hide carrier data banners</li>
+<li>Hide Menu promotions</li>
+<li>Hide Meta AI comment summaries</li>
+<li>Hide Meta AI in search</li>
+<li>Hide Meta AI questions under posts</li>
+<li>Hide Meta upsells</li>
+<li>Hide post prompts</li>
+<li>Hide posts by words</li>
+<li>Hide profile notes</li>
+<li>Hide profile pictures</li>
+<li>Hide read receipts</li>
+<li>Hide reel interest prompts</li>
+<li>Hide Reels in the feed</li>
+<li>Hide seen posts</li>
+<li>Hide sponsored Marketplace listings</li>
+<li>Hide sponsored posts</li>
+<li>Hide sponsored profile posts</li>
+<li>Hide sponsored reels</li>
+<li>Hide sponsored search results</li>
+<li>Hide sponsored stories</li>
+<li>Hide Stories tray</li>
+<li>Hide story rings</li>
+<li>Hide suggested and promoted posts</li>
+<li>Hide suggested stories</li>
+<li>Hide tab badges</li>
+<li>Hide tabs</li>
+<li>Hide the Feeds header</li>
+<li>Hide the Get Messenger card</li>
+<li>Hide the Reels tab</li>
+<li>Hide the Reels tab dot</li>
+<li>Hide typing indicator</li>
+<li>Hold a reel for 2x</li>
+<li>Hold back analytics uploads</li>
+<li>Home header text</li>
+<li>Hushfacebook in the Menu</li>
+<li>Hushfacebook settings</li>
+<li>Install beside Meta's apps</li>
+<li>Keep feed videos muted</li>
+<li>Keep playing in the background</li>
+<li>Keep post dates</li>
+<li>Keep the progress bar</li>
+<li>Keep the reel speed</li>
+<li>Local profile counts</li>
+<li>Longer music on photo stories</li>
+<li>Marketplace only</li>
+<li>Material You theme</li>
+<li>Newest reels first</li>
+<li>Open comments at full height</li>
+<li>Open comments with a gesture</li>
+<li>Open in Facebook from the share menu</li>
+<li>Open links in external browser</li>
+<li>Open Messenger from the top bar</li>
+<li>Open on a chosen tab</li>
+<li>Photo carousel</li>
+<li>Picture-in-picture</li>
+<li>Pinch to zoom</li>
+<li>Post action buttons</li>
+<li>Post menu items</li>
+<li>Remove the gap above Marketplace listings</li>
+<li>Restore screens on re-signed builds</li>
+<li>Resume long videos</li>
+<li>Round stories tray</li>
+<li>Sanitize sharing links</li>
+<li>Saved button in search</li>
+<li>Search date range</li>
+<li>Search posts tab</li>
+<li>See who shared</li>
+<li>Send chat photos and videos at original quality</li>
+<li>Share sheet items</li>
+<li>Share to Facebook chats</li>
+<li>Show full post text</li>
+<li>Show View profile on Marketplace sellers</li>
+<li>Skip location prompts</li>
+<li>Skip silent parts</li>
+<li>Start on x86 devices</li>
+<li>Stop Story auto-advance</li>
+<li>Stop update prompts</li>
+<li>Story viewer taps</li>
+<li>Tab bar at the bottom</li>
+<li>Tag suggestions only after @</li>
+<li>Tap shows the controls</li>
+<li>Tap to play</li>
+<li>Translate posts</li>
+<li>Turn off auto-translation</li>
+<li>Turn off double tap to like</li>
+<li>Turn off haptics</li>
+<li>Turn off HDR brightness</li>
+<li>Turn off screen transitions</li>
+<li>Upload Stories in HD</li>
+<li>Use the phone's emoji</li>
+<li>Use the system font</li>
+<li>Video buffer</li>
+<li>View stories anonymously</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260613](https://github.com/nullcpy/archive/releases/tag/260613) | 2026-11-25 | `588.0.0.42.55` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260613/facebook-hushfacebook-material-you-v588.0.0.42.55-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260613/facebook-hushfacebook-material-you-v588.0.0.42.55-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 123</b> . 1 build(s)</summary>
 <ul>
