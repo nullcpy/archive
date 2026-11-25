@@ -1,5 +1,21 @@
 # Nova Launcher
 
+## springfurst
+
+### Standard
+
+<details><summary><b>Applied patches: 3</b> . 1 build(s)</summary>
+<ul>
+<li>Disable telemetry</li>
+<li>Enable Prime</li>
+<li>Remove internet &amp; tracking permissions</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260615](https://github.com/nullcpy/archive/releases/tag/260615) | 2026-11-25 | `89700` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260615/nova-launcher-springfurst-v89700-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260615/nova-launcher-springfurst-v89700-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260615/nova-launcher-springfurst-module-v89700-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260615/nova-launcher-springfurst-module-v89700-arm-v7a.zip) |
+
 ## hyzor
 
 ### Standard
