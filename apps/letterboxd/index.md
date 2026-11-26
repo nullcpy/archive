@@ -8,7 +8,7 @@ title: Letterboxd
 
 ### Standard
 
-<details><summary><b>Applied patches: 12</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 12</b> . 2 build(s)</summary>
 <ul>
 <li>Appearance</li>
 <li>Brighter Watched-by stars</li>
@@ -27,6 +27,7 @@ title: Letterboxd
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260621](https://github.com/nullcpy/archive/releases/tag/260621) | 2026-11-26 | `3.6.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260621/letterboxd-mvaishak-v3.6.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260621/letterboxd-mvaishak-v3.6.9-arm-v7a.apk) |
 | [260588](https://github.com/nullcpy/archive/releases/tag/260588) | 2026-11-22 | `3.6.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260588/letterboxd-mvaishak-v3.6.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260588/letterboxd-mvaishak-v3.6.9-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 10</b> . 2 build(s)</summary>
@@ -51,7 +52,7 @@ title: Letterboxd
 
 ### Material You
 
-<details><summary><b>Applied patches: 13</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 13</b> . 2 build(s)</summary>
 <ul>
 <li>Appearance</li>
 <li>Brighter Watched-by stars</li>
@@ -71,6 +72,7 @@ title: Letterboxd
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260621](https://github.com/nullcpy/archive/releases/tag/260621) | 2026-11-26 | `3.6.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260621/letterboxd-mvaishak-material-you-v3.6.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260621/letterboxd-mvaishak-material-you-v3.6.9-arm-v7a.apk) |
 | [260588](https://github.com/nullcpy/archive/releases/tag/260588) | 2026-11-22 | `3.6.9` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260588/letterboxd-mvaishak-material-you-v3.6.9-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260588/letterboxd-mvaishak-material-you-v3.6.9-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 11</b> . 2 build(s)</summary>
