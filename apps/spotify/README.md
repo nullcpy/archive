@@ -1,5 +1,25 @@
 # Spotify
 
+## Spicetify
+
+### Standard
+
+<details><summary><b>Applied patches: 7</b> . 1 build(s)</summary>
+<ul>
+<li>Clean sharing links</li>
+<li>Hide Home and Browse ads</li>
+<li>Hide player ad cards</li>
+<li>Hide Premium tab</li>
+<li>Pin shortcuts on Home</li>
+<li>Spicetify extensions</li>
+<li>Theme colors</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260624](https://github.com/nullcpy/archive/releases/tag/260624) | 2026-11-26 | `9.2.4.2644` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260624/spotify-spicetify-v9.2.4.2644-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260624/spotify-spicetify-v9.2.4.2644-arm-v7a.apk) |
+
 ## pablobaro
 
 ### Standard

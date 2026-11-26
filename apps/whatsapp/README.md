@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 10</b> . 1 build(s)</summary>
+<details><summary><b>Applied patches: 10</b> . 2 build(s)</summary>
 <ul>
 <li>Enable local backup (gates)</li>
 <li>Enable local backup (manifest)</li>
@@ -21,6 +21,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260624](https://github.com/nullcpy/archive/releases/tag/260624) | 2026-11-26 | `2.26.46.82` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260624/whatsapp-mightymich-v2.26.46.82-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260624/whatsapp-mightymich-v2.26.46.82-arm-v7a.apk) |
 | [260575](https://github.com/nullcpy/archive/releases/tag/260575) | 2026-11-19 | `2.26.45.93` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260575/whatsapp-mightymich-v2.26.45.93-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260575/whatsapp-mightymich-v2.26.45.93-arm-v7a.apk) |
 
 <details><summary><b>Applied patches: 7</b> . 1 build(s)</summary>
