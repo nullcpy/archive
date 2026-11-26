@@ -4,7 +4,7 @@
 
 ### Android TV
 
-<details><summary><b>Applied patches: 2</b> . 12 build(s)</summary>
+<details><summary><b>Applied patches: 2</b> . 13 build(s)</summary>
 <ul>
 <li>Disable auto-updates</li>
 <li>Skip ads</li>
@@ -13,6 +13,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260619](https://github.com/nullcpy/archive/releases/tag/260619) | 2026-11-26 | `7.10.102` | APK: [all](https://github.com/nullcpy/archive/releases/download/260619/peacock-ajstrick81-android-tv-v7.10.102-all.apk) |
 | [260604](https://github.com/nullcpy/archive/releases/tag/260604) | 2026-11-24 | `7.10.102` | APK: [all](https://github.com/nullcpy/archive/releases/download/260604/peacock-ajstrick81-android-tv-v7.10.102-all.apk) |
 | [260599](https://github.com/nullcpy/archive/releases/tag/260599) | 2026-11-23 | `7.10.102` | APK: [all](https://github.com/nullcpy/archive/releases/download/260599/peacock-ajstrick81-android-tv-v7.10.102-all.apk) |
 | [260582](https://github.com/nullcpy/archive/releases/tag/260582) | 2026-11-20 | `7.10.102` | APK: [all](https://github.com/nullcpy/archive/releases/download/260582/peacock-ajstrick81-android-tv-v7.10.102-all.apk) |

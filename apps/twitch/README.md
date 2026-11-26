@@ -4,7 +4,7 @@
 
 ### Android TV
 
-<details><summary><b>Applied patches: 1</b> . 11 build(s)</summary>
+<details><summary><b>Applied patches: 1</b> . 12 build(s)</summary>
 <ul>
 <li>Block TV ads</li>
 </ul>
@@ -12,6 +12,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260619](https://github.com/nullcpy/archive/releases/tag/260619) | 2026-11-26 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260619/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260604](https://github.com/nullcpy/archive/releases/tag/260604) | 2026-11-24 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260604/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260582](https://github.com/nullcpy/archive/releases/tag/260582) | 2026-11-20 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260582/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
 | [260571](https://github.com/nullcpy/archive/releases/tag/260571) | 2026-11-19 | `13.0.0.2` | APK: [all](https://github.com/nullcpy/archive/releases/download/260571/twitch-ajstrick81-android-tv-v13.0.0.2-all.apk) |
