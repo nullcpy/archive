@@ -4,7 +4,7 @@
 
 ### Standard
 
-<details><summary><b>Applied patches: 1</b> . 2 build(s)</summary>
+<details><summary><b>Applied patches: 1</b> . 3 build(s)</summary>
 <ul>
 <li>Enable non-HyperOS ROM support</li>
 </ul>
@@ -12,6 +12,7 @@
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260626](https://github.com/nullcpy/archive/releases/tag/260626) | 2026-11-27 | `7.7.9` | APK: [all](https://github.com/nullcpy/archive/releases/download/260626/xiaomi-recorder-bearinmindcat-v7.7.9-all.apk) |
 | [260548](https://github.com/nullcpy/archive/releases/tag/260548) | 2026-11-16 | `7.7.9` | APK: [all](https://github.com/nullcpy/archive/releases/download/260548/xiaomi-recorder-bearinmindcat-v7.7.9-all.apk) |
 | [260446](https://github.com/nullcpy/archive/releases/tag/260446) | 2026-11-02 | `7.7.9` | APK: [all](https://github.com/nullcpy/archive/releases/download/260446/xiaomi-recorder-bearinmindcat-v7.7.9-all.apk) |
 
