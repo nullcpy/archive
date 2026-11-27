@@ -8,6 +8,16 @@ title: Quranify
 
 ### Standard
 
+<details><summary><b>Applied patches: 1</b> . 1 build(s)</summary>
+<ul>
+<li>Unlock premium</li>
+</ul>
+</details>
+
+| Build | Date | Version | Download |
+|---|---|---|---|
+| [260628](https://github.com/nullcpy/archive/releases/tag/260628) | 2026-11-27 | `2.4.0` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260628/quranify-hxreborn-v2.4.0-arm64-v8a.apk) |
+
 <details><summary><b>Applied patches: 1</b> . 2 build(s)</summary>
 <ul>
 <li>Unlock premium</li>
