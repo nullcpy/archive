@@ -104,7 +104,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [TikTok](https://github.com/nullcpy/archive/blob/main/apps/tiktok/README.md) | <time datetime="2026-11-25T08:25:08Z" data-relative>2026-11-25</time> | 120 |
 | [TikTok Lite](https://github.com/nullcpy/archive/blob/main/apps/tiktoklite/README.md) | <time datetime="2026-11-01T20:12:22Z" data-relative>2026-11-01</time> | 3 |
 | [trakt.TV](https://github.com/nullcpy/archive/blob/main/apps/trakttv/README.md) | <time datetime="2026-11-17T18:00:48Z" data-relative>2026-11-17</time> | 6 |
-| [Truecaller](https://github.com/nullcpy/archive/blob/main/apps/truecaller/README.md) | <time datetime="2026-11-26T18:27:47Z" data-relative>2026-11-26</time> | 227 |
+| [Truecaller](https://github.com/nullcpy/archive/blob/main/apps/truecaller/README.md) | <time datetime="2026-11-28T00:14:56Z" data-relative>2026-11-28</time> | 227 |
 | [Tubi](https://github.com/nullcpy/archive/blob/main/apps/tubi/README.md) | <time datetime="2026-11-24T03:07:27Z" data-relative>2026-11-24</time> | 3 |
 | [Twitch](https://github.com/nullcpy/archive/blob/main/apps/twitch/README.md) | <time datetime="2026-11-26T00:39:15Z" data-relative>2026-11-26</time> | 40 |
 | [Twitter](https://github.com/nullcpy/archive/blob/main/apps/twitter/README.md) | <time datetime="2026-11-23T15:51:03Z" data-relative>2026-11-23</time> | 324 |
@@ -113,7 +113,7 @@ Every build NullForge has published, kept permanently. For the newest versions a
 | [VPNify](https://github.com/nullcpy/archive/blob/main/apps/vpnify/README.md) | <time datetime="2026-11-21T20:10:57Z" data-relative>2026-11-21</time> | 9 |
 | [Waze](https://github.com/nullcpy/archive/blob/main/apps/waze/README.md) | <time datetime="2026-11-27T14:45:54Z" data-relative>2026-11-27</time> | 9 |
 | [Web Video Cast](https://github.com/nullcpy/archive/blob/main/apps/webvideocast/README.md) | <time datetime="2026-11-15T19:20:49Z" data-relative>2026-11-15</time> | 2 |
-| [WhatsApp](https://github.com/nullcpy/archive/blob/main/apps/whatsapp/README.md) | <time datetime="2026-11-27T21:46:40Z" data-relative>2026-11-27</time> | 13 |
+| [WhatsApp](https://github.com/nullcpy/archive/blob/main/apps/whatsapp/README.md) | <time datetime="2026-11-27T21:46:40Z" data-relative>2026-11-27</time> | 15 |
 | [Windscribe VPN](https://github.com/nullcpy/archive/blob/main/apps/windscribevpn/README.md) | <time datetime="2026-10-28T18:46:43Z" data-relative>2026-10-28</time> | 5 |
 | [X-plore File Manager](https://github.com/nullcpy/archive/blob/main/apps/xplorefilemanager/README.md) | <time datetime="2026-11-27T00:52:03Z" data-relative>2026-11-27</time> | 3 |
 | [Xiaomi Recorder](https://github.com/nullcpy/archive/blob/main/apps/xiaomirecorder/README.md) | <time datetime="2026-11-27T08:25:45Z" data-relative>2026-11-27</time> | 5 |
