@@ -8,7 +8,7 @@ title: Facebook
 
 ### Standard
 
-<details><summary><b>Applied patches: 20</b> . 4 build(s)</summary>
+<details><summary><b>Applied patches: 20</b> . 5 build(s)</summary>
 <ul>
 <li>[Ad] Block ad telemetry</li>
 <li>[Ad] Block background ad prefetch</li>
@@ -35,6 +35,7 @@ title: Facebook
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260635](https://github.com/nullcpy/archive/releases/tag/260635) | 2026-11-28 | `577.0.0.50.72` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260635/facebook-andrewliang25-v577.0.0.50.72-arm64-v8a.apk) |
 | [260616](https://github.com/nullcpy/archive/releases/tag/260616) | 2026-11-25 | `577.0.0.50.72` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260616/facebook-andrewliang25-v577.0.0.50.72-arm64-v8a.apk) |
 | [260584](https://github.com/nullcpy/archive/releases/tag/260584) | 2026-11-21 | `577.0.0.50.72` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260584/facebook-andrewliang25-v577.0.0.50.72-arm64-v8a.apk) |
 | [260544](https://github.com/nullcpy/archive/releases/tag/260544) | 2026-11-15 | `577.0.0.50.72` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260544/facebook-andrewliang25-v577.0.0.50.72-arm64-v8a.apk) |

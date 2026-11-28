@@ -8,7 +8,7 @@ title: YouTube Music
 
 ### Experimental
 
-<details><summary><b>Applied patches: 62</b> . 5 build(s)</summary>
+<details><summary><b>Applied patches: 62</b> . 6 build(s)</summary>
 <ul>
 <li>A-B loop</li>
 <li>Android Auto</li>
@@ -77,6 +77,7 @@ title: YouTube Music
 
 | Build | Date | Version | Download |
 |---|---|---|---|
+| [260634](https://github.com/nullcpy/archive/releases/tag/260634) 🧪 | 2026-11-28 | `9.47.52` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260634/youtube-music-morphe-experimental-v9.47.52-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260634/youtube-music-morphe-experimental-v9.47.52-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260634/youtube-music-morphe-experimental-module-v9.47.52-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260634/youtube-music-morphe-experimental-module-v9.47.52-arm-v7a.zip) |
 | [260627](https://github.com/nullcpy/archive/releases/tag/260627) 🧪 | 2026-11-27 | `9.47.52` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260627/youtube-music-morphe-experimental-v9.47.52-arm64-v8a.apk) • [arm](https://github.com/nullcpy/archive/releases/download/260627/youtube-music-morphe-experimental-v9.47.52-arm-v7a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260627/youtube-music-morphe-experimental-module-v9.47.52-arm64-v8a.zip) • [arm](https://github.com/nullcpy/archive/releases/download/260627/youtube-music-morphe-experimental-module-v9.47.52-arm-v7a.zip) |
 | [260622](https://github.com/nullcpy/archive/releases/tag/260622) | 2026-11-26 | `9.47.51` | APK: [arm64](https://github.com/nullcpy/archive/releases/download/260622/youtube-music-morphe-experimental-v9.47.51-arm64-v8a.apk) · Module: [arm64](https://github.com/nullcpy/archive/releases/download/260622/youtube-music-morphe-experimental-module-v9.47.51-arm64-v8a.zip) |
 | [260622](https://github.com/nullcpy/archive/releases/tag/260622) | 2026-11-26 | `9.46.51` | APK: [arm](https://github.com/nullcpy/archive/releases/download/260622/youtube-music-morphe-experimental-v9.46.51-arm-v7a.apk) · Module: [arm](https://github.com/nullcpy/archive/releases/download/260622/youtube-music-morphe-experimental-module-v9.46.51-arm-v7a.zip) |
